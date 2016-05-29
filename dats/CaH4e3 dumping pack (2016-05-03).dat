@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>CaH4e3's set</name>
+		<description>CaH4e3 dumping pack</description>
+		<category>Standard DatFile</category>
+		<version>2016-05-03</version>
+		<date>2016-05-03</date>
+		<author>CaH4e3</author>
+		<email>-insert email-</email>
+		<homepage>http://cah4e3.shedevr.org.ru</homepage>
+		<url>http://cah4e3.shedevr.org.ru/dumping_list_time.php</url>
+		<comment>Dat by s1n</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="10-in-1 Omake Game (FC Mobile)[U][!]">
+		<description>10-in-1 Omake Game (FC Mobile)[U][!]</description>
+		<rom name="10-in-1 Omake Game (FC Mobile)[U][!].nes" size="2097262" crc="3bd72067" md5="f1ef607b88f1606b4ce2235b7521fddb" sha1="545d692bccefd7b66a1c1bb814a5d7479d7feee8"/>
+	</machine>
+	<machine name="100-in-1 (D-CAT8 8bit Console, v5.01.11-frd, BL 20041217)(Unl)[U][!]">
+		<description>100-in-1 (D-CAT8 8bit Console, v5.01.11-frd, BL 20041217)(Unl)[U][!]</description>
+		<rom name="100-in-1 (D-CAT8 8bit Console, v5.01.11-frd, BL 20041217)(Unl)[U][!].nes" size="8388750" crc="126c33c3" md5="f564e2d9e942d9eaf4e7e85305e14455" sha1="38c393361f7a4c141ccb9bbc227487e46a9c2b6d"/>
+	</machine>
+	<machine name="100-in-1 (MG109)[p1][!]">
+		<description>100-in-1 (MG109)[p1][!]</description>
+		<rom name="100-in-1 (MG109)[p1][!].nes" size="196624" crc="c3ccab9b" md5="f8404d7a6cf46eb3944ff25f17ac9fc5" sha1="64e72243aa2a43fc3a0b532fe3a3dc4447e8378f"/>
+	</machine>
+	<machine name="100-in-1 Arcade Action II (AT-103)(Unl)[U][!]">
+		<description>100-in-1 Arcade Action II (AT-103)(Unl)[U][!]</description>
+		<rom name="100-in-1 Arcade Action II (AT-103)(Unl)[U][!].nes" size="4194423" crc="50b470fa" md5="f148e52fd94613fd43fcafb9feb90587" sha1="e939ef4d8efa55ea55a81dde9c2579111f3e92b9"/>
+	</machine>
+	<machine name="100-in-1 Games [p1][!]">
+		<description>100-in-1 Games [p1][!]</description>
+		<rom name="100-in-1 Games [p1][!].nes" size="2097168" crc="43e92003" md5="a6a7f675440ed847ed5a3366e86b52c5" sha1="c022572934bdf2157f40a9589e25302aa8150751"/>
+	</machine>
+	<machine name="10000000-in-1 [p1][!]">
+		<description>10000000-in-1 [p1][!]</description>
+		<rom name="10000000-in-1 [p1][!].nes" size="196624" crc="d805c77f" md5="fd3b8d3cf07347cb7aad780ff03088a8" sha1="e3bb00b0859ca7070e354a659488aa7094554a75"/>
+	</machine>
+	<machine name="101-in-1 Games [p1][!]">
+		<description>101-in-1 Games [p1][!]</description>
+		<rom name="101-in-1 Games [p1][!].nes" size="4194320" crc="1aae3615" md5="0241dbbf02617981ac0937d7d0350bea" sha1="a3205a336a2e175aaa9f3de3e227daf3aa0509e3"/>
+	</machine>
+	<machine name="101-in-1 Games [p1][b1]">
+		<description>101-in-1 Games [p1][b1]</description>
+		<rom name="101-in-1 Games [p1][b1].nes" size="2097168" crc="43e92003" md5="a6a7f675440ed847ed5a3366e86b52c5" sha1="c022572934bdf2157f40a9589e25302aa8150751"/>
+	</machine>
+	<machine name="106-in-1 [p1]">
+		<description>106-in-1 [p1]</description>
+		<rom name="106-in-1 [p1].nes" size="196624" crc="1e6bbc56" md5="7886495efd38d44d0029cb9c0399c7c2" sha1="29f8c729ba5892dbb37d079f8644f7b58269ac00"/>
+	</machine>
+	<machine name="110-in-1 [p1][!]">
+		<description>110-in-1 [p1][!]</description>
+		<rom name="110-in-1 [p1][!].nes" size="3145744" crc="a7028b59" md5="f533034006844e597b422c0652cdd68a" sha1="e5b4701c3c6f0e89883c32d8a2a61d5403c0f95b"/>
+	</machine>
+	<machine name="116-in-1 (GK-192 board) [!]">
+		<description>116-in-1 (GK-192 board) [!]</description>
+		<rom name="116-in-1 (GK-192 board) [!].nes" size="196624" crc="7ded1751" md5="9260d7ab5cdeebf7dab9f1ccd9525f0f" sha1="2ff217c10547e5ef3cfaf720b723e4d3a5122abb"/>
+	</machine>
+	<machine name="118-in-1 (GK-192 board) [!]">
+		<description>118-in-1 (GK-192 board) [!]</description>
+		<rom name="118-in-1 (GK-192 board) [!].nes" size="196624" crc="4a4e3d11" md5="6c0c95da33691ae2192b1668f05a7e1c" sha1="910479406128452fad6d3830429b27a40033527a"/>
+	</machine>
+	<machine name="12-in-1 Console TV Game Cartridge (Unl)[!]">
+		<description>12-in-1 Console TV Game Cartridge (Unl)[!]</description>
+		<rom name="12-in-1 Console TV Game Cartridge (Unl)[!].nes" size="2097168" crc="85dc0abf" md5="877b1ce15e6ae765c2da51022b3ffc73" sha1="e16a3206bd164317a78fe6b5c0b509f9a72c20f6"/>
+	</machine>
+	<machine name="1200-in-1 [p1]">
+		<description>1200-in-1 [p1]</description>
+		<rom name="1200-in-1 [p1].nes" size="196624" crc="1af747bc" md5="7007e63553b88c8bab0490da9ea0a731" sha1="8687e1ae6824f75d7d76a2b7ea775e5b8491895c"/>
+	</machine>
+	<machine name="125-in-1 [p1][!]">
+		<description>125-in-1 [p1][!]</description>
+		<rom name="125-in-1 [p1][!].nes" size="3145744" crc="209e3b9f" md5="e78a9e7e146b77267d356fb013532d40" sha1="135b065e69e81e15cb84b861b58908050a539598"/>
+	</machine>
+	<machine name="138-in-1 CoolBaby (CoolBoy RS-5, PCB060-10009011V1.3)(Unl)[U][!]">
+		<description>138-in-1 CoolBaby (CoolBoy RS-5, PCB060-10009011V1.3)(Unl)[U][!]</description>
+		<rom name="138-in-1 CoolBaby (CoolBoy RS-5, PCB060-10009011V1.3)(Unl)[U][!].nes" size="4194442" crc="fc8cf552" md5="3d3d5be806bfe175d66585cfde67fbb6" sha1="64721ec1578514093b46dd004d9fcec2a42d5756"/>
+	</machine>
+	<machine name="15-in-1 (GA23C8003 PCB)[p1][!]">
+		<description>15-in-1 (GA23C8003 PCB)[p1][!]</description>
+		<rom name="15-in-1 (GA23C8003 PCB)[p1][!].nes" size="1048592" crc="6128c9f8" md5="a10ed44b65d24dad6914420394778d0b" sha1="809ca5f9c11e107a54303b39d068046f851ae9a5"/>
+	</machine>
+	<machine name="15-in-1 (GA23C8003 PCB)[p2][!]">
+		<description>15-in-1 (GA23C8003 PCB)[p2][!]</description>
+		<rom name="15-in-1 (GA23C8003 PCB)[p2][!].nes" size="1048592" crc="72c1c894" md5="8e10fd9ba85cbaacbeab3ff279928e34" sha1="e7d985b588fd70acbfda31053ba6804e72db2ee5"/>
+	</machine>
+	<machine name="15-in-1 [p2]">
+		<description>15-in-1 [p2]</description>
+		<rom name="15-in-1 [p2].nes" size="1048592" crc="f668b133" md5="10ac93c5716cca280a6d1833a4d93c28" sha1="a3d7da41c609f31fbf428f02cd1533820085fb67"/>
+	</machine>
+	<machine name="150-in-1 (Mapper 202) [p2][!]">
+		<description>150-in-1 (Mapper 202) [p2][!]</description>
+		<rom name="150-in-1 (Mapper 202) [p2][!].nes" size="196624" crc="55e99e72" md5="c775a8ec34a8830a416f7099788d5baa" sha1="7d3c0f5cee7a858bd86e2f1b88f80a2300bc132b"/>
+	</machine>
+	<machine name="150-in-1 [p1]">
+		<description>150-in-1 [p1]</description>
+		<rom name="150-in-1 [p1].nes" size="188432" crc="3652989a" md5="9e412f37f79201c8c3c01158457d0ab1" sha1="7be1e73828b8d98f4b4949c6a02c3c0964c06ac2"/>
+	</machine>
+	<machine name="150-in-1 Unchained Melody (FIGHT 150 ver LOVE)[p1][U][!]">
+		<description>150-in-1 Unchained Melody (FIGHT 150 ver LOVE)[p1][U][!]</description>
+		<rom name="150-in-1 Unchained Melody (FIGHT 150 ver LOVE)[p1][U][!].nes" size="524414" crc="17933a74" md5="c1af555050452d0212c8d217154cb0ea" sha1="e554a45a53c5bb546dd7443ee677fc11c75fb899"/>
+	</machine>
+	<machine name="1994 Super HIK 14-in-1 (G-136)[p1][U][!]">
+		<description>1994 Super HIK 14-in-1 (G-136)[p1][U][!]</description>
+		<rom name="1994 Super HIK 14-in-1 (G-136)[p1][U][!].nes" size="524401" crc="0d157543" md5="3a2c366bef2d8c848f80f4effb1f4811" sha1="98f1f92805c6b6c59e1b734b307f93b62929fcab"/>
+	</machine>
+	<machine name="1997 Super HIK 4-in-1 (JY-052) [p1][!]">
+		<description>1997 Super HIK 4-in-1 (JY-052) [p1][!]</description>
+		<rom name="1997 Super HIK 4-in-1 (JY-052) [p1][!].nes" size="1048592" crc="6497259b" md5="35536996714007184e24e2c7b8a41300" sha1="d686d6be8d0fdef05a9fff0e99889e64a294b5eb"/>
+	</machine>
+	<machine name="1997-in-1 [p1][!]">
+		<description>1997-in-1 [p1][!]</description>
+		<rom name="1997-in-1 [p1][!].nes" size="196624" crc="e827c2ba" md5="3ef33e6c903feda2d7c77067c4e0b435" sha1="7cc90726ebbc0e6d859bec234db5ac060ff80cf5"/>
+	</machine>
+	<machine name="2-in-1 1996 Super HIK Gold Card (NT-803)[p1][!]">
+		<description>2-in-1 1996 Super HIK Gold Card (NT-803)[p1][!]</description>
+		<rom name="2-in-1 1996 Super HIK Gold Card (NT-803)[p1][!].nes" size="1048592" crc="f56040a9" md5="3d9771d405a2b4b38aa6d74a66f5012a" sha1="ed50425b780b22d58b84abeebddd63bc50e4d5ef"/>
+	</machine>
+	<machine name="2-in-1 Cosmo Cop (Light gun) (Sachen) [U][!]">
+		<description>2-in-1 Cosmo Cop (Light gun) (Sachen) [U][!]</description>
+		<rom name="2-in-1 Cosmo Cop (Light gun) (Sachen) [U][!].nes" size="131198" crc="0b889dad" md5="915c71a2d7e87e6134cc0b87d83d0a88" sha1="acc01149108010328c2839783c09b030650696a8"/>
+	</machine>
+	<machine name="2-in-1 J-M2 (Unl)[!]">
+		<description>2-in-1 J-M2 (Unl)[!]</description>
+		<rom name="2-in-1 J-M2 (Unl)[!].nes" size="1048592" crc="5b58e0ab" md5="7f1df0e1d1e2ce7e53663ee873195957" sha1="d8afa87d888990d0553c9979072cfb968485154e"/>
+	</machine>
+	<machine name="2-in-1 King005 (Unl)[!]">
+		<description>2-in-1 King005 (Unl)[!]</description>
+		<rom name="2-in-1 King005 (Unl)[!].nes" size="1048592" crc="29ac81be" md5="79bf719d294541508a5c9c5079aa7f9b" sha1="fdc4b64f9d981bf024c93c0bf39c332e2189eb2e"/>
+	</machine>
+	<machine name="2-in-1 Sonic 5 + Earth Worm Jim 3 (Unl)[U][!]">
+		<description>2-in-1 Sonic 5 + Earth Worm Jim 3 (Unl)[U][!]</description>
+		<rom name="2-in-1 Sonic 5 + Earth Worm Jim 3 (Unl)[U][!].nes" size="1048702" crc="77b7526d" md5="3ecf445829383ffbdc6979e5fd6366e3" sha1="5d0f3ed2b90c049b1ffab85bcc7f0e5fef9e1fb6"/>
+	</machine>
+	<machine name="2-in-1 Street Dance + Hit Mouse (Unl) [U][!]">
+		<description>2-in-1 Street Dance + Hit Mouse (Unl) [U][!]</description>
+		<rom name="2-in-1 Street Dance + Hit Mouse (Unl) [U][!].nes" size="2097265" crc="7de74998" md5="7d64a45bdaf05a75d942b53b52b2163d" sha1="43f117db782acb69a3a9c2bcc36f3a4a223fdd2e"/>
+	</machine>
+	<machine name="2-in-1 Super 808 (Unl)[p1][!]">
+		<description>2-in-1 Super 808 (Unl)[p1][!]</description>
+		<rom name="2-in-1 Super 808 (Unl)[p1][!].nes" size="1048592" crc="62a7fc32" md5="ab433c77540359149b3cc74f800f4c66" sha1="10cd1074cb09e4d3f27b5b53f6ce79af36503c77"/>
+	</machine>
+	<machine name="2-in-1 Tough Cop (Light gun) (Sachen) [U][!]">
+		<description>2-in-1 Tough Cop (Light gun) (Sachen) [U][!]</description>
+		<rom name="2-in-1 Tough Cop (Light gun) (Sachen) [U][!].nes" size="131209" crc="a5769f1a" md5="56d9d6c97c32e0686967d40246509087" sha1="d1d8c159a4113a7f475a119d7e0adc795e381a95"/>
+	</machine>
+	<machine name="20-in-1 (15in1, 80in1, 160in1) [p1][U][!]">
+		<description>20-in-1 (15in1, 80in1, 160in1) [p1][U][!]</description>
+		<rom name="20-in-1 (15in1, 80in1, 160in1) [p1][U][!].nes" size="393330" crc="03b2f65e" md5="766658eba8c9dc11d4d106abb16611e2" sha1="ce7ce190325215ac0e7649ad0e12ce55da58027d"/>
+	</machine>
+	<machine name="200-in-1 (Unchained Melody)[p1][!]">
+		<description>200-in-1 (Unchained Melody)[p1][!]</description>
+		<rom name="200-in-1 (Unchained Melody)[p1][!].nes" size="196624" crc="965525e7" md5="c366cbc93fc131aac6d8aecacb6c406a" sha1="27f7213747ee143d03a4236737dce307bf7f961c"/>
+	</machine>
+	<machine name="200-in-1 - Elfland (Unl)[U][!]">
+		<description>200-in-1 - Elfland (Unl)[U][!]</description>
+		<rom name="200-in-1 - Elfland (Unl)[U][!].nes" size="393333" crc="b7f03009" md5="aad2e7bc4e1da2ddc7f91b44bb8181a9" sha1="af767130ec844ab7fe5952e4ac1cfcfe8b53ba71"/>
+	</machine>
+	<machine name="2000-in-1 (No splash, no rev, Alt mapper)[p1][!]">
+		<description>2000-in-1 (No splash, no rev, Alt mapper)[p1][!]</description>
+		<rom name="2000-in-1 (No splash, no rev, Alt mapper)[p1][!].nes" size="196624" crc="bee3f9bb" md5="7039152da60f9a9f23d44d136502145d" sha1="cc70dfe6d9049bcc689d7e64d62f8f0091316015"/>
+	</machine>
+	<machine name="2000-in-1 [p1][!]">
+		<description>2000-in-1 [p1][!]</description>
+		<rom name="2000-in-1 [p1][!].nes" size="524304" crc="b49546c1" md5="f57a78f5f5a644aa0ffaa4fcaa1c071e" sha1="a47e9657a03f752ded988f6ba3a1d13d48dab115"/>
+	</machine>
+	<machine name="21-in-1 [2006-CA]">
+		<description>21-in-1 [2006-CA]</description>
+		<rom name="21-in-1 [2006-CA].nes" size="163856" crc="b5b6f87e" md5="75fff1cc1820be0cf19b3e3a650d4d17" sha1="3be14ca831cde5c082b822d8e3303a954af88ae6"/>
+	</machine>
+	<machine name="23 plus 222-in-1 (Unl)[U][!]">
+		<description>23 plus 222-in-1 (Unl)[U][!]</description>
+		<rom name="23 plus 222-in-1 (Unl)[U][!].nes" size="16777318" crc="e483152a" md5="855f0bb6082c6004c0726f42ce859e29" sha1="fe95f57a5538665a515f01814dff5efa5f423980"/>
+	</machine>
+	<machine name="260-in-1 [p1][!]">
+		<description>260-in-1 [p1][!]</description>
+		<rom name="260-in-1 [p1][!].nes" size="4194320" crc="0e9dd07d" md5="3aa62d323a67387009d8ed96f75aa31f" sha1="948af64e07b2bf8882abf59c4895c25517916f9a"/>
+	</machine>
+	<machine name="3-in-1 (8096 PCB)[p1][!]">
+		<description>3-in-1 (8096 PCB)[p1][!]</description>
+		<rom name="3-in-1 (8096 PCB)[p1][!].nes" size="1048592" crc="496b1198" md5="66280f557362631cf331eff23f5af085" sha1="0af0a3c0f48fb6a3b064b16194dbff0f06f636d5"/>
+	</machine>
+	<machine name="3-in-1 (BN096)[p1][!]">
+		<description>3-in-1 (BN096)[p1][!]</description>
+		<rom name="3-in-1 (BN096)[p1][!].nes" size="1048592" crc="f1a0f619" md5="8f8e92aed4426c86f8531eb51a448c09" sha1="18376bf995aa0810088e624b20320fa5fff20c10"/>
+	</machine>
+	<machine name="3-in-1 (K3011)[p1][!]">
+		<description>3-in-1 (K3011)[p1][!]</description>
+		<rom name="3-in-1 (K3011)[p1][!].nes" size="1048592" crc="478df968" md5="511f52b956ad706f5b03a5d08ea0eeda" sha1="0669d850619dd60a6a2a972719bf4a41ed456625"/>
+	</machine>
+	<machine name="3-in-1 (MR028)[p1][!]">
+		<description>3-in-1 (MR028)[p1][!]</description>
+		<rom name="3-in-1 (MR028)[p1][!].nes" size="1048592" crc="0c6fbbee" md5="9aea8c7b8ac7e7a3eff60dea9f57ffeb" sha1="83e39a25d84a23f843e919a40e3bfd811c2a8a9f"/>
+	</machine>
+	<machine name="3-in-1 (MR029)[p1][!]">
+		<description>3-in-1 (MR029)[p1][!]</description>
+		<rom name="3-in-1 (MR029)[p1][!].nes" size="1048592" crc="91f83928" md5="47210022e638749a7e827d9d6e3c7529" sha1="fa3e45d524c4a71a27ff1fb6b77d227418d68dd3"/>
+	</machine>
+	<machine name="3-in-1 (N068) [p1][U][!]">
+		<description>3-in-1 (N068) [p1][U][!]</description>
+		<rom name="3-in-1 (N068) [p1][U][!].nes" size="524377" crc="faa017aa" md5="0c17cae4f4a4e25d62dafcad4db06ed9" sha1="7267945f84e6886f2dec94aef6cfa2ab2e00885e"/>
+	</machine>
+	<machine name="3-in-1 [p2]">
+		<description>3-in-1 [p2]</description>
+		<rom name="3-in-1 [p2].nes" size="1048592" crc="85bf3391" md5="a4d52126ffc64365ecc968f1a46289af" sha1="0ba540125d6f63b993f14b88f43edb6f7059c81c"/>
+	</machine>
+	<machine name="3-in-1 Lion King 5, The (Unl)[U][!]">
+		<description>3-in-1 Lion King 5, The (Unl)[U][!]</description>
+		<rom name="3-in-1 Lion King 5, The (Unl)[U][!].nes" size="1048692" crc="092cfca9" md5="327df77532381b46a4ed576ab49b0ff3" sha1="036ced136d8d4a9c1afc25d1faa7e6ddaa183756"/>
+	</machine>
+	<machine name="300-in-1 (Mapper 202) [p1][!]">
+		<description>300-in-1 (Mapper 202) [p1][!]</description>
+		<rom name="300-in-1 (Mapper 202) [p1][!].nes" size="196624" crc="83e3e7ab" md5="bc1dfe025242490b046ad8efed85cbe6" sha1="4076460e2a6fb1a4d1df0642b92c98c8ea3fc9aa"/>
+	</machine>
+	<machine name="35-in-1 [p1]">
+		<description>35-in-1 [p1]</description>
+		<rom name="35-in-1 [p1].nes" size="98320" crc="d9499d7d" md5="1bf7904c16d2376a8056e677586f9293" sha1="9cf521543c900ea3493dbfe0a9513e067c3c80e1"/>
+	</machine>
+	<machine name="36-in-1 [p1]">
+		<description>36-in-1 [p1]</description>
+		<rom name="36-in-1 [p1].nes" size="196624" crc="9db89759" md5="fe28415d4117a84d8921f024ae8c7b68" sha1="1911204ecbd90d13b17a8e67f3865a571307dd45"/>
+	</machine>
+	<machine name="4-in-1 (411120-C) [p1][U][!]">
+		<description>4-in-1 (411120-C) [p1][U][!]</description>
+		<rom name="4-in-1 (411120-C) [p1][U][!].nes" size="1048680" crc="58d5423e" md5="764caf6795f8b4ef06fc2d8e7b8eddbf" sha1="d4405826f866d901e8fea13dbde21ef7982f9db4"/>
+	</machine>
+	<machine name="4-in-1 (BS-8088)[p1][!]">
+		<description>4-in-1 (BS-8088)[p1][!]</description>
+		<rom name="4-in-1 (BS-8088)[p1][!].nes" size="2097168" crc="5e952f3e" md5="e42f369112ed5f3ca4b3997d56c2d40f" sha1="86cf125d943e071a67eb1dfd8137bd48695a1a89"/>
+	</machine>
+	<machine name="4-in-1 (D-010) [p1][U][!]">
+		<description>4-in-1 (D-010) [p1][U][!]</description>
+		<rom name="4-in-1 (D-010) [p1][U][!].nes" size="524376" crc="d314f6f4" md5="bcfb5646feee8736e3e645d4f55573a4" sha1="96cfa09e41e32697255c652eef82dd06fdac86c5"/>
+	</machine>
+	<machine name="4-in-1 (ET40, 821243c)[p1][U](!)">
+		<description>4-in-1 (ET40, 821243c)[p1][U](!)</description>
+		<rom name="4-in-1 (ET40, 821243c)[p1][U](!).nes" size="524393" crc="da711927" md5="74fe84eb47797105d218db714a594804" sha1="77d031697619d135e637ab1a807cd742d7cbc795"/>
+	</machine>
+	<machine name="4-in-1 (FK-8008)[p1][!]">
+		<description>4-in-1 (FK-8008)[p1][!]</description>
+		<rom name="4-in-1 (FK-8008)[p1][!].nes" size="1048592" crc="cadcc89d" md5="12fecef7b971d3746d41311031b663b0" sha1="f892d2cb14cb3c6d401c63e764f4f666fec793ad"/>
+	</machine>
+	<machine name="4-in-1 (FK-8050)[p1][!]">
+		<description>4-in-1 (FK-8050)[p1][!]</description>
+		<rom name="4-in-1 (FK-8050)[p1][!].nes" size="2097168" crc="e86a6a75" md5="b4d16d8b9368cb14c27f4ea195f0cd91" sha1="68db13f6ea864a4895d75d45109e05b0ded75dba"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8021)[p1][!]">
+		<description>4-in-1 (FK23C8021)[p1][!]</description>
+		<rom name="4-in-1 (FK23C8021)[p1][!].nes" size="2097168" crc="bd927a06" md5="efa2a6d0901d73df859595107cfddbc7" sha1="4dfe408cfb0fc3b16ea7a89a3cc68cdaaece1a69"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8026) [p1][!]">
+		<description>4-in-1 (FK23C8026) [p1][!]</description>
+		<rom name="4-in-1 (FK23C8026) [p1][!].nes" size="2097168" crc="18d21305" md5="be9c027f0c567f848868f68e24290bac" sha1="dc44b61e0e70bf7662cbee56a0ce33719d8faec4"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8033)[p1][!]">
+		<description>4-in-1 (FK23C8033)[p1][!]</description>
+		<rom name="4-in-1 (FK23C8033)[p1][!].nes" size="2097168" crc="30be714d" md5="3530d92d98a291c680aa73bd4524b47c" sha1="3595b2f402b40b6ad35e3cb241035f1787a4ae30"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8043)[p1][!]">
+		<description>4-in-1 (FK23C8043)[p1][!]</description>
+		<rom name="4-in-1 (FK23C8043)[p1][!].nes" size="2097168" crc="3de7bef1" md5="3de8195e1247d9e8c56f02f3d790be18" sha1="7dae85d8d3139e5a8fdd34ccc4ea78fb0acf6bc5"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8045) [p1][!]">
+		<description>4-in-1 (FK23C8045) [p1][!]</description>
+		<rom name="4-in-1 (FK23C8045) [p1][!].nes" size="2097168" crc="0e167409" md5="caadb5110cdea1c4af49338254f019a4" sha1="c99727088a589a93f4f5cbff5e9123b439698477"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8052)[p1][!]">
+		<description>4-in-1 (FK23C8052)[p1][!]</description>
+		<rom name="4-in-1 (FK23C8052)[p1][!].nes" size="2097168" crc="95adc35b" md5="d27b28a6d44549c061ea45d53b6e3e77" sha1="13105f433180824f62c6951373a2b208a849b6d5"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8056) [p1][!]">
+		<description>4-in-1 (FK23C8056) [p1][!]</description>
+		<rom name="4-in-1 (FK23C8056) [p1][!].nes" size="2097168" crc="27335d0a" md5="891d7782b219a37d471c2552911aa25c" sha1="27582e938c1a9b4d42949d1e1ae68301d35d7602"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8078) [p1][U][!]">
+		<description>4-in-1 (FK23C8078) [p1][U][!]</description>
+		<rom name="4-in-1 (FK23C8078) [p1][U][!].nes" size="2097252" crc="125c8488" md5="d57003d63a8dda1b6ff3fa9629c4b1bb" sha1="4beebfc6fe03eba4c4239406cce98378ab9c3541"/>
+	</machine>
+	<machine name="4-in-1 (FK23C8244) [p1][U][!]">
+		<description>4-in-1 (FK23C8244) [p1][U][!]</description>
+		<rom name="4-in-1 (FK23C8244) [p1][U][!].nes" size="2097254" crc="d3b0b6c6" md5="ea454486bd41b5e260494f8e155c2771" sha1="22c133515a46f7ac50051fbf029e7e52105b15da"/>
+	</machine>
+	<machine name="4-in-1 (FK23Cxxxx, S-0210A PCB)[p1][!]">
+		<description>4-in-1 (FK23Cxxxx, S-0210A PCB)[p1][!]</description>
+		<rom name="4-in-1 (FK23Cxxxx, S-0210A PCB)[p1][!].nes" size="1048592" crc="3502ec27" md5="ee2b91adba5d6d8d2de73cfe08a2b58b" sha1="16db117edbd39bfb95707fd8e01bfa2826c5fda3"/>
+	</machine>
+	<machine name="4-in-1 (GG1, 820916c, 3967, CK-001, Alt_Dump)[p1][U][!]">
+		<description>4-in-1 (GG1, 820916c, 3967, CK-001, Alt_Dump)[p1][U][!]</description>
+		<rom name="4-in-1 (GG1, 820916c, 3967, CK-001, Alt_Dump)[p1][U][!].nes" size="524415" crc="9110fafa" md5="dd41f75575d6669a99bc972fa0e6148b" sha1="01ee1f95c05de91ee47f964e70d5ee34f31fcd2f"/>
+	</machine>
+	<machine name="4-in-1 (JY-066) [p1][U][!]">
+		<description>4-in-1 (JY-066) [p1][U][!]</description>
+		<rom name="4-in-1 (JY-066) [p1][U][!].nes" size="524379" crc="abce31e7" md5="2126fa36e298f7130047d5e7bd37dc83" sha1="50c684b823685dfb4421cfffd2f53f4894a38ae1"/>
+	</machine>
+	<machine name="4-in-1 (K4033)[p1][!]">
+		<description>4-in-1 (K4033)[p1][!]</description>
+		<rom name="4-in-1 (K4033)[p1][!].nes" size="1048592" crc="fe85473d" md5="4ff2601dc1a6ae8e76c5141fea562631" sha1="0051f88141e2cd8fb02b4de749900b717bbe9a71"/>
+	</machine>
+	<machine name="4-in-1 (K4303)[p1][!]">
+		<description>4-in-1 (K4303)[p1][!]</description>
+		<rom name="4-in-1 (K4303)[p1][!].nes" size="1048592" crc="a1c85189" md5="7f0c426ac591699b99d9211ce8b800fe" sha1="7b0c094874e9a1873682fc0119e3eacf2fdffe72"/>
+	</machine>
+	<machine name="4-in-1 (KT-3445AB)[p1]">
+		<description>4-in-1 (KT-3445AB)[p1]</description>
+		<rom name="4-in-1 (KT-3445AB)[p1].nes" size="1048592" crc="d044638e" md5="452fc903e8cbb3af516077ab3087e2c2" sha1="e2aa07db91ac38f4fc51500f7fab2da048019ab8"/>
+	</machine>
+	<machine name="4-in-1 (OK-411)[p1][!]">
+		<description>4-in-1 (OK-411)[p1][!]</description>
+		<rom name="4-in-1 (OK-411)[p1][!].nes" size="1048592" crc="05a1d5ab" md5="269fb8a19b192d6b421bf1459583be72" sha1="1ecf591e0ab6d3acaa482bed1d7f5edc18e3ab0a"/>
+	</machine>
+	<machine name="4-in-1 (VT087)[p1][!]">
+		<description>4-in-1 (VT087)[p1][!]</description>
+		<rom name="4-in-1 (VT087)[p1][!].nes" size="1048592" crc="24098d2a" md5="e9ebbabdfbe6887f4d77c1072c0ca119" sha1="b58f03ab7c8884704e0198c680e63dcfb9a88bf1"/>
+	</machine>
+	<machine name="4-in-1 (VT089)[p1][!]">
+		<description>4-in-1 (VT089)[p1][!]</description>
+		<rom name="4-in-1 (VT089)[p1][!].nes" size="1048592" crc="7f6d4c3a" md5="bf2f57a869841515becf19db571ce0fc" sha1="c99ea98a41627e80c9dc26c6c279c1b5743f2060"/>
+	</machine>
+	<machine name="4-in-1 (VTxxx, 0208 PCB)[p1][!]">
+		<description>4-in-1 (VTxxx, 0208 PCB)[p1][!]</description>
+		<rom name="4-in-1 (VTxxx, 0208 PCB)[p1][!].nes" size="1048592" crc="60c2f183" md5="ab503700098ae140bca3c4a3e839c041" sha1="58977ae8d92349d0775f032fcfbaa23bf29e4d8d"/>
+	</machine>
+	<machine name="4-in-1 (YH441)[p1][!]">
+		<description>4-in-1 (YH441)[p1][!]</description>
+		<rom name="4-in-1 (YH441)[p1][!].nes" size="1048592" crc="8fc4ddcb" md5="194fd3f20912be9a851a062b30274a75" sha1="a5129a18d1ef0052625b585e7a5a2f1f4d1cab60"/>
+	</machine>
+	<machine name="4-in-1 1993 (CK-001)[U][!]">
+		<description>4-in-1 1993 (CK-001)[U][!]</description>
+		<rom name="4-in-1 1993 (CK-001)[U][!].nes" size="524413" crc="39367d3f" md5="d208b3e04834f734a530f3ae28566539" sha1="e2561a9631eb9081aeacdae18c455962dff8e1ae"/>
+	</machine>
+	<machine name="4-in-1 Benshieng (BS-7083)[U][!]">
+		<description>4-in-1 Benshieng (BS-7083)[U][!]</description>
+		<rom name="4-in-1 Benshieng (BS-7083)[U][!].nes" size="262253" crc="5ac75600" md5="4a06f68cb60ecd54569b3ccccd4b070e" sha1="0eeba4e8a0ddd5a602953e9bd4042d449f5f648f"/>
+	</machine>
+	<machine name="4-in-1 Benshieng (BS-7090)[U][!]">
+		<description>4-in-1 Benshieng (BS-7090)[U][!]</description>
+		<rom name="4-in-1 Benshieng (BS-7090)[U][!].nes" size="262253" crc="f049d816" md5="200048909227079781d4bed6379fe929" sha1="4c886bc8255185669d48b26038b965ef154780f7"/>
+	</machine>
+	<machine name="4-in-1 Benshieng (BS-7092)[U][!]">
+		<description>4-in-1 Benshieng (BS-7092)[U][!]</description>
+		<rom name="4-in-1 Benshieng (BS-7092)[U][!].nes" size="262253" crc="a01686af" md5="3fe5b098522243ead189285f6212e403" sha1="b627a9e991c5361a1895fc71df0b01b26f354cf8"/>
+	</machine>
+	<machine name="4-in-1 Digital Adventure (Unl)[U][!]">
+		<description>4-in-1 Digital Adventure (Unl)[U][!]</description>
+		<rom name="4-in-1 Digital Adventure (Unl)[U][!].nes" size="1048693" crc="6164e85d" md5="7d620ead7bb999542c3782d171290e8a" sha1="cdb794e9589e6be586b453816566358b79004e86"/>
+	</machine>
+	<machine name="4-in-1 YH-481 (20-in-1 KY2001, 228-in-1, 999999-in-1)(Unl)[!]">
+		<description>4-in-1 YH-481 (20-in-1 KY2001, 228-in-1, 999999-in-1)(Unl)[!]</description>
+		<rom name="4-in-1 YH-481 (20-in-1 KY2001, 228-in-1, 999999-in-1)(Unl)[!].nes" size="1048592" crc="aefab6ba" md5="fdc89885490fb376585178eb1a672a82" sha1="b29ad88c2dd45f309297023caaf550163b172a22"/>
+	</machine>
+	<machine name="400-in-1 [p1][U][!]">
+		<description>400-in-1 [p1][U][!]</description>
+		<rom name="400-in-1 [p1][U][!].nes" size="524374" crc="c96e6aeb" md5="dd88fef0d196e5bb9e2f41cef813f5e8" sha1="021fddcee1afd08c1c4fe06b852b5f801029c447"/>
+	</machine>
+	<machine name="42-in-1 (Reset Switch) [U][p1][!]">
+		<description>42-in-1 (Reset Switch) [U][p1][!]</description>
+		<rom name="42-in-1 (Reset Switch) [U][p1][!].nes" size="1048693" crc="28fc8163" md5="6ea02872b8eb6694428192c6a1c44fb6" sha1="31a2ac78279e582cc7d02872d81e10f716e03fb4"/>
+	</machine>
+	<machine name="45-in-1 (JY-120A)(As) [U][!]">
+		<description>45-in-1 (JY-120A)(As) [U][!]</description>
+		<rom name="45-in-1 (JY-120A)(As) [U][!].nes" size="4194403" crc="646fd8be" md5="c2fd23ff02c31d5e62bc722fcf1c0f1f" sha1="ba1c2ec487ad269321d5079afd7c2e6f02e102a7"/>
+	</machine>
+	<machine name="45-in-1 (Unl) (As) [f1]">
+		<description>45-in-1 (Unl) (As) [f1]</description>
+		<rom name="45-in-1 (Unl) (As) [f1].nes" size="4194320" crc="2a798367" md5="6c08b4446ad945f684ca6a2f735c8e18" sha1="b49a96811280e26e08a12c20fd69e21d4c839ae7"/>
+	</machine>
+	<machine name="450-in-1 (Mapper 202) [p1][!]">
+		<description>450-in-1 (Mapper 202) [p1][!]</description>
+		<rom name="450-in-1 (Mapper 202) [p1][!].nes" size="196624" crc="080b6382" md5="370719ecc2f3cc7be134eaa008061358" sha1="4b36f8fcf72474d69e906460c3d158182108e905"/>
+	</machine>
+	<machine name="46-in-1 (D1038) [p1][U][!]">
+		<description>46-in-1 (D1038) [p1][U][!]</description>
+		<rom name="46-in-1 (D1038) [p1][U][!].nes" size="196707" crc="0aeb6444" md5="78a75567c29fd8977c3dfb91d3e66aba" sha1="4a875525be2ca96134cf6fe15f65ede0a85777d8"/>
+	</machine>
+	<machine name="5-in-1 (K5003)[p1][!]">
+		<description>5-in-1 (K5003)[p1][!]</description>
+		<rom name="5-in-1 (K5003)[p1][!].nes" size="2097168" crc="09d71462" md5="fc9ad9da7777559e0d144c4da6cf780a" sha1="502bd02e8a1a8fdf2bc364b4ad3e505e5352ec60"/>
+	</machine>
+	<machine name="5-in-1 (SPC005)[p1][!]">
+		<description>5-in-1 (SPC005)[p1][!]</description>
+		<rom name="5-in-1 (SPC005)[p1][!].nes" size="2097168" crc="df5dba78" md5="fe4ce634eba8d6f26c7348093c3bd2ef" sha1="924e220f535d3bf16ebe1a2cac96841f2edc6cee"/>
+	</machine>
+	<machine name="6-in-1 (ET40, 840726c, 43-203)[p1][U][!]">
+		<description>6-in-1 (ET40, 840726c, 43-203)[p1][U][!]</description>
+		<rom name="6-in-1 (ET40, 840726c, 43-203)[p1][U][!].nes" size="262256" crc="a0ae76fb" md5="4af30ccc13e6857d214498dc0df07682" sha1="37d0f76e359a5a9b849c9e422d6603e2b0d5f8e1"/>
+	</machine>
+	<machine name="6-in-1 (FK-3004)[p1][!]">
+		<description>6-in-1 (FK-3004)[p1][!]</description>
+		<rom name="6-in-1 (FK-3004)[p1][!].nes" size="2097168" crc="ad2455f7" md5="135a6eb3bc5ee809e9b6096cb0145557" sha1="4e3e4694900abc6d576fc1cc50af6943a45578f1"/>
+	</machine>
+	<machine name="6-in-1 (KY-6006) [p1][U][!]">
+		<description>6-in-1 (KY-6006) [p1][U][!]</description>
+		<rom name="6-in-1 (KY-6006) [p1][U][!].nes" size="1048676" crc="cf3f9a2d" md5="8a8430c358b7550fbbdb8b23ed757d11" sha1="cc9ac20de69773016b94a6cd54bd238a5a1b631c"/>
+	</machine>
+	<machine name="6-in-1 (KY-6009) [p1][U][!]">
+		<description>6-in-1 (KY-6009) [p1][U][!]</description>
+		<rom name="6-in-1 (KY-6009) [p1][U][!].nes" size="1048676" crc="d6518370" md5="93efafc58a137c8d854366623ee2e3e5" sha1="4e9bc1f428a4ba384ba6f8e2c1a47e86af428385"/>
+	</machine>
+	<machine name="6-in-1 (MGC-023)(Unl)[U][!]">
+		<description>6-in-1 (MGC-023)(Unl)[U][!]</description>
+		<rom name="6-in-1 (MGC-023)(Unl)[U][!].nes" size="262252" crc="f7505188" md5="bccb1a5424fa74cdc2ea397a9fea9011" sha1="ad0b67e866574ab963876527e97ebf0dc73a8976"/>
+	</machine>
+	<machine name="64-in-1 (No Repeat) [U][p1][!]">
+		<description>64-in-1 (No Repeat) [U][p1][!]</description>
+		<rom name="64-in-1 (No Repeat) [U][p1][!].nes" size="1572975" crc="bf684392" md5="e251b7f9dbd6462f69d576def7079645" sha1="50c0411120a9cdd64f91177197999739f4d9467d"/>
+	</machine>
+	<machine name="64-in-1 [p2]">
+		<description>64-in-1 [p2]</description>
+		<rom name="64-in-1 [p2].nes" size="188432" crc="7643709f" md5="e53aeca6c7a6cf0d75c1cacc7487e7e6" sha1="44d537438693ead258253fc641535fb82c924d12"/>
+	</machine>
+	<machine name="65-in-1 (NT766) [p1][U][!]">
+		<description>65-in-1 (NT766) [p1][U][!]</description>
+		<rom name="65-in-1 (NT766) [p1][U][!].nes" size="196707" crc="90adb8ae" md5="9a7d74f95453b318f19c6526cf1f36cf" sha1="3fa5ce02d8b574ce8f4ce707aa51ea9f530e8316"/>
+	</machine>
+	<machine name="7-in-1 (K7603)[p1][!]">
+		<description>7-in-1 (K7603)[p1][!]</description>
+		<rom name="7-in-1 (K7603)[p1][!].nes" size="1048592" crc="4eab5c56" md5="ea14317892221c4d8a9b8b4c3c9873da" sha1="4d0bdd3f65bb30a985806e61908802379bb668da"/>
+	</machine>
+	<machine name="7-in-1 (M-022) [p1][U][!]">
+		<description>7-in-1 (M-022) [p1][U][!]</description>
+		<rom name="7-in-1 (M-022) [p1][U][!].nes" size="1048676" crc="3c4c064c" md5="e029bf6250e8d93d09ff3d91f2a909fa" sha1="e69675992c348c9ee395fcbeeb9e5311523f9a6b"/>
+	</machine>
+	<machine name="7-in-1 [p1][U][!]">
+		<description>7-in-1 [p1][U][!]</description>
+		<rom name="7-in-1 [p1][U][!].nes" size="1048676" crc="8cbe7eac" md5="fc4b62ad9c5fca5d0749cd9dbc29c5c4" sha1="1bee401a2c86b3384ec9c21525a14fa1f78e4013"/>
+	</machine>
+	<machine name="70-in-1 [U][p1][!]">
+		<description>70-in-1 [U][p1][!]</description>
+		<rom name="70-in-1 [U][p1][!].nes" size="196708" crc="631e4cea" md5="e629f40a08206535c69b908ceb5fd03b" sha1="40fc3cbbbf7b9b747e637add8fa78508b963e6aa"/>
+	</machine>
+	<machine name="700-in-1 [p1][U][!]">
+		<description>700-in-1 [p1][U][!]</description>
+		<rom name="700-in-1 [p1][U][!].nes" size="1048662" crc="ce5f681d" md5="0ec524f8ac2be5fc5715374b7160ddb4" sha1="748bf5fd99ff6cd3519f5e9c1047a8ff5ab5f432"/>
+	</machine>
+	<machine name="73-in-1 (GK-192 board) [!]">
+		<description>73-in-1 (GK-192 board) [!]</description>
+		<rom name="73-in-1 (GK-192 board) [!].nes" size="196624" crc="0b7347ba" md5="43e2c69801f832f3ac19df7f7cc40401" sha1="a7a57ebc4cc85293ef3e4f4bbeba8e5d787a9ddc"/>
+	</machine>
+	<machine name="74-in-1 (NT886) [p1][U][!]">
+		<description>74-in-1 (NT886) [p1][U][!]</description>
+		<rom name="74-in-1 (NT886) [p1][U][!].nes" size="196707" crc="56d556c3" md5="8c4aa0a5a78af06bff7bee9e1e0cec42" sha1="63f9c1d6e282501820055014f156b20e6dffd7ff"/>
+	</machine>
+	<machine name="75 Bingo (Sachen) [U]">
+		<description>75 Bingo (Sachen) [U]</description>
+		<rom name="75 Bingo (Sachen) [U].nes" size="65628" crc="fa78885b" md5="cbbe3bc8461c2e4ce2f613b8f187df62" sha1="ef8882a2b7f4d928c5a2ac133f4c9d28b76168e4"/>
+	</machine>
+	<machine name="77-in-1 (NT141) [p1][U][!]">
+		<description>77-in-1 (NT141) [p1][U][!]</description>
+		<rom name="77-in-1 (NT141) [p1][U][!].nes" size="196707" crc="a4bd35b7" md5="5892019b4785b8099a1b8f88281940ff" sha1="dc480d3949f306e9c1e11ef18399dc43830da46e"/>
+	</machine>
+	<machine name="777777-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]">
+		<description>777777-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]</description>
+		<rom name="777777-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].nes" size="1048713" crc="7fcc6520" md5="12b3f0e03bfae902745a4b863aa97f46" sha1="8e6790e72bbbb7131f8c9b9015b7f32ca0c7248d"/>
+	</machine>
+	<machine name="8-in-1 (A-020) [p1][U][!]">
+		<description>8-in-1 (A-020) [p1][U][!]</description>
+		<rom name="8-in-1 (A-020) [p1][U][!].nes" size="1048664" crc="e39c31a9" md5="cba3fc4aa09eade5b63c374224ba9958" sha1="5baadf86e4ae1b231121c73c7f28cc4559f32e6e"/>
+	</machine>
+	<machine name="8-in-1 (ET40, 821242c)[p1][U][!]">
+		<description>8-in-1 (ET40, 821242c)[p1][U][!]</description>
+		<rom name="8-in-1 (ET40, 821242c)[p1][U][!].nes" size="1048681" crc="06e2fd6e" md5="355ac75f7b137d5492e638de4e266b6f" sha1="f47b6265cb0937cf7c2bb4df6a9681f992ad57ec"/>
+	</machine>
+	<machine name="8-in-1 [p1]">
+		<description>8-in-1 [p1]</description>
+		<rom name="8-in-1 [p1].nes" size="163856" crc="4500ba6f" md5="05ed34b16c27ae1f04c154b9065e71a9" sha1="87ee3203c602053136ac11f8e0bb6167fdb146c7"/>
+	</machine>
+	<machine name="8-in-1 Supergame (KY8002) [p1][U][!]">
+		<description>8-in-1 Supergame (KY8002) [p1][U][!]</description>
+		<rom name="8-in-1 Supergame (KY8002) [p1][U][!].nes" size="1048685" crc="ed239308" md5="bea46f5fb6a81e7e6cd1504e8e6bc6c0" sha1="129e24b36cf2fcd86a2f5e7a7e99c778837017bb"/>
+	</machine>
+	<machine name="800-in-1 [U][p1][!]">
+		<description>800-in-1 [U][p1][!]</description>
+		<rom name="800-in-1 [U][p1][!].nes" size="524373" crc="46692a29" md5="aeb07f719ab7e420de9019a6970a7e3f" sha1="9d1d2e8ddbac28e2ccda23660b2716e9395ea874"/>
+	</machine>
+	<machine name="888888-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]">
+		<description>888888-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]</description>
+		<rom name="888888-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].nes" size="1052010" crc="a800e1f5" md5="ea5791740655c90386bbd7beaf4da133" sha1="8b3b76018dec797b816da8379971605d80f09d3b"/>
+	</machine>
+	<machine name="888888-in-1 (CoolBoy AEF-390 8bit Console, B8VPCBVer03 20130703 0401E2015897A)(Unl)[U][!]">
+		<description>888888-in-1 (CoolBoy AEF-390 8bit Console, B8VPCBVer03 20130703 0401E2015897A)(Unl)[U][!]</description>
+		<rom name="888888-in-1 (CoolBoy AEF-390 8bit Console, B8VPCBVer03 20130703 0401E2015897A)(Unl)[U][!].nes" size="4194466" crc="f56f95f1" md5="fadce939f29e73a1469b45670cf97891" sha1="e9329e4783ddb05ef873a98dd5ac004dc4324deb"/>
+	</machine>
+	<machine name="9-in-1 (860824 PCB)[p1][!]">
+		<description>9-in-1 (860824 PCB)[p1][!]</description>
+		<rom name="9-in-1 (860824 PCB)[p1][!].nes" size="1048592" crc="eed9deb8" md5="eafc504cb3158427026059ea3107b70d" sha1="f4ead05349c15d06ce2707e2bdccd8e479cfd0c3"/>
+	</machine>
+	<machine name="9-in-1 (KY-9005) [p1][U][!]">
+		<description>9-in-1 (KY-9005) [p1][U][!]</description>
+		<rom name="9-in-1 (KY-9005) [p1][U][!].nes" size="1048676" crc="24607e29" md5="1b8322937249c1eff8545a265c4d6e5d" sha1="5985a153d0a390189f1893bd0f3ac01723f035cd"/>
+	</machine>
+	<machine name="9-in-1 King001 (Unl)[U][!]">
+		<description>9-in-1 King001 (Unl)[U][!]</description>
+		<rom name="9-in-1 King001 (Unl)[U][!].nes" size="4194411" crc="c0a4a29f" md5="3229093d750c6116ddb3042ba176739c" sha1="e53cea6c11d265e1aa948878dc635830b2d9d7d1"/>
+	</machine>
+	<machine name="98-in-1 (GK-192 board) [!]">
+		<description>98-in-1 (GK-192 board) [!]</description>
+		<rom name="98-in-1 (GK-192 board) [!].nes" size="196624" crc="75e50283" md5="6e59ae52c6b369a68b1187b6715be5e5" sha1="250755641de8eaf65b3b10d7e93fd100a51d8412"/>
+	</machine>
+	<machine name="9999-in-1 (Anim Splash, rev 13)[p1][!]">
+		<description>9999-in-1 (Anim Splash, rev 13)[p1][!]</description>
+		<rom name="9999-in-1 (Anim Splash, rev 13)[p1][!].nes" size="196624" crc="1c9c3112" md5="b87b525464d4f758735163dd1a00e806" sha1="bbcc0bafd88f4a41b7858481f5ddeb5b72868340"/>
+	</machine>
+	<machine name="9999-in-1 [p1][!]">
+		<description>9999-in-1 [p1][!]</description>
+		<rom name="9999-in-1 [p1][!].nes" size="196624" crc="0c1b0d7d" md5="31595c1663140f238c4eca39c2c7ab69" sha1="a337c173ad33ec44313fded119b902c703d0104f"/>
+	</machine>
+	<machine name="999999-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]">
+		<description>999999-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!]</description>
+		<rom name="999999-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].nes" size="2097289" crc="773123ab" md5="d753314b7aad5307957b8e012e30ca17" sha1="98aaeb1102971c8c8c2f590166a1133ce8fb593e"/>
+	</machine>
+	<machine name="9999999-in-1 [p2]">
+		<description>9999999-in-1 [p2]</description>
+		<rom name="9999999-in-1 [p2].nes" size="196624" crc="0f8198b7" md5="5ac02ed5ba108786fdf9879538ebdbff" sha1="71b8db7998b74dcd9d415968d536b7b17075116a"/>
+	</machine>
+	<machine name="9999999-in-1 [p3]">
+		<description>9999999-in-1 [p3]</description>
+		<rom name="9999999-in-1 [p3].nes" size="196624" crc="b5146b12" md5="737dcc9e43510002ca6a0195f2d9525d" sha1="41d2c7fdd8154d316f44e8e0f73dacfa171de81b"/>
+	</machine>
+	<machine name="Abeille (Galaxian Hack)[p1][!]">
+		<description>Abeille (Galaxian Hack)[p1][!]</description>
+		<rom name="Abeille (Galaxian Hack)[p1][!].nes" size="24592" crc="defe3c63" md5="303bf349f59159e5c2b948bbd23d8ae4" sha1="b44f5857d52c0454183cccbebe0d305a8478dd95"/>
+	</machine>
+	<machine name="Aladdin (Super Game)(Unl)[!]">
+		<description>Aladdin (Super Game)(Unl)[!]</description>
+		<rom name="Aladdin (Super Game)(Unl)[!].nes" size="524304" crc="c5d8f308" md5="90c0057e9176c48944adddebb4d4c8f1" sha1="1a2565b9324440655b31f8e8fe19783c35ddd5c6"/>
+	</machine>
+	<machine name="Aladdin (Unl)(R)[p1][hM04][!]">
+		<description>Aladdin (Unl)(R)[p1][hM04][!]</description>
+		<rom name="Aladdin (Unl)(R)[p1][hM04][!].nes" size="524304" crc="59ec3f6c" md5="bcd496aa71623b4720189bff3d8b2765" sha1="4bec477322f0f08d74d71d25190e977c3444d3d3"/>
+	</machine>
+	<machine name="Aladdin - Return of Jaffar, The [p1]">
+		<description>Aladdin - Return of Jaffar, The [p1]</description>
+		<rom name="Aladdin - Return of Jaffar, The [p1].nes" size="262160" crc="a2619d66" md5="f9d359ebd8ff42bcb936a06557c5ca3e" sha1="5dfa701cec9b22682e2797810be1d8ee6b3cb63b"/>
+	</machine>
+	<machine name="Aladdin 4 (Unl) [p1]">
+		<description>Aladdin 4 (Unl) [p1]</description>
+		<rom name="Aladdin 4 (Unl) [p1].nes" size="524304" crc="dda79434" md5="edb071f9110d22a365b91bfaaa9850ca" sha1="88b4e8be3225d99aa605010bd8218a18b15bff9a"/>
+	</machine>
+	<machine name="Aladdin 4 (Unl) [p2]">
+		<description>Aladdin 4 (Unl) [p2]</description>
+		<rom name="Aladdin 4 (Unl) [p2].nes" size="524304" crc="07c934ff" md5="201e8c6aff6ed11887361aca8e33a964" sha1="087b5c5c7c95da81b9876ba0fb7e9e2d7e05e8eb"/>
+	</machine>
+	<machine name="Almana no Kiseki (FDS Conversion)(Whirlwind Manu, Kaiser's KISS hack)[U]">
+		<description>Almana no Kiseki (FDS Conversion)(Whirlwind Manu, Kaiser's KISS hack)[U]</description>
+		<rom name="Almana no Kiseki (FDS Conversion)(Whirlwind Manu, Kaiser's KISS hack)[U].nes" size="131204" crc="edb487fa" md5="725250c9bcf100260859bdcda6b4d2ec" sha1="1bcae956a7ab8209b289f053b1641d7641546071"/>
+	</machine>
+	<machine name="Almana no Kiseki (Unl) (FDS Conversion)[U][!]">
+		<description>Almana no Kiseki (Unl) (FDS Conversion)[U][!]</description>
+		<rom name="Almana no Kiseki (Unl) (FDS Conversion)[U][!].nes" size="131194" crc="d064e620" md5="5b05f1dd6390b29a2e3e7417699310cb" sha1="7239709381966b300a9a863c88c85c92b4c43e55"/>
+	</machine>
+	<machine name="Aobocco Wars [p1][!]">
+		<description>Aobocco Wars [p1][!]</description>
+		<rom name="Aobocco Wars [p1][!].nes" size="393232" crc="23e02e8b" md5="4ceb5f34d72687ef1003b6be603e70e4" sha1="c136c1692e2e9e88a1e2218c0ebbc908a50bcfad"/>
+	</machine>
+	<machine name="Arkanoid (R)">
+		<description>Arkanoid (R)</description>
+		<rom name="Arkanoid (R).nes" size="40976" crc="5832527e" md5="dbaceb13e3a49c3a3c82fee4791291a8" sha1="d22ae980a7e74777f456afee9f9d4d48f0a804c5"/>
+	</machine>
+	<machine name="ASDER 20-in-1 (Unl)[U][!]">
+		<description>ASDER 20-in-1 (Unl)[U][!]</description>
+		<rom name="ASDER 20-in-1 (Unl)[U][!].nes" size="786539" crc="5988279d" md5="337c976cc456241de4887fe26de423bf" sha1="66d16ffdea7340f998ad4f965d38d76568e86ad4"/>
+	</machine>
+	<machine name="AV Kyuukyoku Mahjong 2 (As)[!]">
+		<description>AV Kyuukyoku Mahjong 2 (As)[!]</description>
+		<rom name="AV Kyuukyoku Mahjong 2 (As)[!].nes" size="262160" crc="92168b6e" md5="8fda92c560e6caa491b4d4a5d40cb984" sha1="2fe24ede58edd401b7fcf4d162b4c34589d01afe"/>
+	</machine>
+	<machine name="AV Pretty Girl Fight (Unl) (As) [a1]">
+		<description>AV Pretty Girl Fight (Unl) (As) [a1]</description>
+		<rom name="AV Pretty Girl Fight (Unl) (As) [a1].nes" size="655376" crc="bceb088b" md5="8ffddefd5499cf1c6b8e6ccb477d8a1a" sha1="4940deed64b9c28b418adebd35ddddab3b548711"/>
+	</machine>
+	<machine name="AV Strip Mahjong (As) [!]">
+		<description>AV Strip Mahjong (As) [!]</description>
+		<rom name="AV Strip Mahjong (As) [!].nes" size="131088" crc="30a300ff" md5="67a1eaa96dc811bc5fa5b45780579524" sha1="961d57cf312e56716c2b150fc342262e08a73111"/>
+	</machine>
+	<machine name="Back to the Future IV (Unl)[!]">
+		<description>Back to the Future IV (Unl)[!]</description>
+		<rom name="Back to the Future IV (Unl)[!].nes" size="262160" crc="243af47f" md5="a1647e6a3f1df359702a4ec8dd71eb23" sha1="4c79761269d0b9aaff4f9f9dcb28d8a106fa92b6"/>
+	</machine>
+	<machine name="Bai-Bai Dino (Unl)[!]">
+		<description>Bai-Bai Dino (Unl)[!]</description>
+		<rom name="Bai-Bai Dino (Unl)[!].nes" size="49168" crc="589d74d3" md5="aaad99d9565e745609b96dd20ca99cac" sha1="22bd938f520fc1b63312176853a432daa77cab5c"/>
+	</machine>
+	<machine name="Balda (BBG) (R) [!]">
+		<description>Balda (BBG) (R) [!]</description>
+		<rom name="Balda (BBG) (R) [!].nes" size="139280" crc="742c08e8" md5="1cc454c29fe55493795c067c78e0f84c" sha1="c6b67ab957ee6ebdc0296a0ee86ad9a90a88ce16"/>
+	</machine>
+	<machine name="Balda (Rusian)">
+		<description>Balda (Rusian)</description>
+		<rom name="Balda (Rusian).nes" size="40976" crc="9faf34ff" md5="1c64d1e94a22224d0bfef63dcd7dc2f1" sha1="34eec234e31fea12fcb19ae197e4f4f728cd727a"/>
+	</machine>
+	<machine name="Ball Story - Jong Yuk Chuen Suet Fa Jong II (Unl) [!]">
+		<description>Ball Story - Jong Yuk Chuen Suet Fa Jong II (Unl) [!]</description>
+		<rom name="Ball Story - Jong Yuk Chuen Suet Fa Jong II (Unl) [!].nes" size="131088" crc="1090a2e5" md5="71ad05e932e2e47ee840b5b2eedaaca2" sha1="c432c3e36bc44bc3fb7bab9e5471505ca67b413c"/>
+	</machine>
+	<machine name="Banana (J) (Redump) [!]">
+		<description>Banana (J) (Redump) [!]</description>
+		<rom name="Banana (J) (Redump) [!].nes" size="49168" crc="5ac41464" md5="a0f5e9f767c156660ead8d25d0831482" sha1="02c1ece08c0c9655a34b058100a1005a2742ee22"/>
+	</machine>
+	<machine name="Batman &amp; Flash (Monsters in my Pocket Hack) [p1]">
+		<description>Batman &amp; Flash (Monsters in my Pocket Hack) [p1]</description>
+		<rom name="Batman &amp; Flash (Monsters in my Pocket Hack) [p1].nes" size="262160" crc="b96b9830" md5="3e3cd2a4e6848a7a00a7ce26c1c6f8aa" sha1="e63e1f38bda85b3457c6125292237806a3b8c6c4"/>
+	</machine>
+	<machine name="Batman Returns (U) [p1][!] (830428C, JYV423)">
+		<description>Batman Returns (U) [p1][!] (830428C, JYV423)</description>
+		<rom name="Batman Returns (U) [p1][!] (830428C, JYV423).nes" size="393232" crc="caea5a43" md5="f79cd8dea60506c3259eec516f4e307b" sha1="da02d5cbab0ae2a8abec35035861de3d3d7ad340"/>
+	</machine>
+	<machine name="Batsu &amp; Terii (R) [!]">
+		<description>Batsu &amp; Terii (R) [!]</description>
+		<rom name="Batsu &amp; Terii (R) [!].nes" size="131088" crc="ae5f6f98" md5="63a237c3ba24c1ca5f5fc143a2f3416f" sha1="b7256a34856009ac3cdfeeb8142dd3fcc9c17c2e"/>
+	</machine>
+	<machine name="Battle Tank (R)[!]">
+		<description>Battle Tank (R)[!]</description>
+		<rom name="Battle Tank (R)[!].nes" size="65552" crc="d102e539" md5="77b1ef7bc90af6cbe13bdb5cc1359db0" sha1="a0f63cf1edc2eddf059f79c66bfa747a90b55f5c"/>
+	</machine>
+	<machine name="Battleship (R)[!]">
+		<description>Battleship (R)[!]</description>
+		<rom name="Battleship (R)[!].nes" size="65552" crc="d0ade7b8" md5="e57a4031bf78f87684e481fd1f53ca41" sha1="ba506d3a25b2e23ac196d226568cb856837bbcfe"/>
+	</machine>
+	<machine name="Battletoads Double Dragon (U) [h1]">
+		<description>Battletoads Double Dragon (U) [h1]</description>
+		<rom name="Battletoads Double Dragon (U) [h1].nes" size="262160" crc="5da024c3" md5="eed2983656f5141d1f40f8469b56cc08" sha1="a2f86721e107a039157724de5f69d3c1625ca214"/>
+	</machine>
+	<machine name="BB Car (As) [!]">
+		<description>BB Car (As) [!]</description>
+		<rom name="BB Car (As) [!].nes" size="40976" crc="8713de54" md5="c84b6bf5c6dc68db53001bfb103675c0" sha1="94bf70b6fb65ef5451e2e8a1eefaf2664c177945"/>
+	</machine>
+	<machine name="Billiard (Side Pocket)(R)[!]">
+		<description>Billiard (Side Pocket)(R)[!]</description>
+		<rom name="Billiard (Side Pocket)(R)[!].nes" size="131088" crc="62c0ccad" md5="a2afcd4ffcbc268091d3734a72d9f03e" sha1="686a3d95be4e477ae73fe0fdddcdcac90295f22a"/>
+	</machine>
+	<machine name="Billiard (Side Pocket)(R)[new!]">
+		<description>Billiard (Side Pocket)(R)[new!]</description>
+		<rom name="Billiard (Side Pocket)(R)[new!].nes" size="131088" crc="237acb87" md5="2fe763e48b1f82e8bfd92d728453b206" sha1="31c18fc5a2ab640968732b43f531cd36d5868932"/>
+	</machine>
+	<machine name="Bing Kuang Ji Dan Zi - Flighty Chicken (As) [decrypted]">
+		<description>Bing Kuang Ji Dan Zi - Flighty Chicken (As) [decrypted]</description>
+		<rom name="Bing Kuang Ji Dan Zi - Flighty Chicken (As) [decrypted].nes" size="393232" crc="57d22f67" md5="390320853e1f6221f31afd28f8c16210" sha1="5765f7d5dd7768d05b4ac5670cf180615ebb265d"/>
+	</machine>
+	<machine name="Blood Of Jurassic (GD-98)(Unl)[U][!]">
+		<description>Blood Of Jurassic (GD-98)(Unl)[U][!]</description>
+		<rom name="Blood Of Jurassic (GD-98)(Unl)[U][!].nes" size="262260" crc="f18262c5" md5="ecc471c27b065b6bdf9b38f4e0ec485a" sha1="32b4125b921b56b28d231e055dc3cf7f9d27ab16"/>
+	</machine>
+	<machine name="BMX Simulator (2 Joys)">
+		<description>BMX Simulator (2 Joys)</description>
+		<rom name="BMX Simulator (2 Joys).nes" size="65552" crc="1d10c56a" md5="6d276e6c5dc3bbf139ee7125ad5751e1" sha1="52c9cd5ce089163091c1826af1e212aca1a32f21"/>
+	</machine>
+	<machine name="Bonza (Rev A)(R)[!]">
+		<description>Bonza (Rev A)(R)[!]</description>
+		<rom name="Bonza (Rev A)(R)[!].nes" size="131088" crc="3ec99da6" md5="39168fac9a9d954866468c74d01db3ce" sha1="6b74932d52909c2bd1ceded2d619b168f8f40d2e"/>
+	</machine>
+	<machine name="Bonza (Rev B)(R)[!]">
+		<description>Bonza (Rev B)(R)[!]</description>
+		<rom name="Bonza (Rev B)(R)[!].nes" size="131088" crc="ec724410" md5="9bc5dbf7eccecc8be0185e79e4dd0790" sha1="cf9d67103f558ad9d1a7ae7e7df56a1d4fff0879"/>
+	</machine>
+	<machine name="Boogerman (Sugar Softec) (Unl)[!]">
+		<description>Boogerman (Sugar Softec) (Unl)[!]</description>
+		<rom name="Boogerman (Sugar Softec) (Unl)[!].nes" size="524304" crc="a5e3edab" md5="10b3f1df67d875f3f08674f14031da54" sha1="0f80314dc46ba855eb8bba1345c45a65b8f7e9ff"/>
+	</machine>
+	<machine name="Boogerman_II_(Rex_Soft)(Unl)[U][!]">
+		<description>Boogerman_II_(Rex_Soft)(Unl)[U][!]</description>
+		<rom name="Boogerman_II_(Rex_Soft)(Unl)[U][!].nes" size="393336" crc="ac9cfad7" md5="30cdde77b6c8095a0363187faa246fa4" sha1="1569ea8845e6bb128da9823fcb493d3aec0cc130"/>
+	</machine>
+	<machine name="Bravesoft Windows 2000 (R)[!]">
+		<description>Bravesoft Windows 2000 (R)[!]</description>
+		<rom name="Bravesoft Windows 2000 (R)[!].nes" size="524304" crc="cb4370b5" md5="ff7169abbd8622c40c3e8f5bc43f62d1" sha1="67d82fb22c60b9816283d41e472924c100b1b72b"/>
+	</machine>
+	<machine name="Bubble Bobble (FDS Conversion, CHR-ROM version)(Unl)[U][!]">
+		<description>Bubble Bobble (FDS Conversion, CHR-ROM version)(Unl)[U][!]</description>
+		<rom name="Bubble Bobble (FDS Conversion, CHR-ROM version)(Unl)[U][!].nes" size="98440" crc="db26e4c1" md5="4902c0decddfed79cddc2df9cd444de0" sha1="7eaa724da5c28c7b87894f996c781f07d0c516c1"/>
+	</machine>
+	<machine name="Bubble Bobble (FDS Conversion, Kaiser hacked)(Unl)[p1][!]">
+		<description>Bubble Bobble (FDS Conversion, Kaiser hacked)(Unl)[p1][!]</description>
+		<rom name="Bubble Bobble (FDS Conversion, Kaiser hacked)(Unl)[p1][!].nes" size="131088" crc="5b9e1d4a" md5="88a2b196ed0fc1e8adb51a7bcdbf7751" sha1="a67bee876ed37022440826b427bde172d53b9969"/>
+	</machine>
+	<machine name="BugTris (Kor)(Unl)[!]">
+		<description>BugTris (Kor)(Unl)[!]</description>
+		<rom name="BugTris (Kor)(Unl)[!].nes" size="40976" crc="d0b23fe9" md5="fb5276a4ec43e51ba5639d313a6ebca8" sha1="b0691110baac1f93576b2646c85c1c89d380627f"/>
+	</machine>
+	<machine name="Caesars Palace (UNROM)">
+		<description>Caesars Palace (UNROM)</description>
+		<rom name="Caesars Palace (UNROM).nes" size="131088" crc="e814d0d1" md5="0938264b8a88de8989d83cbf432c174e" sha1="a4db0a934551666bd65d0370102717a461316d47"/>
+	</machine>
+	<machine name="Captain Skyhawk (R)[!]">
+		<description>Captain Skyhawk (R)[!]</description>
+		<rom name="Captain Skyhawk (R)[!].nes" size="131088" crc="ee76f3fe" md5="651f59a81767941dbc54b936ac2bad60" sha1="0a72939e2b2041028eb9583f3770c3a5f0f10b05"/>
+	</machine>
+	<machine name="Captain Tsubasa Vol. II - Super Striker (Arabic) (Unl) [!]">
+		<description>Captain Tsubasa Vol. II - Super Striker (Arabic) (Unl) [!]</description>
+		<rom name="Captain Tsubasa Vol. II - Super Striker (Arabic) (Unl) [!].nes" size="393232" crc="d6a61ad0" md5="99544e40f4ca7ea1d1a77c709eff98b3" sha1="5638051f23b163cc8b01fea2f0baa854ac9d0535"/>
+	</machine>
+	<machine name="Challenge of the Dragon (Sachen) (72 pin cart) [U][!]">
+		<description>Challenge of the Dragon (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Challenge of the Dragon (Sachen) (72 pin cart) [U][!].nes" size="196735" crc="b3d9b241" md5="e95ba4f19d4ee6c45f43b14b05fe1120" sha1="802f8a7d6cab7821bd626145b5cc4dade19b9149"/>
+	</machine>
+	<machine name="Chess Academys (fami cart) (Sachen) [U][!]">
+		<description>Chess Academys (fami cart) (Sachen) [U][!]</description>
+		<rom name="Chess Academys (fami cart) (Sachen) [U][!].nes" size="49272" crc="932f13bc" md5="90c4912f57e6f9ac0d9a7089766d35bd" sha1="14b07e0611fbc0b64bb1c1237e16234e9ba459a2"/>
+	</machine>
+	<machine name="China Rabbit Baby (Pirate Original)">
+		<description>China Rabbit Baby (Pirate Original)</description>
+		<rom name="China Rabbit Baby (Pirate Original).nes" size="524304" crc="6ab0db42" md5="2b1bdb5085f2fbc051f77286c1e5428f" sha1="b79678a265fc1cfbd6bf95e857b808e31e441f1f"/>
+	</machine>
+	<machine name="Chinese Checkers (fami cart) (Sachen) [U][!]">
+		<description>Chinese Checkers (fami cart) (Sachen) [U][!]</description>
+		<rom name="Chinese Checkers (fami cart) (Sachen) [U][!].nes" size="49274" crc="8d7a4994" md5="e94d091609894de024bfdab35fc19c46" sha1="4f68fe97f00351696f83fb6a4b1ad868474316e9"/>
+	</machine>
+	<machine name="Chinese Checkers (Sachen) [U][!]">
+		<description>Chinese Checkers (Sachen) [U][!]</description>
+		<rom name="Chinese Checkers (Sachen) [U][!].nes" size="49285" crc="12a95930" md5="67b3f4ae4425578e1456bf610c37ede3" sha1="a58b71b4b9ff14be13f3539405b23bccbca93b69"/>
+	</machine>
+	<machine name="Chip &amp; Dale 3 (Heavy Barrel Hack) [p1]">
+		<description>Chip &amp; Dale 3 (Heavy Barrel Hack) [p1]</description>
+		<rom name="Chip &amp; Dale 3 (Heavy Barrel Hack) [p1].nes" size="262160" crc="de034595" md5="36be710d48b8391bb8348cac4913da1a" sha1="5d11c31966af8f0c47b03cc98acc76e57ee8915c"/>
+	</machine>
+	<machine name="Chu Han Zheng Ba - The War Between Chu &amp; Han (As) [decrypted]">
+		<description>Chu Han Zheng Ba - The War Between Chu &amp; Han (As) [decrypted]</description>
+		<rom name="Chu Han Zheng Ba - The War Between Chu &amp; Han (As) [decrypted].nes" size="524304" crc="1fe9af1b" md5="fba854730b131b79a047746073e1e32d" sha1="3c7099746e8a9e63a6f2dcc86d1610944458a5fe"/>
+	</machine>
+	<machine name="City Fighter IV (Sound)(Unl)[U][!]">
+		<description>City Fighter IV (Sound)(Unl)[U][!]</description>
+		<rom name="City Fighter IV (Sound)(Unl)[U][!].nes" size="262263" crc="f6ecda86" md5="3fdf2621c1080e0053211d7ef91cb8e1" sha1="4918ca465b97c537567e41f8db03b52b4a347ccd"/>
+	</machine>
+	<machine name="Contra (+4 menu)">
+		<description>Contra (+4 menu)</description>
+		<rom name="Contra (+4 menu).nes" size="131088" crc="06d3d933" md5="1760a3a7bd811ebb7ba2790ef7924461" sha1="a43dae812efff9005ae2975ddd01e8e21186126d"/>
+	</machine>
+	<machine name="Contra (+4 menu)[o1]">
+		<description>Contra (+4 menu)[o1]</description>
+		<rom name="Contra (+4 menu)[o1].nes" size="131120" crc="a24b0884" md5="b15ce343e8001767fe09a509b18f09e9" sha1="ac180545659941847c2bcc3ffacc74da4f1880db"/>
+	</machine>
+	<machine name="Contra (R) [!]">
+		<description>Contra (R) [!]</description>
+		<rom name="Contra (R) [!].nes" size="131088" crc="70f2e589" md5="b1fc3aed1a45e1bd714a660885611223" sha1="871fb0e1670411af2b178ed57a6419fe2d0b35f3"/>
+	</machine>
+	<machine name="Contra Fighter (Unl) [U][!]">
+		<description>Contra Fighter (Unl) [U][!]</description>
+		<rom name="Contra Fighter (Unl) [U][!].nes" size="393317" crc="7edb7450" md5="153e9466f47334dbed6e995b1d63bc19" sha1="7a4772c949f3d7de9f9ebefdbb0092ff773d997b"/>
+	</machine>
+	<machine name="Contra Spirits (As) [!]">
+		<description>Contra Spirits (As) [!]</description>
+		<rom name="Contra Spirits (As) [!].nes" size="524304" crc="cea432be" md5="10ea7e925d85d429cdcb3d0c6118e392" sha1="c8805d0b3428d4dcefb6e899112357525c7557a9"/>
+	</machine>
+	<machine name="CoolBoy 400-in-1 (Alt Version, 403 games)(Unl)[U][!]">
+		<description>CoolBoy 400-in-1 (Alt Version, 403 games)(Unl)[U][!]</description>
+		<rom name="CoolBoy 400-in-1 (Alt Version, 403 games)(Unl)[U][!].nes" size="33554555" crc="62f98691" md5="7eac4b6ee0e38fb742af0fa496741012" sha1="467e7d5e985f7f27cc9d6c0e3224c4f226afc3c6"/>
+	</machine>
+	<machine name="CoolBoy 400-in-1 (Unl)[U][!]">
+		<description>CoolBoy 400-in-1 (Unl)[U][!]</description>
+		<rom name="CoolBoy 400-in-1 (Unl)[U][!].nes" size="33554531" crc="2b7a65eb" md5="e9e66aad57c2d5bae9e2cbf3d6efcbd2" sha1="b26e786579f08e89aa9cfbc40862c0a20ec383d8"/>
+	</machine>
+	<machine name="Cvetnie Linii (Color Lines) (Russian)(PAL)[!]">
+		<description>Cvetnie Linii (Color Lines) (Russian)(PAL)[!]</description>
+		<rom name="Cvetnie Linii (Color Lines) (Russian)(PAL)[!].nes" size="139280" crc="cba3d3ca" md5="4606fbe6c68d208b6f0928f539759db5" sha1="73ab011b310b32e03fd2b7e1d0f228bb1910ca84"/>
+	</machine>
+	<machine name="D.J. Boy (Rollergames Hack) [p1]">
+		<description>D.J. Boy (Rollergames Hack) [p1]</description>
+		<rom name="D.J. Boy (Rollergames Hack) [p1].nes" size="262160" crc="18d76027" md5="521135ebe96a8206a24d3fab552b78ed" sha1="f954fcc0095f16ba93a100687409674ea094f19c"/>
+	</machine>
+	<machine name="Da Hua Shui Hu (NJ100)(Ch)[!]">
+		<description>Da Hua Shui Hu (NJ100)(Ch)[!]</description>
+		<rom name="Da Hua Shui Hu (NJ100)(Ch)[!].nes" size="1048592" crc="e83be4d1" md5="48bfb42a70cb86d396fb3df8eb952361" sha1="1b392b0126490d6ebe7454221d1ee03105d36ead"/>
+	</machine>
+	<machine name="Dance 2000 12-in-1 (Unl)[U][!]">
+		<description>Dance 2000 12-in-1 (Unl)[U][!]</description>
+		<rom name="Dance 2000 12-in-1 (Unl)[U][!].nes" size="262251" crc="a3782b4b" md5="799491a0230d41483db3c4a67890beea" sha1="6b95bb2c664dfb6320fb9e9edb6633d6eb14b832"/>
+	</machine>
+	<machine name="Dancing Blocks (Sachen) (72 pin cart) [U][!]">
+		<description>Dancing Blocks (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Dancing Blocks (Sachen) (72 pin cart) [U][!].nes" size="41074" crc="ddf17216" md5="0c467812c12d14c2fb9587d3656c9b3f" sha1="6348c6a5a373689d3e005279366a620a633c1d92"/>
+	</machine>
+	<machine name="Darkwing Duck 2 (Super Contra hack) [p1]">
+		<description>Darkwing Duck 2 (Super Contra hack) [p1]</description>
+		<rom name="Darkwing Duck 2 (Super Contra hack) [p1].nes" size="262160" crc="15bd18d2" md5="34ad56e833aa138e69d175f7d9acecd6" sha1="1260a412fd68fff1648c3e6567729b4cc692d51e"/>
+	</machine>
+	<machine name="Digger Tom V Poiskah Drevnego Goroda (R)[!]">
+		<description>Digger Tom V Poiskah Drevnego Goroda (R)[!]</description>
+		<rom name="Digger Tom V Poiskah Drevnego Goroda (R)[!].nes" size="131088" crc="e97e2823" md5="3a78bda2f19344749e7517b54181a26d" sha1="a9c8822df81eb31a6d914129ca11c424b5a3db6d"/>
+	</machine>
+	<machine name="Domkey Kong (Tiny Toon Adventures) [p1][!]">
+		<description>Domkey Kong (Tiny Toon Adventures) [p1][!]</description>
+		<rom name="Domkey Kong (Tiny Toon Adventures) [p1][!].nes" size="262160" crc="49c008d3" md5="6ef4a5a3fbea1ba62552f0b20adb1038" sha1="d827088a63bad00d9b50485bc515eed1b7403f50"/>
+	</machine>
+	<machine name="Dong Fang de Chuan Shuo - The Hyrule Fantasy (As) [decrypted]">
+		<description>Dong Fang de Chuan Shuo - The Hyrule Fantasy (As) [decrypted]</description>
+		<rom name="Dong Fang de Chuan Shuo - The Hyrule Fantasy (As) [decrypted].nes" size="131088" crc="8c51976e" md5="195d56193274018024ac799f52cf746f" sha1="2eefc19161622491e4872bc885a53f12dbd22000"/>
+	</machine>
+	<machine name="Donkey Kong Country 4 (Pirate Original)">
+		<description>Donkey Kong Country 4 (Pirate Original)</description>
+		<rom name="Donkey Kong Country 4 (Pirate Original).nes" size="524304" crc="5ae55685" md5="10a49c0bfe49930c88976ac12e240948" sha1="33930c8fd186490d99ee2fe387b987ac0831c123"/>
+	</machine>
+	<machine name="Dr. Mario II (Unl)[U][!]">
+		<description>Dr. Mario II (Unl)[U][!]</description>
+		<rom name="Dr. Mario II (Unl)[U][!].nes" size="262251" crc="9f9c0931" md5="434c3e350efa4da82784d17bc81cbbe1" sha1="9de9baab0c8f96a3289eed8ef92d0f1113b7408c"/>
+	</machine>
+	<machine name="Dr. Mario II (Unl)[U][o1]">
+		<description>Dr. Mario II (Unl)[U][o1]</description>
+		<rom name="Dr. Mario II (Unl)[U][o1].nes" size="393323" crc="f4f7629f" md5="76e1c6d80f06d5abd478bd4b8171ebec" sha1="254856815238e2cb006a36c02657f517d6700cf7"/>
+	</machine>
+	<machine name="Dragon Fighter (Unl)[U][!]">
+		<description>Dragon Fighter (Unl)[U][!]</description>
+		<rom name="Dragon Fighter (Unl)[U][!].nes" size="655475" crc="f99e1944" md5="5002616a06fd396fe9ac869d32a7a2b0" sha1="791858ba558af7b85f96bf92460de59702064590"/>
+	</machine>
+	<machine name="Dragon Quest (J) [p1] [decrypted]">
+		<description>Dragon Quest (J) [p1] [decrypted]</description>
+		<rom name="Dragon Quest (J) [p1] [decrypted].nes" size="262160" crc="178d5fb0" md5="ee0a0879783539eee193e656604f5dde" sha1="e7d7b49a0497a90056c2bec589005cc1d0ba23ad"/>
+	</machine>
+	<machine name="Dragon, The (As) [decrypted]">
+		<description>Dragon, The (As) [decrypted]</description>
+		<rom name="Dragon, The (As) [decrypted].nes" size="524304" crc="bd33c447" md5="58905fe2fcbb42bde76c21dcbe598507" sha1="918ad1a23e5b7e4a5945d1af812467b77cbce787"/>
+	</machine>
+	<machine name="Dragon, The (As)[p1][!] (M8002)">
+		<description>Dragon, The (As)[p1][!] (M8002)</description>
+		<rom name="Dragon, The (As)[p1][!] (M8002).nes" size="524304" crc="09cc1bfb" md5="c7518b16fef532277c8a274476b7658b" sha1="d79d5c870c159b4419524e054c567ea1a9876357"/>
+	</machine>
+	<machine name="Dream Fighter (Caltron, CN-17)(Unl)[!]">
+		<description>Dream Fighter (Caltron, CN-17)(Unl)[!]</description>
+		<rom name="Dream Fighter (Caltron, CN-17)(Unl)[!].nes" size="40976" crc="28f6e6e2" md5="5c5112b9cc57070a4eef2e2c3431baac" sha1="bbdd21a459803b8791a45b1c2158ce4c609fb303"/>
+	</machine>
+	<machine name="DreamGEAR 101-in-1 (Unl)[U][!]">
+		<description>DreamGEAR 101-in-1 (Unl)[U][!]</description>
+		<rom name="DreamGEAR 101-in-1 (Unl)[U][!].nes" size="4194408" crc="8b2705fb" md5="594216632edb4a27431c2c89bfc4b4b0" sha1="d3d181c0dd221fb1ca449ee1f9d522b10b56a3b9"/>
+	</machine>
+	<machine name="DreamGEAR 75-in-1 (Unl)[U][!]">
+		<description>DreamGEAR 75-in-1 (Unl)[U][!]</description>
+		<rom name="DreamGEAR 75-in-1 (Unl)[U][!].nes" size="4194407" crc="74b29b17" md5="102a85cedc562e80f096dd8562648a53" sha1="5a71c261b50146962940fbbd840be8617b47e07b"/>
+	</machine>
+	<machine name="DreamGEAR_75-in-1_(Unl)[!]">
+		<description>DreamGEAR_75-in-1_(Unl)[!]</description>
+		<rom name="DreamGEAR_75-in-1_(Unl)[!].bin" size="4194304" crc="9aabcb8f" md5="3b2b3c4475773bfff3e9ee522b2ab0ce" sha1="aa9446b7777fa64503871225fcaf2a17aafd9af1"/>
+	</machine>
+	<machine name="Duck Tales III (Duck Tales) [p1][!]">
+		<description>Duck Tales III (Duck Tales) [p1][!]</description>
+		<rom name="Duck Tales III (Duck Tales) [p1][!].nes" size="131088" crc="3a984617" md5="2ebfc0d912e11234b5e9eef7a8a2c6da" sha1="28887e9652a7df1225738d7fb4d9b183ab0f98d8"/>
+	</machine>
+	<machine name="Duck Tales III (R) [!]">
+		<description>Duck Tales III (R) [!]</description>
+		<rom name="Duck Tales III (R) [!].nes" size="131088" crc="26b81889" md5="874d2918c41cfb6cd89407ba84b5f863" sha1="ff7556aa0b5e87d27738a5a0cff15f42695d166a"/>
+	</machine>
+	<machine name="Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (As) [decrypted]">
+		<description>Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (As) [decrypted]</description>
+		<rom name="Duo Bao Xiao Ying Hao - Guang Ming yu An Hei Chuan Shuo (As) [decrypted].nes" size="524304" crc="1efaa0d3" md5="ef3799c4026cac818becb91e1fc5bdd6" sha1="8bc011c82eba7135b19f516c4e52df1302bb3524"/>
+	</machine>
+	<machine name="Earth Worm Jim 2 (Pirate Original)">
+		<description>Earth Worm Jim 2 (Pirate Original)</description>
+		<rom name="Earth Worm Jim 2 (Pirate Original).nes" size="524304" crc="d9748b92" md5="2b8bb7b2cee6d8c5875d08827c831df3" sha1="7a47d388dedff41369688109348422e36a60564a"/>
+	</machine>
+	<machine name="Earth Worm Jim 2 (Pirate Original) (Dr.Titus)">
+		<description>Earth Worm Jim 2 (Pirate Original) (Dr.Titus)</description>
+		<rom name="Earth Worm Jim 2 (Pirate Original) (Dr.Titus).nes" size="524304" crc="cf1d19a4" md5="60d33bfa92a1f7c45c1deb135ec01b75" sha1="72695110c1bebfc97be0893324ac4ed27c501064"/>
+	</machine>
+	<machine name="Earth Worm Jim 2 (Pirate Original) [U][!]">
+		<description>Earth Worm Jim 2 (Pirate Original) [U][!]</description>
+		<rom name="Earth Worm Jim 2 (Pirate Original) [U][!].nes" size="524424" crc="f30c5c49" md5="ab2a83c639b531f0afb4e6a6f1b2499b" sha1="23e97906702feb3a8b63b69b9b59108cc6524cc7"/>
+	</machine>
+	<machine name="Earth Worm Jim 3 (Unl) [p1][a1]">
+		<description>Earth Worm Jim 3 (Unl) [p1][a1]</description>
+		<rom name="Earth Worm Jim 3 (Unl) [p1][a1].nes" size="524304" crc="c8c28d22" md5="f1dea5030a92133aed81c29a9ba5d68b" sha1="cd90d36fea40234715a1b90099eea13088a78b09"/>
+	</machine>
+	<machine name="Education Computer 2000 48-in-1 (Unl)[f1]">
+		<description>Education Computer 2000 48-in-1 (Unl)[f1]</description>
+		<rom name="Education Computer 2000 48-in-1 (Unl)[f1].nes" size="524304" crc="4d583d05" md5="94ddcbbd2724efd4055dd9992415e03c" sha1="f2dc8eef860525d813209186695d7654b3565417"/>
+	</machine>
+	<machine name="Education Computer 26-in-1 (R)[!]">
+		<description>Education Computer 26-in-1 (R)[!]</description>
+		<rom name="Education Computer 26-in-1 (R)[!].nes" size="524304" crc="750c4ec9" md5="1a724f2507d0ace210b95b5a327131a4" sha1="ca787b499b36f06f67bfd7542002a3bbf81ee584"/>
+	</machine>
+	<machine name="Education Computer 32-in-1 (Game Star)(Unl)[!]">
+		<description>Education Computer 32-in-1 (Game Star)(Unl)[!]</description>
+		<rom name="Education Computer 32-in-1 (Game Star)(Unl)[!].nes" size="1048592" crc="9c30362f" md5="2e0eff9161b16287d544d8597937ee79" sha1="9725e7c692feb5c00fdd0799a5ec2d8ee7e4a636"/>
+	</machine>
+	<machine name="Education Computer 48-in-1 (Game Star)(Unl)[!]">
+		<description>Education Computer 48-in-1 (Game Star)(Unl)[!]</description>
+		<rom name="Education Computer 48-in-1 (Game Star)(Unl)[!].nes" size="524304" crc="96298124" md5="6e478e075817d1d509377000be9a30c7" sha1="a14620f1220eb7105a7176ce922762eb7d4f30a4"/>
+	</machine>
+	<machine name="Educational Computer 2000 (Ru) [U][!]">
+		<description>Educational Computer 2000 (Ru) [U][!]</description>
+		<rom name="Educational Computer 2000 (Ru) [U][!].nes" size="1048688" crc="f5c55af3" md5="996c2aee9a4c57906dd2cd78cc296e4d" sha1="52cb35b484bf0ecabc364461420a70f96a3b8806"/>
+	</machine>
+	<machine name="Exciting Basket (FDS Conversion)[U][!]">
+		<description>Exciting Basket (FDS Conversion)[U][!]</description>
+		<rom name="Exciting Basket (FDS Conversion)[U][!].nes" size="131187" crc="7593aa7c" md5="ff92de9cea7ee695d0bc067af9b1a7cd" sha1="9d1d1050587e973b667a33eaa60f1406c19aa2d1"/>
+	</machine>
+	<machine name="F-1 Race (R)[!]">
+		<description>F-1 Race (R)[!]</description>
+		<rom name="F-1 Race (R)[!].nes" size="24592" crc="fac7d523" md5="8540d455234d399328f935bfa8a36728" sha1="fec45711a7c35d46a21e8bdaaec8f2b6d326e37a"/>
+	</machine>
+	<machine name="Falsion (FDS Conversion, Whirlwind Manu)(Unl)[!]">
+		<description>Falsion (FDS Conversion, Whirlwind Manu)(Unl)[!]</description>
+		<rom name="Falsion (FDS Conversion, Whirlwind Manu)(Unl)[!].nes" size="131088" crc="8441acca" md5="e217a897d6d4dea83ef0ab39afaa5135" sha1="e544cbe318d6a92f41d55a9f2f3b9d2a1b508d04"/>
+	</machine>
+	<machine name="Famicom Yarou 54 (Unl)[!]">
+		<description>Famicom Yarou 54 (Unl)[!]</description>
+		<rom name="Famicom Yarou 54 (Unl)[!].nes" size="2097168" crc="8a81418f" md5="f9d09082d9de3b9357c2f437f96dfd85" sha1="ebb7eb1c3636911219a742ffb7defffad09787c4"/>
+	</machine>
+	<machine name="Famicon Yarou Vol.1 7-in-1 (Unl) (J) [!]">
+		<description>Famicon Yarou Vol.1 7-in-1 (Unl) (J) [!]</description>
+		<rom name="Famicon Yarou Vol.1 7-in-1 (Unl) (J) [!].nes" size="262160" crc="42e2521a" md5="3e6e7424397c3927732429428c407f5e" sha1="b2893fabd0c633f8d68d27b273dab88298a5e744"/>
+	</machine>
+	<machine name="Famicon Yarou Vol.5 7-in-1 (Unl) (J) [!]">
+		<description>Famicon Yarou Vol.5 7-in-1 (Unl) (J) [!]</description>
+		<rom name="Famicon Yarou Vol.5 7-in-1 (Unl) (J) [!].nes" size="262160" crc="17d7984b" md5="4dbb8576f767f4cda9613ce751b51980" sha1="b9ff4c6548068ec034766f2965f63c1e555976ba"/>
+	</machine>
+	<machine name="Felix vs Jerry (Unl) [!]">
+		<description>Felix vs Jerry (Unl) [!]</description>
+		<rom name="Felix vs Jerry (Unl) [!].nes" size="262160" crc="05b7bc7c" md5="f32e98c4ddf384d2ab86b83b48fbb977" sha1="0e37dcc96c20f16e4844033175b4bec1c028069b"/>
+	</machine>
+	<machine name="Ferrari - Grand Prix Challenge (U) [p2][hM04]">
+		<description>Ferrari - Grand Prix Challenge (U) [p2][hM04]</description>
+		<rom name="Ferrari - Grand Prix Challenge (U) [p2][hM04].nes" size="262160" crc="399d0516" md5="55c79a9b570fc6a77cdd44c270435a0b" sha1="7070190c806bac6ba5277a499ee8b915229b172a"/>
+	</machine>
+	<machine name="FIFA 97 International Soccer [p1]">
+		<description>FIFA 97 International Soccer [p1]</description>
+		<rom name="FIFA 97 International Soccer [p1].nes" size="131088" crc="af86b6d4" md5="7380412185a22d2489d6db14e4a3bd31" sha1="e2df080967686b207eea030995152005d6b9640f"/>
+	</machine>
+	<machine name="FIFA 99 (Unl)[!]">
+		<description>FIFA 99 (Unl)[!]</description>
+		<rom name="FIFA 99 (Unl)[!].nes" size="65552" crc="f808f81c" md5="5250bd5ce39dffe5b2d60a45085f7e6f" sha1="7e11febda7cb3ffe71593d5e204734e71d3539f4"/>
+	</machine>
+	<machine name="Final Combat (Sachen) (72 pin cart) [U][!]">
+		<description>Final Combat (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Final Combat (Sachen) (72 pin cart) [U][!].nes" size="82037" crc="9c81ec2c" md5="7132984ed2d02e9068640864d0370524" sha1="ddbcd7eee1841c7789c46f9a059dcfb17d28af6e"/>
+	</machine>
+	<machine name="Final Combat (Sachen) (fami cart) [U][!]">
+		<description>Final Combat (Sachen) (fami cart) [U][!]</description>
+		<rom name="Final Combat (Sachen) (fami cart) [U][!].nes" size="82035" crc="ce4d1333" md5="273c6decb41548bffe0c4227ff6a9e38" sha1="bc2b8c887aa3985a79c97253c5a89d8b06624014"/>
+	</machine>
+	<machine name="Final Fantasy X1 (Ch)[!]">
+		<description>Final Fantasy X1 (Ch)[!]</description>
+		<rom name="Final Fantasy X1 (Ch)[!].nes" size="1048592" crc="ecc1b7be" md5="61206043dc95f0c4bb7a996f5043961e" sha1="02e2aa8ec6c145b6f8d33a743d0967c541de38d0"/>
+	</machine>
+	<machine name="Final Fantasy X2 (Ch)[!]">
+		<description>Final Fantasy X2 (Ch)[!]</description>
+		<rom name="Final Fantasy X2 (Ch)[!].nes" size="1048592" crc="6ece4741" md5="6eb4ba25c7493c1316f3621679ff91be" sha1="b7b21e42c857c2b119eeaae8ea7fe8eb59795546"/>
+	</machine>
+	<machine name="Flintstones 2 - The Surprise at Dinosaur Peak!, The (U) [h1]">
+		<description>Flintstones 2 - The Surprise at Dinosaur Peak!, The (U) [h1]</description>
+		<rom name="Flintstones 2 - The Surprise at Dinosaur Peak!, The (U) [h1].nes" size="393232" crc="2eabcf00" md5="5a3f71cfb907d822a5e2fa7c575a35c0" sha1="fb9a9517aa8c76639b49fd1341488416f7265dea"/>
+	</machine>
+	<machine name="Forcity (Jackal hack) [p1]">
+		<description>Forcity (Jackal hack) [p1]</description>
+		<rom name="Forcity (Jackal hack) [p1].nes" size="131088" crc="b99d664b" md5="084bca9496776a89d9752c6999a5d5a5" sha1="7e0ac3c6bbeb54452f83a88c426128c3bf0b1f05"/>
+	</machine>
+	<machine name="Fortuna (R)[!]">
+		<description>Fortuna (R)[!]</description>
+		<rom name="Fortuna (R)[!].nes" size="40976" crc="e6bcee14" md5="2f1b45ad643a6b6d56bf02db4d6a85cc" sha1="1abc50c3a52be499b33665b736696ed1e57ed714"/>
+	</machine>
+	<machine name="France 98 (Unl) [!]">
+		<description>France 98 (Unl) [!]</description>
+		<rom name="France 98 (Unl) [!].nes" size="262160" crc="2e99b4a6" md5="c41ddc2006b6c6c194898fe04a163b7b" sha1="f1e5d7a7f4a8c0407be965ee9616a1dcd1d6bc5f"/>
+	</machine>
+	<machine name="Gaau Hok Gwong Cheung (Ch)[U][!]">
+		<description>Gaau Hok Gwong Cheung (Ch)[U][!]</description>
+		<rom name="Gaau Hok Gwong Cheung (Ch)[U][!].nes" size="262249" crc="dae93148" md5="0e6b798275506bea83de20dbb2bb5a5f" sha1="bed988abc750ce63b22544585a25d9fb37df6512"/>
+	</machine>
+	<machine name="Gaiapolis (Sachen) [U][!]">
+		<description>Gaiapolis (Sachen) [U][!]</description>
+		<rom name="Gaiapolis (Sachen) [U][!].nes" size="393309" crc="bb6a7013" md5="0761ac84cc16868f81266c8d6d1b5e93" sha1="ef5a1aa5ced7865b3ec18b55e425e7112cfc4db0"/>
+	</machine>
+	<machine name="Galactic Crusader (Sachen) (72 pin cart) [U][!]">
+		<description>Galactic Crusader (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Galactic Crusader (Sachen) (72 pin cart) [U][!].nes" size="65655" crc="777385a8" md5="497f3575c16c643d258e3b3c6457d7d1" sha1="df024711cd92e98e1c4ec6b05811aa7f695686ad"/>
+	</machine>
+	<machine name="Gameinis Pingpong (Unl)[!]">
+		<description>Gameinis Pingpong (Unl)[!]</description>
+		<rom name="Gameinis Pingpong (Unl)[!].nes" size="524304" crc="2b7bb615" md5="d209f69ea0e663124068510664500962" sha1="f5734be16c617f464d39882b77d85a01c84842bf"/>
+	</machine>
+	<machine name="Garou Densetsu Special (Unl)[!]">
+		<description>Garou Densetsu Special (Unl)[!]</description>
+		<rom name="Garou Densetsu Special (Unl)[!].nes" size="393232" crc="3c25c26d" md5="9bf36f0b664b1ba7e054467c87874840" sha1="86e03858a374cf47328eb60aa84b014382fed811"/>
+	</machine>
+	<machine name="Garou Densetsu Special (Unl)[a1][!]">
+		<description>Garou Densetsu Special (Unl)[a1][!]</description>
+		<rom name="Garou Densetsu Special (Unl)[a1][!].nes" size="393232" crc="3cc4ca46" md5="3535ceec349d26fa7edd8b613ff3748e" sha1="9f8d19ca2fce42661940736a1a9f3e66d09bc09a"/>
+	</machine>
+	<machine name="Garou Densetsu Special (Unl)[f1]">
+		<description>Garou Densetsu Special (Unl)[f1]</description>
+		<rom name="Garou Densetsu Special (Unl)[f1].nes" size="393232" crc="56d01f53" md5="cd856e73c9a24cb2323153c4644f0f5d" sha1="aec04b867e7de8dc7ace8563bd693b9199c4a33a"/>
+	</machine>
+	<machine name="Gimmick! (J)(Prototype)">
+		<description>Gimmick! (J)(Prototype)</description>
+		<rom name="Gimmick! (J)(Prototype).nes" size="393232" crc="fef2fefd" md5="05bece1cfc481d938ba63a52eea1cdb5" sha1="9317f06542f152e0e6a9b542a6a661aa0aafd0a7"/>
+	</machine>
+	<machine name="GLK Book 48-in-1 (Unl)[!]">
+		<description>GLK Book 48-in-1 (Unl)[!]</description>
+		<rom name="GLK Book 48-in-1 (Unl)[!].nes" size="1048592" crc="7fc23e26" md5="e702403d826518f3943be94415cd6e7c" sha1="b66aba518635e7abeea9332a877fd3580e888cb9"/>
+	</machine>
+	<machine name="GLK Dance (FengLi) (As) [!]">
+		<description>GLK Dance (FengLi) (As) [!]</description>
+		<rom name="GLK Dance (FengLi) (As) [!].nes" size="262160" crc="1f22ae98" md5="6a74719eac8b45a9b2583373debf105c" sha1="269c26f1163da4780a76d60e2ee90ad30aec2d3b"/>
+	</machine>
+	<machine name="Goal 3 (Kunio Kun no Nekketsu Soccer League hack) [p1]">
+		<description>Goal 3 (Kunio Kun no Nekketsu Soccer League hack) [p1]</description>
+		<rom name="Goal 3 (Kunio Kun no Nekketsu Soccer League hack) [p1].nes" size="262160" crc="2f3b4bdc" md5="02dfcf7b2aa80cf88285759c940e5d75" sha1="b552aed3f54bfeb89381c98697fb47bbc1742e43"/>
+	</machine>
+	<machine name="Goal 5 Soccer (Unl)[p1][!]">
+		<description>Goal 5 Soccer (Unl)[p1][!]</description>
+		<rom name="Goal 5 Soccer (Unl)[p1][!].nes" size="131088" crc="5a69f2ec" md5="c9f277d9f6faef2a7e7c5249fa0ef7c7" sha1="a44835e35c37a9e798f8e63883bec022ea8f50d8"/>
+	</machine>
+	<machine name="Goblins (R)[!]">
+		<description>Goblins (R)[!]</description>
+		<rom name="Goblins (R)[!].nes" size="131088" crc="beeb715f" md5="834f86568bdba6e3204a8d918efbc905" sha1="c4e498fe2323fb6b0bec8f6626eb1a82c73ce6e3"/>
+	</machine>
+	<machine name="Gold 7-in-1 HIK (AK456, 8195 PCB)[p1][!]">
+		<description>Gold 7-in-1 HIK (AK456, 8195 PCB)[p1][!]</description>
+		<rom name="Gold 7-in-1 HIK (AK456, 8195 PCB)[p1][!].nes" size="2097168" crc="07101bde" md5="013f01d903c2e3b099b84656691758fc" sha1="354f7acc8a920cbf960c6fbfb700cdcf2887a224"/>
+	</machine>
+	<machine name="Golden 7-in-1 (ML-600)[p1][!]">
+		<description>Golden 7-in-1 (ML-600)[p1][!]</description>
+		<rom name="Golden 7-in-1 (ML-600)[p1][!].nes" size="2097168" crc="5a8d4309" md5="c88cfff9e1166cef468e14c434adeae6" sha1="9bf5c2832060501bea64fc821e41e7fcfd42f895"/>
+	</machine>
+	<machine name="Golden Axe IV (Unl)[!]">
+		<description>Golden Axe IV (Unl)[!]</description>
+		<rom name="Golden Axe IV (Unl)[!].nes" size="262160" crc="3c404852" md5="b434be5f3aaeff335aa1864f1a180c6f" sha1="9335dd0e79ed012d105c163c2ffad1e621b49ae6"/>
+	</machine>
+	<machine name="Golden Card 6-in-1 (SPC009) (Super Game) [!]">
+		<description>Golden Card 6-in-1 (SPC009) (Super Game) [!]</description>
+		<rom name="Golden Card 6-in-1 (SPC009) (Super Game) [!].nes" size="2097168" crc="56aee402" md5="22baafd91f92a6be18d98a815c65f004" sha1="16a8d8ff82c632a55d04f0bf83f84da51807aad0"/>
+	</machine>
+	<machine name="Golden KTV (As)[!]">
+		<description>Golden KTV (As)[!]</description>
+		<rom name="Golden KTV (As)[!].nes" size="1048592" crc="036d87b4" md5="b714a4b938300a60a8c76fc15f0cba7e" sha1="f756700467770d3c054c75befc8ad42c5a37216d"/>
+	</machine>
+	<machine name="Great Wall, The (Sachen) (72 pin cart) [U][!]">
+		<description>Great Wall, The (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Great Wall, The (Sachen) (72 pin cart) [U][!].nes" size="65665" crc="3d29877e" md5="3d6698ad26ac521257e30f5831a3608a" sha1="37981698ecf55fb768d1b8eb5468f5cd06ba9a90"/>
+	</machine>
+	<machine name="Green Beret (FDS Conversion, Kaiser)[U][!]">
+		<description>Green Beret (FDS Conversion, Kaiser)[U][!]</description>
+		<rom name="Green Beret (FDS Conversion, Kaiser)[U][!].nes" size="163962" crc="6b83d9c0" md5="a6b9f00db7dbd9bff6e351871575b28c" sha1="6291bb84f73054403da14cf79462ce70331b6cf8"/>
+	</machine>
+	<machine name="Green Beret (FDS Conversion, Whirlwind Manu)(Unl)[U][!]">
+		<description>Green Beret (FDS Conversion, Whirlwind Manu)(Unl)[U][!]</description>
+		<rom name="Green Beret (FDS Conversion, Whirlwind Manu)(Unl)[U][!].nes" size="163960" crc="f3c8edec" md5="c75ed5efb14d7c49d1a0e79bffb44877" sha1="0537a4e9dd42a4ef86c9c231a2edc9dd25ac69b0"/>
+	</machine>
+	<machine name="Gremlins 2 - The New Batch (U) [p1]">
+		<description>Gremlins 2 - The New Batch (U) [p1]</description>
+		<rom name="Gremlins 2 - The New Batch (U) [p1].nes" size="393232" crc="3005df88" md5="e831669e2fc28eff47cc1db7452eea0b" sha1="a32bb44dc7cf2ffdf571482aa7bfb7e99bfe3002"/>
+	</machine>
+	<machine name="Gyruss (Kaiser)(FDS Conversion)(Unl)[U][!]">
+		<description>Gyruss (Kaiser)(FDS Conversion)(Unl)[U][!]</description>
+		<rom name="Gyruss (Kaiser)(FDS Conversion)(Unl)[U][!].nes" size="131188" crc="5d70b148" md5="2334ed68bc1c9fb4ce219d3da8c0b121" sha1="e81ae8a8a9c6d1e81c126022e1205625fda099a1"/>
+	</machine>
+	<machine name="Happy Pairs (Sachen) (72 pin cart) [U][!]">
+		<description>Happy Pairs (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Happy Pairs (Sachen) (72 pin cart) [U][!].nes" size="98432" crc="fe361c47" md5="d42b48fed125bec8de158ace2200da31" sha1="8579d9b67e9053ed1bd31a5f849a041ec6542064"/>
+	</machine>
+	<machine name="Harry Potter (Pirate Original)">
+		<description>Harry Potter (Pirate Original)</description>
+		<rom name="Harry Potter (Pirate Original).nes" size="262160" crc="9ded73b5" md5="78a0349f4e92411a333711df75e48248" sha1="278c657578be27b3e4b8219d1ef7b93374a57104"/>
+	</machine>
+	<machine name="Harry Potter (Unl) (English Title) [p2]">
+		<description>Harry Potter (Unl) (English Title) [p2]</description>
+		<rom name="Harry Potter (Unl) (English Title) [p2].nes" size="262160" crc="8be823a9" md5="95ea5d62d61a00e7814701898ab2055e" sha1="95c880bcedbebee43235ee4203e5d2188003d23b"/>
+	</machine>
+	<machine name="Harry Story (Unl) [!]">
+		<description>Harry Story (Unl) [!]</description>
+		<rom name="Harry Story (Unl) [!].nes" size="262160" crc="d76536bf" md5="40821e0e53e55fe828bbbf5fd277d892" sha1="fee8f20bcfc9db9b9668444fdab5506115ab7238"/>
+	</machine>
+	<machine name="Harvest Moon (C) [!]">
+		<description>Harvest Moon (C) [!]</description>
+		<rom name="Harvest Moon (C) [!].nes" size="2097168" crc="63c02287" md5="8544b7f9a1d018e88399e7eeb604870d" sha1="c7a8145803261c0751821e42476bd171a7203cc7"/>
+	</machine>
+	<machine name="He Jin Zhuang Bei 150-in-1 Real Game (Unl)[U][!]">
+		<description>He Jin Zhuang Bei 150-in-1 Real Game (Unl)[U][!]</description>
+		<rom name="He Jin Zhuang Bei 150-in-1 Real Game (Unl)[U][!].nes" size="16777338" crc="cb650596" md5="cee1cff4412c1fa79ea8af55f607aa14" sha1="82bbe48e04a41d747e6897951a660a11be83403a"/>
+	</machine>
+	<machine name="Hector 87 (J) [!]">
+		<description>Hector 87 (J) [!]</description>
+		<rom name="Hector 87 (J) [!].nes" size="131088" crc="4b4ba1c6" md5="b56d5e8bfba2b169b11e72eee1b65118" sha1="549fb0a3aff3b4a7f14ddce413e111d6214c1eea"/>
+	</machine>
+	<machine name="Hell Fighter (Sachen) (72 pin cart) [U][!]">
+		<description>Hell Fighter (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Hell Fighter (Sachen) (72 pin cart) [U][!].nes" size="327797" crc="db8a6893" md5="99382a4b9b4cd2c8285b3e60df2d53c8" sha1="ae0b0db5ccc4ce5c167c88e0071010cb35d2837a"/>
+	</machine>
+	<machine name="Highway Star (Kaiser)[U][!]">
+		<description>Highway Star (Kaiser)[U][!]</description>
+		<rom name="Highway Star (Kaiser)[U][!].nes" size="131174" crc="e6416634" md5="69fc0365e2d2633fa356af7618092f67" sha1="1981c3892db8e708fe1b4cf41c21561e1f92bd6f"/>
+	</machine>
+	<machine name="Highway Star II (Unl)[p1][!]">
+		<description>Highway Star II (Unl)[p1][!]</description>
+		<rom name="Highway Star II (Unl)[p1][!].nes" size="262160" crc="6e2bc025" md5="6736f5e97c9231d3affab96f321df7b6" sha1="584d0c44c11b10fddc5964b522b6137b3ad43565"/>
+	</machine>
+	<machine name="Honey Peach (Sachen) [U][f1]">
+		<description>Honey Peach (Sachen) [U][f1]</description>
+		<rom name="Honey Peach (Sachen) [U][f1].nes" size="163954" crc="8e9e2a54" md5="b827ca70a3daa52068b8247a3819e431" sha1="21fcaf28cf2dfc4c5f363814f6b075cd2439908b"/>
+	</machine>
+	<machine name="Hunt for the Red October, The [p1]">
+		<description>Hunt for the Red October, The [p1]</description>
+		<rom name="Hunt for the Red October, The [p1].nes" size="262160" crc="b87ba056" md5="36f613bb00a7fac1e6b468c0fae6d2a9" sha1="4f26dbfa6b6606e3e92935e7bc8f827c5f3f591d"/>
+	</machine>
+	<machine name="International Cricket (Unl)">
+		<description>International Cricket (Unl)</description>
+		<rom name="International Cricket (Unl).nes" size="524304" crc="81595701" md5="2a4b871e0bf56d0d46c92185fa006418" sha1="0e1caa66820825893ce4034a73c7b9602dd6fdfa"/>
+	</machine>
+	<machine name="International Cricket (Unl)(Alt version)[f1]">
+		<description>International Cricket (Unl)(Alt version)[f1]</description>
+		<rom name="International Cricket (Unl)(Alt version)[f1].nes" size="524304" crc="cadfbef5" md5="8ba493e3831297c3c45745dab58f0bce" sha1="99dceab985e9709c82edc2e35c2e5eba67c8ce62"/>
+	</machine>
+	<machine name="Janggun ui Adeul (General's Son)(K)[!]">
+		<description>Janggun ui Adeul (General's Son)(K)[!]</description>
+		<rom name="Janggun ui Adeul (General's Son)(K)[!].nes" size="655376" crc="54171ca4" md5="ed401d83acbe3b0f87d3bf3dd89edf44" sha1="b189ef567e15c227618e70185f20dcb52a88db54"/>
+	</machine>
+	<machine name="Ji Jia Zhan Shi (As) [decrypted]">
+		<description>Ji Jia Zhan Shi (As) [decrypted]</description>
+		<rom name="Ji Jia Zhan Shi (As) [decrypted].nes" size="786448" crc="a1e00712" md5="b1c9f6a4e99cd3a74e3737906e4e1771" sha1="b58ae46f7c473cc660bf90e1b60abadd29b71e53"/>
+	</machine>
+	<machine name="Jimmy Connor's Tennis (R) [!]">
+		<description>Jimmy Connor's Tennis (R) [!]</description>
+		<rom name="Jimmy Connor's Tennis (R) [!].nes" size="131088" crc="9c23aae8" md5="73f39d05fe1f00e8d477e278c74be851" sha1="b19e96f66006bd84635ae9ee7abb92ba48e05d40"/>
+	</machine>
+	<machine name="Jimmy Connor's Tennis (U) [p1]">
+		<description>Jimmy Connor's Tennis (U) [p1]</description>
+		<rom name="Jimmy Connor's Tennis (U) [p1].nes" size="131088" crc="6f2095a7" md5="949c3b9f15aa5d33e54d4633a0d2c706" sha1="71cd5e21cf292df1c4db489016872773f4dee96a"/>
+	</machine>
+	<machine name="Joe &amp; Mac (U) [p1]">
+		<description>Joe &amp; Mac (U) [p1]</description>
+		<rom name="Joe &amp; Mac (U) [p1].nes" size="262160" crc="394df04b" md5="a1bf3adc691e990bcc6a810c8f96af66" sha1="e3b06ee583b47c55b5a1c9354482a27ad2cfbfde"/>
+	</machine>
+	<machine name="Jurassic Boy (Sachen) [U][!]">
+		<description>Jurassic Boy (Sachen) [U][!]</description>
+		<rom name="Jurassic Boy (Sachen) [U][!].nes" size="393312" crc="8a5e12d5" md5="bef31d948be42e0e219fecb2bd2ff49e" sha1="6ce165fd447e5a669d50d0131791f23ebe625555"/>
+	</machine>
+	<machine name="Jurassic Park - The Lost World (Unl)[!]">
+		<description>Jurassic Park - The Lost World (Unl)[!]</description>
+		<rom name="Jurassic Park - The Lost World (Unl)[!].nes" size="524304" crc="d44f0a74" md5="74586b58d85c53f931a0cfac8b214164" sha1="7f5c93a1864117c96533d578faae5ded34befbde"/>
+	</machine>
+	<machine name="Juuouki (J) [p1]">
+		<description>Juuouki (J) [p1]</description>
+		<rom name="Juuouki (J) [p1].nes" size="262160" crc="acd69618" md5="2f8ae04c0626f314b731d8547495f4ff" sha1="1c30bb107cff8fadfe4bc6bfb439b019e036d1d4"/>
+	</machine>
+	<machine name="Kang Ti Wu Wang (Ch)[!]">
+		<description>Kang Ti Wu Wang (Ch)[!]</description>
+		<rom name="Kang Ti Wu Wang (Ch)[!].nes" size="262160" crc="61e281be" md5="572d15ea6a18c357165419a5462520ef" sha1="4b655c11f6aae9cbe4f30c3e68010ce06dd7b020"/>
+	</machine>
+	<machine name="Kart Fighter (SOMARI-W)(Unl)[!]">
+		<description>Kart Fighter (SOMARI-W)(Unl)[!]</description>
+		<rom name="Kart Fighter (SOMARI-W)(Unl)[!].nes" size="393232" crc="7318bed4" md5="5a4fe9a31f2a14f3ac09c82a4b8ec56b" sha1="166be5e1be37a57aa6db10bbbfba278ca442f536"/>
+	</machine>
+	<machine name="Keyboard Transformer (R)[!]">
+		<description>Keyboard Transformer (R)[!]</description>
+		<rom name="Keyboard Transformer (R)[!].nes" size="41077" crc="95c7bedf" md5="1d8cddc5010a83aa22fab0e434bc36cb" sha1="c31fc2dce37d89371528ffe6fb07e3353b4b5eb3"/>
+	</machine>
+	<machine name="Keyboard Transformer (R)[f1]">
+		<description>Keyboard Transformer (R)[f1]</description>
+		<rom name="Keyboard Transformer (R)[f1].nes" size="41078" crc="0b1e37db" md5="096e08fc909baa0ed5fd8f67defdf0b0" sha1="5aea5b0fb1eb07c113cd19ce8b3202bd85844272"/>
+	</machine>
+	<machine name="King of Fighters 97 (Rex Soft.) [U][!]">
+		<description>King of Fighters 97 (Rex Soft.) [U][!]</description>
+		<rom name="King of Fighters 97 (Rex Soft.) [U][!].nes" size="393331" crc="a4dd4e80" md5="d9f9386fb409301eccdf9ac46fa56d1c" sha1="f82a8997ee2d50a9c3893d3a54eceec8585ef3dc"/>
+	</machine>
+	<machine name="King Series Super 4-in-1 (K4M03)[p1][!]">
+		<description>King Series Super 4-in-1 (K4M03)[p1][!]</description>
+		<rom name="King Series Super 4-in-1 (K4M03)[p1][!].nes" size="1048592" crc="4667bcd3" md5="9e863ac52d881877564b244ec953e505" sha1="e0d65c3c6fcb832bd0e4ee7df102beecd4e33dbb"/>
+	</machine>
+	<machine name="Korean Igo (Unl) [U][!]">
+		<description>Korean Igo (Unl) [U][!]</description>
+		<rom name="Korean Igo (Unl) [U][!].nes" size="147624" crc="253547d8" md5="460b1f324d71198a5fcef1cc94201a74" sha1="0ac65c87a6820fc3d41f3f4bc344304edf08e1f5"/>
+	</machine>
+	<machine name="Kou Dai Zuan Shi (NJ010)(Ch)[!]">
+		<description>Kou Dai Zuan Shi (NJ010)(Ch)[!]</description>
+		<rom name="Kou Dai Zuan Shi (NJ010)(Ch)[!].nes" size="2097168" crc="c9d9246a" md5="f73fa04d458e3325fae85a1c63da2f60" sha1="255fcac948f0c615e1014bfb4e6dc9f5cb15a12e"/>
+	</machine>
+	<machine name="Last Ninja, The [p1]">
+		<description>Last Ninja, The [p1]</description>
+		<rom name="Last Ninja, The [p1].nes" size="262160" crc="40c750ac" md5="227570c619d7ab9f9b5c643797c43b76" sha1="cea273b8b0b29660f9ed6a69fcc6590dc4d8fd74"/>
+	</machine>
+	<machine name="LIKO Study Cartridge 3-in-1 [!]">
+		<description>LIKO Study Cartridge 3-in-1 [!]</description>
+		<rom name="LIKO Study Cartridge 3-in-1 [!].nes" size="131088" crc="d1dd49e8" md5="321506d8faf5f07e54af0b62224a1697" sha1="fd89f53ffa82b1258a5f57fe7caa2619726cc787"/>
+	</machine>
+	<machine name="Lines (R)[!]">
+		<description>Lines (R)[!]</description>
+		<rom name="Lines (R)[!].nes" size="24592" crc="f7571304" md5="78c9d06fea4b5681d23b5fc26ac7225f" sha1="d48cbebbb1832b551180261a9b00cc5226708236"/>
+	</machine>
+	<machine name="Lion King 3 - Simon and Pumba">
+		<description>Lion King 3 - Simon and Pumba</description>
+		<rom name="Lion King 3 - Simon and Pumba.nes" size="524304" crc="31e07200" md5="63d17aa5ba4cc33169b1f5317ccc6bb1" sha1="16d3f416b8ef7678e778a6e7651518751339167a"/>
+	</machine>
+	<machine name="Lion King 5, The (Unl) [!]">
+		<description>Lion King 5, The (Unl) [!]</description>
+		<rom name="Lion King 5, The (Unl) [!].nes" size="524304" crc="afe27718" md5="8189d66f92f72a52d2e5c2f2c9724535" sha1="7977905f29b1fa8e4acdf8afe9045c5263b742f8"/>
+	</machine>
+	<machine name="Lion King 6, The (Unl)[!]">
+		<description>Lion King 6, The (Unl)[!]</description>
+		<rom name="Lion King 6, The (Unl)[!].nes" size="524304" crc="89ac0aaf" md5="d571bbe7cd5eb4d17a7ae25ab69eaefc" sha1="6911d0ee7395482612f50f1067eb2759238dbb87"/>
+	</machine>
+	<machine name="Lion King, The (1995) (Unl) [!]">
+		<description>Lion King, The (1995) (Unl) [!]</description>
+		<rom name="Lion King, The (1995) (Unl) [!].nes" size="262160" crc="ae1eca36" md5="a21ca5a57562effc4063b455e634cd43" sha1="106fdcd5556589db9108c438b9b04edf98899d71"/>
+	</machine>
+	<machine name="Lion King, The (Chiki-Chiki Dog)(Unl)[!]">
+		<description>Lion King, The (Chiki-Chiki Dog)(Unl)[!]</description>
+		<rom name="Lion King, The (Chiki-Chiki Dog)(Unl)[!].nes" size="262160" crc="304e9dc8" md5="fe8542301d0c360e3f39c6036ef68f4b" sha1="54c516639c39f45125cfdd308ee919680b8b4e43"/>
+	</machine>
+	<machine name="Lion King, The (Mapper 4) (L-N1) [p1][!]">
+		<description>Lion King, The (Mapper 4) (L-N1) [p1][!]</description>
+		<rom name="Lion King, The (Mapper 4) (L-N1) [p1][!].nes" size="524304" crc="70155626" md5="f0f13f4d39f18df7d7cd57618fb86234" sha1="34591ee0506076083b3b81fe82efdd2945224a92"/>
+	</machine>
+	<machine name="Little Mermaid (J) [p1]">
+		<description>Little Mermaid (J) [p1]</description>
+		<rom name="Little Mermaid (J) [p1].nes" size="131088" crc="3cdc4c38" md5="1807801be6471ed5fcd4de4ee567a599" sha1="da74f18e59d3f54d1792ee924df7ed9caf57eeb5"/>
+	</machine>
+	<machine name="Little Mermaid (R) [!]">
+		<description>Little Mermaid (R) [!]</description>
+		<rom name="Little Mermaid (R) [!].nes" size="131088" crc="37c53518" md5="97981b1f5514474dab3b47f7d2d7839f" sha1="124d5d6b26eb88c9469008565b6933562eab3888"/>
+	</machine>
+	<machine name="Locksmith (Sachen) (72 pin cart) [U][!]">
+		<description>Locksmith (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Locksmith (Sachen) (72 pin cart) [U][!].nes" size="41070" crc="8bd17316" md5="da2b205acc0904844121e8ce61d58c29" sha1="4359cfb6d82ed550aa3aedeca3cbae590b80986a"/>
+	</machine>
+	<machine name="Lucky 777 (Sachen) (72 pin cart) [U][!]">
+		<description>Lucky 777 (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Lucky 777 (Sachen) (72 pin cart) [U][!].nes" size="32879" crc="d939212e" md5="4115105d3a68e09d2aaa65107321eda9" sha1="43678e47ea6ca963bed75b37c915f6b142aaf7a1"/>
+	</machine>
+	<machine name="M.C. Mario (M.C. Kids hack) [p1]">
+		<description>M.C. Mario (M.C. Kids hack) [p1]</description>
+		<rom name="M.C. Mario (M.C. Kids hack) [p1].nes" size="262160" crc="f8004feb" md5="59456eb6209ddebd6ff7c1e2eaac7c26" sha1="bb97ee05826555a876fc750c64764e009b825913"/>
+	</machine>
+	<machine name="Mach Rider (JU)[p1]">
+		<description>Mach Rider (JU)[p1]</description>
+		<rom name="Mach Rider (JU)[p1].nes" size="40976" crc="ec1816fa" md5="09018621fc1997cc45061cc46fa23593" sha1="5004064a518ba2944f82c5f0b1a57c724741f81f"/>
+	</machine>
+	<machine name="Magic Bubble (Unl) [!]">
+		<description>Magic Bubble (Unl) [!]</description>
+		<rom name="Magic Bubble (Unl) [!].nes" size="131088" crc="52987925" md5="5dda9ce0c7d423531de63a3a533b9dd5" sha1="c7a42374faa83a1c9d18fccc64d3beaebf76e52c"/>
+	</machine>
+	<machine name="Magic Cube (Sachen) (72 pin cart) [U][!]">
+		<description>Magic Cube (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Magic Cube (Sachen) (72 pin cart) [U][!].nes" size="49279" crc="61625581" md5="1d42d0136e1b9478ce732c18d7c2020f" sha1="13475548a492e045895006e49eb4c11a1b0bce20"/>
+	</machine>
+	<machine name="Magic Jewelry 2 (As) [!]">
+		<description>Magic Jewelry 2 (As) [!]</description>
+		<rom name="Magic Jewelry 2 (As) [!].nes" size="65552" crc="9d4b8891" md5="bd586df0f7e34b84d28b3396390d7825" sha1="3decae42042f4c259b198c001ee1b76050c5c2e2"/>
+	</machine>
+	<machine name="Magical Mathematics (Sachen) (copy prot) [U][!]">
+		<description>Magical Mathematics (Sachen) (copy prot) [U][!]</description>
+		<rom name="Magical Mathematics (Sachen) (copy prot) [U][!].nes" size="41077" crc="087fccd5" md5="8a1687cc877272b5cc7c9e5a79350a00" sha1="a369a1cbe86063718fa2fa279064ce5523250ac0"/>
+	</machine>
+	<machine name="Magistr v1.0 (Subor v1.0 hack) (Russian)">
+		<description>Magistr v1.0 (Subor v1.0 hack) (Russian)</description>
+		<rom name="Magistr v1.0 (Subor v1.0 hack) (Russian).nes" size="131088" crc="5f250013" md5="87d72ee3fc224daf947c2802add4c3f1" sha1="a1ed597f8663f755d2e1ae29736a33abe57f3462"/>
+	</machine>
+	<machine name="Magistr-Genie 2 (Unl)[!]">
+		<description>Magistr-Genie 2 (Unl)[!]</description>
+		<rom name="Magistr-Genie 2 (Unl)[!].nes" size="2097168" crc="93cfde6c" md5="1dda9de671945f84a40b8ab5a583cb8b" sha1="6311473a59144436b77d3b6c67bffd69f7d2bc69"/>
+	</machine>
+	<machine name="Mahjan Samit Kabukicho Hen (Sachen) [U][!]">
+		<description>Mahjan Samit Kabukicho Hen (Sachen) [U][!]</description>
+		<rom name="Mahjan Samit Kabukicho Hen (Sachen) [U][!].nes" size="131186" crc="97318f56" md5="cc362f64d220d54b88eee0ad90940873" sha1="580e54d551ee43a3f15e7a387076bdac97767e7f"/>
+	</machine>
+	<machine name="Mahjong World (Sacneh) (fami cart) [U][!]">
+		<description>Mahjong World (Sacneh) (fami cart) [U][!]</description>
+		<rom name="Mahjong World (Sacneh) (fami cart) [U][!].nes" size="131183" crc="ddb3c34d" md5="a32e99f000045c27788522461a6b9d97" sha1="e87262a33f1bf18a1cf1bd8761c4d0d5db677558"/>
+	</machine>
+	<machine name="Mahjong World (Sacneh) [U][!]">
+		<description>Mahjong World (Sacneh) [U][!]</description>
+		<rom name="Mahjong World (Sacneh) [U][!].nes" size="131171" crc="5ed28a19" md5="3803997f99efb715851d9d6b802cd6b9" sha1="ad2a471e967a2ed4af986c544d138c31834036b7"/>
+	</machine>
+	<machine name="Malen'kaya Rusalochka (R)[!]">
+		<description>Malen'kaya Rusalochka (R)[!]</description>
+		<rom name="Malen'kaya Rusalochka (R)[!].nes" size="131088" crc="a6b95a2e" md5="91eae2a116aa243a41330b4005761f2b" sha1="6ccceb8ab92ac876cf353ced08dacdb92c792c16"/>
+	</machine>
+	<machine name="Mario 16 (Joe &amp; Mac Hack) [p1]">
+		<description>Mario 16 (Joe &amp; Mac Hack) [p1]</description>
+		<rom name="Mario 16 (Joe &amp; Mac Hack) [p1].nes" size="262160" crc="37fc8194" md5="319075504c02d53ebd3ea0c3235c55a5" sha1="82ba4a6e172ecf7f4e7b248c892ec886f25b9388"/>
+	</machine>
+	<machine name="Mario Fighter III (Unl) [!]">
+		<description>Mario Fighter III (Unl) [!]</description>
+		<rom name="Mario Fighter III (Unl) [!].nes" size="524304" crc="1fbf88be" md5="d557af0f9ef1219d1496e793b6261828" sha1="4dd03faa97f452cefa40e8a02d005217ec74ae74"/>
+	</machine>
+	<machine name="Master Chu and the Drunkard Hu (Sachen) (72 pin cart) [U][!]">
+		<description>Master Chu and the Drunkard Hu (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Master Chu and the Drunkard Hu (Sachen) (72 pin cart) [U][!].nes" size="65668" crc="5e712587" md5="b2fb5d7dd5e3286ebeba569bfbf1fd9b" sha1="08a2fbefe2e5543b9ef3e8342009456d67500884"/>
+	</machine>
+	<machine name="Master Fighter II (As) [!]">
+		<description>Master Fighter II (As) [!]</description>
+		<rom name="Master Fighter II (As) [!].nes" size="262160" crc="31c69f9f" md5="6693b97d8d12cd777f6bb23cc715d628" sha1="3a0d0593003df6c116e0c13f1f062f1dcec142ed"/>
+	</machine>
+	<machine name="Master Fighter VI' (YOKO-Y1) [U][!]">
+		<description>Master Fighter VI' (YOKO-Y1) [U][!]</description>
+		<rom name="Master Fighter VI' (YOKO-Y1) [U][!].nes" size="655471" crc="6e7bd497" md5="bb219fa0c57bf0384fd67c9f5f05d989" sha1="0dfde1a814126d5a4742d5fa3d8d5c8e71462ea3"/>
+	</machine>
+	<machine name="Mathematics_1_Class_(a_training_program_complex_'NITAS',_Early_Version)">
+		<description>Mathematics_1_Class_(a_training_program_complex_'NITAS',_Early_Version)</description>
+		<rom name="Mathematics_1_Class_(a_training_program_complex_'NITAS',_Early_Version).nes" size="65552" crc="2b9f1749" md5="32e22b724b916b893272180181d0e94f" sha1="85414e1c29bdf7419e62b84c17ce9be2498317ec"/>
+	</machine>
+	<machine name="Mathematics_1_Class_(a_training_program_complex_'NITAS',_Older_Version)">
+		<description>Mathematics_1_Class_(a_training_program_complex_'NITAS',_Older_Version)</description>
+		<rom name="Mathematics_1_Class_(a_training_program_complex_'NITAS',_Older_Version).nes" size="65552" crc="74b6fffc" md5="5ef95dc4c5c7546dc5a868080c1ce660" sha1="7b7fa341189c2a9ba5520ffb00b9d122558ba098"/>
+	</machine>
+	<machine name="Mathematics_2_Class_(a_training_program_complex_'NITAS',_Early_Version)">
+		<description>Mathematics_2_Class_(a_training_program_complex_'NITAS',_Early_Version)</description>
+		<rom name="Mathematics_2_Class_(a_training_program_complex_'NITAS',_Early_Version).nes" size="65552" crc="84d16ece" md5="c4e105c4279a98ea68b0e4898fe7a588" sha1="47005e3aeb9e926a2fd1c8290b27ed0f420b7906"/>
+	</machine>
+	<machine name="Mathematics_2_Class_(a_training_program_complex_'NITAS',_Older_Version)">
+		<description>Mathematics_2_Class_(a_training_program_complex_'NITAS',_Older_Version)</description>
+		<rom name="Mathematics_2_Class_(a_training_program_complex_'NITAS',_Older_Version).nes" size="65552" crc="63b4b939" md5="0d5e9ef00ab598920ba17930ac5a49c3" sha1="336e4ffaa9571ee4a170512e76d39f07966d1ceb"/>
+	</machine>
+	<machine name="Mathematics_2x2_(a_training_program_complex_'NITAS',_Early_Version)">
+		<description>Mathematics_2x2_(a_training_program_complex_'NITAS',_Early_Version)</description>
+		<rom name="Mathematics_2x2_(a_training_program_complex_'NITAS',_Early_Version).nes" size="65552" crc="6b745caf" md5="f6b9edecad5ba86708f53f5d87e464de" sha1="c4dce9b41116c01dab172d241f57e3b12d3c3cf4"/>
+	</machine>
+	<machine name="Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!]">
+		<description>Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!]</description>
+		<rom name="Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!].nes" size="262160" crc="fa432854" md5="82f2044c119ad90342c7ec280e7256b8" sha1="f522c9ea49175a9d9d2b74a9f471f11248f0ffa1"/>
+	</machine>
+	<machine name="Mei Shao Nv Meng Gong Chang (Princess Maker)(Sachen)(Unl)[U][!]">
+		<description>Mei Shao Nv Meng Gong Chang (Princess Maker)(Sachen)(Unl)[U][!]</description>
+		<rom name="Mei Shao Nv Meng Gong Chang (Princess Maker)(Sachen)(Unl)[U][!].nes" size="1573019" crc="656965e7" md5="8ee868f9e5943089487d8970871b1714" sha1="9bfb371c129b40bdc72b3c77ec364185ba1d2c7d"/>
+	</machine>
+	<machine name="Menu9999999in1 [p1][b1]">
+		<description>Menu9999999in1 [p1][b1]</description>
+		<rom name="Menu9999999in1 [p1][b1].nes" size="24592" crc="ace5f7cc" md5="bf3176e35a7c5e2fee35d9c8c3dbc8ae" sha1="4ee559d5d1da9bec28485f1760238ebb745086cf"/>
+	</machine>
+	<machine name="Menu9999in1 [p1][b1]">
+		<description>Menu9999in1 [p1][b1]</description>
+		<rom name="Menu9999in1 [p1][b1].nes" size="24592" crc="6d24a943" md5="1dfadddacf75d37589783558885c4813" sha1="c9aae4418e6480d0d46573707a455a4380c2cd3a"/>
+	</machine>
+	<machine name="Metal Fighter (Sachen) (72 pin cart) [U][!]">
+		<description>Metal Fighter (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Metal Fighter (Sachen) (72 pin cart) [U][!].nes" size="65651" crc="a8a33d5c" md5="edfb7e98d9a5b22a7425389106439442" sha1="fc84c080b867f74dfe35ca1e308078292c9f621b"/>
+	</machine>
+	<machine name="Metroid - Jin Ji Zhi Ling (FDS Conversion)(Kaiser)(KS7037)[U][!]">
+		<description>Metroid - Jin Ji Zhi Ling (FDS Conversion)(Kaiser)(KS7037)[U][!]</description>
+		<rom name="Metroid - Jin Ji Zhi Ling (FDS Conversion)(Kaiser)(KS7037)[U][!].nes" size="131210" crc="00db409f" md5="3b2902ec654a50fafa9341c12bc88087" sha1="78957ee1aba370fcd61d0c2d627a7e2f58c8ce2f"/>
+	</machine>
+	<machine name="Mi Hun Che (As) [U][p1]">
+		<description>Mi Hun Che (As) [U][p1]</description>
+		<rom name="Mi Hun Che (As) [U][p1].nes" size="49246" crc="1070dace" md5="ff7f6d5afbde26ffc11b24b349e12309" sha1="222bbc728af16a266947959c3a529722541939b6"/>
+	</machine>
+	<machine name="Mi Hun Che (Ch)(full copyrights)[!]">
+		<description>Mi Hun Che (Ch)(full copyrights)[!]</description>
+		<rom name="Mi Hun Che (Ch)(full copyrights)[!].nes" size="40976" crc="ee80f01a" md5="6c3c7c146bf3a6b642af23ec803a5ed1" sha1="9bb89bd18766e4bfbbfb1987efd042347f232328"/>
+	</machine>
+	<machine name="Mi Hun Che (Ch)(replaced copyrights)[p1][!]">
+		<description>Mi Hun Che (Ch)(replaced copyrights)[p1][!]</description>
+		<rom name="Mi Hun Che (Ch)(replaced copyrights)[p1][!].nes" size="40976" crc="bda81d1a" md5="d0a318cb4796a0a4a0b09a3fa8471f6a" sha1="9bb8f37c7fdc5fb4ce8af185b8729f86187ca623"/>
+	</machine>
+	<machine name="Mickey Mania 7 (Pirate Origianl)">
+		<description>Mickey Mania 7 (Pirate Origianl)</description>
+		<rom name="Mickey Mania 7 (Pirate Origianl).nes" size="524304" crc="a1460ad3" md5="e6ffa9fd1a9470cca2a87557dbee54ab" sha1="516e416be1feee392af2cca0ad75dddac3c58748"/>
+	</machine>
+	<machine name="Mighty Bomb Jack (J) (VS)">
+		<description>Mighty Bomb Jack (J) (VS)</description>
+		<rom name="Mighty Bomb Jack (J) (VS).nes" size="40976" crc="ad8344ce" md5="56ea1138eaa1f6a8cce6334b146e257d" sha1="414623eb2443ba304530447b0395ed1a70b6183c"/>
+	</machine>
+	<machine name="Mighty Bomb Jack (U) (185 mapper)">
+		<description>Mighty Bomb Jack (U) (185 mapper)</description>
+		<rom name="Mighty Bomb Jack (U) (185 mapper).nes" size="40976" crc="6332ce67" md5="e217634d8b8137e127500ae95c78509d" sha1="f7fd332f4f982c0a31b540c9d436678b9876060b"/>
+	</machine>
+	<machine name="Mike Tyson's Punch-Out!! (Unl) [!]">
+		<description>Mike Tyson's Punch-Out!! (Unl) [!]</description>
+		<rom name="Mike Tyson's Punch-Out!! (Unl) [!].nes" size="262160" crc="d4326a8c" md5="57fae987cbda382a48df062a256b51af" sha1="1873484446121db2de11b5f10ac2349ac78867fb"/>
+	</machine>
+	<machine name="Millionaire (Sachen) (72 pin cart) [U][!]">
+		<description>Millionaire (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Millionaire (Sachen) (72 pin cart) [U][!].nes" size="49265" crc="cbde09a2" md5="5832e0275e10d962c93539655cc7f1c2" sha1="acf915f78a27115cf971ca2ac7e80c441b1552ce"/>
+	</machine>
+	<machine name="Mission Impossible (U) [p1]">
+		<description>Mission Impossible (U) [p1]</description>
+		<rom name="Mission Impossible (U) [p1].nes" size="262160" crc="66231a3e" md5="ea4171eda1af6206c7da1d7905e5956a" sha1="8b9e8c3ab9dd82f269bfe8ad4533d02fe18e3c1f"/>
+	</machine>
+	<machine name="Monty no Doki Doki Daisassou (FDS Conversion)(Unl)[U][!]">
+		<description>Monty no Doki Doki Daisassou (FDS Conversion)(Unl)[U][!]</description>
+		<rom name="Monty no Doki Doki Daisassou (FDS Conversion)(Unl)[U][!].nes" size="131195" crc="00c4d069" md5="41a770f9817a388a3dd1e7652a826453" sha1="60c4e31e63be21e93999baa2930102b96e5f1ac9"/>
+	</machine>
+	<machine name="Morskoy Boy (Russian)">
+		<description>Morskoy Boy (Russian)</description>
+		<rom name="Morskoy Boy (Russian).nes" size="40976" crc="1ddf0a54" md5="dbfbadea6fe2566c2e89bba40393a2c6" sha1="4a4314f9a0351c39e29e1b45d4aa6fcbb973356c"/>
+	</machine>
+	<machine name="Mortal Combat 3 Extra 60 [M-E3] (Pirate Original)">
+		<description>Mortal Combat 3 Extra 60 [M-E3] (Pirate Original)</description>
+		<rom name="Mortal Combat 3 Extra 60 [M-E3] (Pirate Original).nes" size="786448" crc="7e725fba" md5="4b51ff5ac700a0b19df64a07f44cc37b" sha1="29d77900308cae80e214153819702abb547de7a8"/>
+	</machine>
+	<machine name="Mortal Kombat 3 (18p) (YH2001) [p1][U][!]">
+		<description>Mortal Kombat 3 (18p) (YH2001) [p1][U][!]</description>
+		<rom name="Mortal Kombat 3 (18p) (YH2001) [p1][U][!].nes" size="1048690" crc="a1a58f51" md5="c587ebfd12a3c1be753d12682ded3926" sha1="1de6c4721b9a3344ce373d42a06212ec350d11cc"/>
+	</machine>
+	<machine name="Mortal Kombat 3 - Special 56 Peoples (Unl) [!]">
+		<description>Mortal Kombat 3 - Special 56 Peoples (Unl) [!]</description>
+		<rom name="Mortal Kombat 3 - Special 56 Peoples (Unl) [!].nes" size="655376" crc="0ba8e82e" md5="b4cff458fc2a337cb63f8ee4c1bd452b" sha1="a3f7e763199b47f39f302f9ad483e4c34d7f8e6a"/>
+	</machine>
+	<machine name="Mortal Kombat 4 (8p) [p1][U][!]">
+		<description>Mortal Kombat 4 (8p) [p1][U][!]</description>
+		<rom name="Mortal Kombat 4 (8p) [p1][U][!].nes" size="1048681" crc="09f7c4ee" md5="f8b587d4a76d89ae1220beeefa643d55" sha1="1adffd511baf2d78d59eb98835415dac1f62a998"/>
+	</machine>
+	<machine name="Mortal Kombat 6 (Unl)[!]">
+		<description>Mortal Kombat 6 (Unl)[!]</description>
+		<rom name="Mortal Kombat 6 (Unl)[!].nes" size="393232" crc="eb3b7e57" md5="9fe44b81974c52d3781d06058e111547" sha1="79ae123bb84bd2537885011cb275284e168f76be"/>
+	</machine>
+	<machine name="Mortal Kombat 6 (Unprotected)(Unl)">
+		<description>Mortal Kombat 6 (Unprotected)(Unl)</description>
+		<rom name="Mortal Kombat 6 (Unprotected)(Unl).nes" size="393287" crc="f9b0187e" md5="81b1a02b8c7c7e575fd4f434fea3c8b2" sha1="38472bbd5a229c8426898be40caf9508e1b9f472"/>
+	</machine>
+	<machine name="Mortal Kombat 7 (Unprotected)(Unl)">
+		<description>Mortal Kombat 7 (Unprotected)(Unl)</description>
+		<rom name="Mortal Kombat 7 (Unprotected)(Unl).nes" size="393287" crc="d322f7a3" md5="ec817721e111b60688b17451db29da3b" sha1="ab9e1589690f75f5e8161e3249f76a53365584ff"/>
+	</machine>
+	<machine name="Mortal Kombat II (Blue Version)(Unl)[!]">
+		<description>Mortal Kombat II (Blue Version)(Unl)[!]</description>
+		<rom name="Mortal Kombat II (Blue Version)(Unl)[!].nes" size="393232" crc="257a99d5" md5="66a7575d475b2a528979831011b6d002" sha1="463c8ef24579f6304c4ea69fc0545771a256075d"/>
+	</machine>
+	<machine name="Mortal Kombat II (Original) [p1][!]">
+		<description>Mortal Kombat II (Original) [p1][!]</description>
+		<rom name="Mortal Kombat II (Original) [p1][!].nes" size="393232" crc="b0ba55cf" md5="b7c9f49ada0b75f17c0636b29f743722" sha1="0deed3eda5a5d21ba530aed745926c5fc80329e9"/>
+	</machine>
+	<machine name="Mortal Kombat II (Rev. B)(Unl) [!]">
+		<description>Mortal Kombat II (Rev. B)(Unl) [!]</description>
+		<rom name="Mortal Kombat II (Rev. B)(Unl) [!].nes" size="393232" crc="5827d72c" md5="4c3c9b576e0375244d3fcf6a42a08f66" sha1="fd5513048f9ec2796833ddc643283fae9681772d"/>
+	</machine>
+	<machine name="Mortal Kombat II (YOKO) [U][!]">
+		<description>Mortal Kombat II (YOKO) [U][!]</description>
+		<rom name="Mortal Kombat II (YOKO) [U][!].nes" size="524394" crc="66c567d3" md5="dfaa720ae4b1670c0e6f0d5a0449b03b" sha1="aca98e4570f05a33d72a50a685243999e06faf85"/>
+	</machine>
+	<machine name="Mortal Kombat II Special (Pirate Original)[p1][!]">
+		<description>Mortal Kombat II Special (Pirate Original)[p1][!]</description>
+		<rom name="Mortal Kombat II Special (Pirate Original)[p1][!].nes" size="655376" crc="99d81100" md5="f23dd1f03e37d18da5b15dab150fde85" sha1="dadf165efa370a11f30ff4eff2101d3b5565e6d9"/>
+	</machine>
+	<machine name="Mortal Kombat III Special (Pirate Original)[p1][!]">
+		<description>Mortal Kombat III Special (Pirate Original)[p1][!]</description>
+		<rom name="Mortal Kombat III Special (Pirate Original)[p1][!].nes" size="655376" crc="17937518" md5="e969cb14ff56923c78a58bd39e0139f4" sha1="58ade3aedf6f1d3d90e4b6c83db30144b18d3893"/>
+	</machine>
+	<machine name="Mortal Kombat V Pro [p1][U][!]">
+		<description>Mortal Kombat V Pro [p1][U][!]</description>
+		<rom name="Mortal Kombat V Pro [p1][U][!].nes" size="524398" crc="e0ecb4e2" md5="448e681940e2f4809e6bb4af3cda099a" sha1="c6268c6738a04277ed50c2fe599c754f78c5ed66"/>
+	</machine>
+	<machine name="Moster Inc. (Menu removed)(Unl)">
+		<description>Moster Inc. (Menu removed)(Unl)</description>
+		<rom name="Moster Inc. (Menu removed)(Unl).nes" size="262160" crc="373869f0" md5="795e3ddce0e86124dec0e3a8d3f2f46a" sha1="15ae04cb8b4801eaa936f653d174a806fb73f5b2"/>
+	</machine>
+	<machine name="Mr. Mary 2 (Unl)[!]">
+		<description>Mr. Mary 2 (Unl)[!]</description>
+		<rom name="Mr. Mary 2 (Unl)[!].nes" size="81936" crc="46b7f236" md5="b53f1cd624226a1e0a1b108d06099d73" sha1="36be69005b736c5062ec239298d4c6955a2347cf"/>
+	</machine>
+	<machine name="NARC (R) [!]">
+		<description>NARC (R) [!]</description>
+		<rom name="NARC (R) [!].nes" size="131088" crc="9b7514ee" md5="0293e237fe2c2bdbaf464c225b981bd7" sha1="548c0de0c641fb7e2092b22f45bc221877760a10"/>
+	</machine>
+	<machine name="NARC (R) [f1]">
+		<description>NARC (R) [f1]</description>
+		<rom name="NARC (R) [f1].nes" size="131088" crc="1b27be3d" md5="a9bcd13bb170b7ced05318dfcfd18a04" sha1="186d599b11ba30e9d1a263854305706fc5e3d90a"/>
+	</machine>
+	<machine name="New 4-in-1 Supergame (YH4239) [p1][U][!]">
+		<description>New 4-in-1 Supergame (YH4239) [p1][U][!]</description>
+		<rom name="New 4-in-1 Supergame (YH4239) [p1][U][!].nes" size="1048689" crc="972d87ac" md5="02a0369641f874e8985d2a4578cac14e" sha1="2d24ce0aba32f8339c62c7dd4edf0dce2843c1e9"/>
+	</machine>
+	<machine name="Ninja Turtles 5 (Unl)[!]">
+		<description>Ninja Turtles 5 (Unl)[!]</description>
+		<rom name="Ninja Turtles 5 (Unl)[!].nes" size="262160" crc="0108cd54" md5="fe373beaff5c7087caebe4f76fde23e0" sha1="61711329988edc056ac59b13a3afc72659b5020f"/>
+	</machine>
+	<machine name="Panda Prince, The (Shin-Shin) (Unl) [!]">
+		<description>Panda Prince, The (Shin-Shin) (Unl) [!]</description>
+		<rom name="Panda Prince, The (Shin-Shin) (Unl) [!].nes" size="524304" crc="23d057e5" md5="b6b214fa2454e2afd3b26f4fc15f29ee" sha1="b61dca64cf35f48c2c1a46f115b902f160ba3de7"/>
+	</machine>
+	<machine name="Panda World (Unl)">
+		<description>Panda World (Unl)</description>
+		<rom name="Panda World (Unl).nes" size="262160" crc="dff2fe93" md5="b193c40178ff78ff710e7888090f9511" sha1="38fc2b003f3fc2cb11412efcee12e4e898f5648d"/>
+	</machine>
+	<machine name="Panic Restaurant (U) [p1]">
+		<description>Panic Restaurant (U) [p1]</description>
+		<rom name="Panic Restaurant (U) [p1].nes" size="262160" crc="b4f1b988" md5="5aa9b11409b4a01a72ef33f4367c3a17" sha1="b636edfcd7ec1c57a1187fdc6b8c251c89aeeda8"/>
+	</machine>
+	<machine name="PEC-586 Pyramid Education Computer (Unl)[U][!]">
+		<description>PEC-586 Pyramid Education Computer (Unl)[U][!]</description>
+		<rom name="PEC-586 Pyramid Education Computer (Unl)[U][!].nes" size="131180" crc="51681d74" md5="e5d1bb112449593d896d954f3ac8f786" sha1="b5978a0daa5e1d02464fba7bddbfe32db6ea748d"/>
+	</machine>
+	<machine name="Penguin &amp; Seal (Sachen) (72 pin cart) [U][!]">
+		<description>Penguin &amp; Seal (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Penguin &amp; Seal (Sachen) (72 pin cart) [U][!].nes" size="24691" crc="326fa230" md5="db4d8deb460ff2145e7f67e4a605952a" sha1="41994a3c8f15bfbba09fe48ce2f98b9691fbfd7b"/>
+	</machine>
+	<machine name="Pikachu Y2K [decrypted] [mapper #254]">
+		<description>Pikachu Y2K [decrypted] [mapper #254]</description>
+		<rom name="Pikachu Y2K [decrypted] [mapper #254].nes" size="262160" crc="96273f74" md5="997fb5d0611a7fb793a48bd1eb2f6535" sha1="6dc89878242f95fb5bf1a117c6bf8e77beb27c23"/>
+	</machine>
+	<machine name="Pizza Pop Mario (Unl) [!]">
+		<description>Pizza Pop Mario (Unl) [!]</description>
+		<rom name="Pizza Pop Mario (Unl) [!].nes" size="262160" crc="f8bde333" md5="335ff75814bcf7e763f07056ea75a96a" sha1="eea56c0a07c8d24a685061300942e7a663ca803b"/>
+	</machine>
+	<machine name="Pocket Monster (Pirate Original) [!]">
+		<description>Pocket Monster (Pirate Original) [!]</description>
+		<rom name="Pocket Monster (Pirate Original) [!].nes" size="196624" crc="50fd23dd" md5="6e5739e7105de72e43a8a1166eb9aa00" sha1="c201d1947df2974122c8e83cb26975eb1102ddb9"/>
+	</machine>
+	<machine name="Poke Tetris (Unl) [bad rom]">
+		<description>Poke Tetris (Unl) [bad rom]</description>
+		<rom name="Poke Tetris (Unl) [bad rom].nes" size="40976" crc="ffdcf4ca" md5="056553106122a318a7f59b7dd9b29047" sha1="a22693b19be13108dcfb38f53d06c395b55f174e"/>
+	</machine>
+	<machine name="Pokemon 2000 (Mitsume ga tooru Hack) [p1][!]">
+		<description>Pokemon 2000 (Mitsume ga tooru Hack) [p1][!]</description>
+		<rom name="Pokemon 2000 (Mitsume ga tooru Hack) [p1][!].nes" size="262160" crc="f946ee2a" md5="2260a7c8736e2ecb4e28d925dad2044e" sha1="4265e8d8f707b3e43609d7d6cb3cdafbe14eeb30"/>
+	</machine>
+	<machine name="Pokemon 4-in-1 (Union Bond G-0001) (Pirate Original)">
+		<description>Pokemon 4-in-1 (Union Bond G-0001) (Pirate Original)</description>
+		<rom name="Pokemon 4-in-1 (Union Bond G-0001) (Pirate Original).nes" size="262160" crc="2708ffd0" md5="2e29316cfa36b11cf74ca5984fe4bdfd" sha1="b79713cda8183a94a95de5fdadfb728564596c58"/>
+	</machine>
+	<machine name="Pokemon Diamond (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!]">
+		<description>Pokemon Diamond (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!]</description>
+		<rom name="Pokemon Diamond (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!].nes" size="1048592" crc="fe819e5a" md5="d9fab2c743750da11d4e45562df041cf" sha1="dc47ce78475007cd72a41e9b60d71be9a4e94c72"/>
+	</machine>
+	<machine name="Pokemon Diamond II (Ch)[!]">
+		<description>Pokemon Diamond II (Ch)[!]</description>
+		<rom name="Pokemon Diamond II (Ch)[!].nes" size="1048592" crc="91d6f1f4" md5="efc3933c833059f8b1e82c9eb48e6057" sha1="603a686b3a3267d09b9a6840224b1eb07313f849"/>
+	</machine>
+	<machine name="Pokemon Diamond III (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!]">
+		<description>Pokemon Diamond III (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!]</description>
+		<rom name="Pokemon Diamond III (HengGe, ABC-51PCB, MMC3 based 8M)(Ch)[!].nes" size="1048848" crc="725a7eae" md5="964a77006aad0f6fd098f89fe8ed8e34" sha1="186f739e271ca7d51b8401aa2570edf21b14aee9"/>
+	</machine>
+	<machine name="Pokemon HeartGold (KT-008 PCB)(Ch)[!]">
+		<description>Pokemon HeartGold (KT-008 PCB)(Ch)[!]</description>
+		<rom name="Pokemon HeartGold (KT-008 PCB)(Ch)[!].nes" size="1048592" crc="4a4a0130" md5="57d03f1825e06dcb6748ec4ee21bf7a4" sha1="8d07f249f4f52bf27d5055a1fa1e9769e4180a5c"/>
+	</machine>
+	<machine name="Pokemon Leaf Green I (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!]">
+		<description>Pokemon Leaf Green I (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!]</description>
+		<rom name="Pokemon Leaf Green I (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!].nes" size="1048592" crc="39202f37" md5="e5a4bf99df119ee5e5b1c96817d3379c" sha1="0be1c1728a06ba44c5c8ce58aeb1eb82c864c316"/>
+	</machine>
+	<machine name="Pokemon Leaf Green II (HengGe, BBC-2 PCB, MMC3 based 8M)(Ch)[!]">
+		<description>Pokemon Leaf Green II (HengGe, BBC-2 PCB, MMC3 based 8M)(Ch)[!]</description>
+		<rom name="Pokemon Leaf Green II (HengGe, BBC-2 PCB, MMC3 based 8M)(Ch)[!].nes" size="1048592" crc="fd82f24b" md5="31ddfcde352bbfc04adbe5248af9174e" sha1="08631a73545a1e648f82d9c539749cbf85973f67"/>
+	</machine>
+	<machine name="Pokemon Leaf Green III (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!]">
+		<description>Pokemon Leaf Green III (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!]</description>
+		<rom name="Pokemon Leaf Green III (HengGe, BBC-21 PCB, MMC3 based 8M)(Ch)[!].nes" size="1048592" crc="8b619514" md5="24d74e9205df3d23e758541534e28b6f" sha1="57b1df4d7d9fa453e5b3f01c41a7a2187a45ddfb"/>
+	</machine>
+	<machine name="Pokemon Platinum (KT-008 PCB)(Ch)[!]">
+		<description>Pokemon Platinum (KT-008 PCB)(Ch)[!]</description>
+		<rom name="Pokemon Platinum (KT-008 PCB)(Ch)[!].nes" size="1048592" crc="66c510a1" md5="ef2ae7b1bbd4721a668cb80a84c9f390" sha1="14f2ee5e646c288308f8a05d17eaf93378738d62"/>
+	</machine>
+	<machine name="Pokemon Platinum Alt title 1 (KT-008 PCB)(Ch)[!]">
+		<description>Pokemon Platinum Alt title 1 (KT-008 PCB)(Ch)[!]</description>
+		<rom name="Pokemon Platinum Alt title 1 (KT-008 PCB)(Ch)[!].nes" size="1048592" crc="64f43d00" md5="df431870bd4287c2c9cdb480af8e845f" sha1="0e07154265d01d3a3338d5a04041109ad21f546a"/>
+	</machine>
+	<machine name="Pokemon Platinum Alt title 2 (KT-008 PCB)(Ch)[!]">
+		<description>Pokemon Platinum Alt title 2 (KT-008 PCB)(Ch)[!]</description>
+		<rom name="Pokemon Platinum Alt title 2 (KT-008 PCB)(Ch)[!].nes" size="1048592" crc="cbb79206" md5="09d6450fc2d5f20e5b04a55aa7be842a" sha1="84e90f711e9082d612b3abb00130738003ce2f00"/>
+	</machine>
+	<machine name="Pokemon Silver (Little Nemo hack) [p1]">
+		<description>Pokemon Silver (Little Nemo hack) [p1]</description>
+		<rom name="Pokemon Silver (Little Nemo hack) [p1].nes" size="262160" crc="97664a2e" md5="eba71f0f0a932f4de381a1ef7b02efc7" sha1="fd18f05854db874c8c31b5ce157ebc2b5934ff44"/>
+	</machine>
+	<machine name="Poker (1995)[p1][!]">
+		<description>Poker (1995)[p1][!]</description>
+		<rom name="Poker (1995)[p1][!].nes" size="98320" crc="a1e5994e" md5="92c9571529594a7a9e83a53965be782b" sha1="7af3dbdab7455c35dbe82d31de7c17a498eaf5c2"/>
+	</machine>
+	<machine name="Poker 2 (Sachen) [U][!]">
+		<description>Poker 2 (Sachen) [U][!]</description>
+		<rom name="Poker 2 (Sachen) [U][!].nes" size="49262" crc="96f22156" md5="ec161f9967118cd48287a04bf7344b51" sha1="fa7411e3dc9c67211548e14dd563bbbefa8b114d"/>
+	</machine>
+	<machine name="Poker III 5-in-1 (Sachen) [U][!]">
+		<description>Poker III 5-in-1 (Sachen) [U][!]</description>
+		<rom name="Poker III 5-in-1 (Sachen) [U][!].nes" size="131191" crc="d63b82f9" md5="a3697eedde3f0e0f395c84ef49cf2a41" sha1="c96c1fbfaa4061b18a12b0af074a795e4637c76c"/>
+	</machine>
+	<machine name="Poker Mahjong (Sacneh) [U][!]">
+		<description>Poker Mahjong (Sacneh) [U][!]</description>
+		<rom name="Poker Mahjong (Sacneh) [U][!].nes" size="65640" crc="2396964a" md5="65fcc80a601fe69514c564ef30c31429" sha1="e5299a26ba1a5937eadb343afd789f9bf8f2d4bb"/>
+	</machine>
+	<machine name="Pole Tchudes (Russian)">
+		<description>Pole Tchudes (Russian)</description>
+		<rom name="Pole Tchudes (Russian).nes" size="40976" crc="15b2a574" md5="3b2d031ee2aaa6bd42319c02149ead79" sha1="d2c9b1c1ece8cdbeea33ca6e8310541eb4ef896c"/>
+	</machine>
+	<machine name="Pole Tchudes 2 (Russian)">
+		<description>Pole Tchudes 2 (Russian)</description>
+		<rom name="Pole Tchudes 2 (Russian).nes" size="40976" crc="042e7db3" md5="0078168e7476a110e48b2607c77fd3a2" sha1="d340172322df3cd63c25779dfb37319948bff9f6"/>
+	</machine>
+	<machine name="Popeye 2 - Travels in Persia (Unl) [!]">
+		<description>Popeye 2 - Travels in Persia (Unl) [!]</description>
+		<rom name="Popeye 2 - Travels in Persia (Unl) [!].nes" size="524304" crc="67b8a6d7" md5="bdcae15a2246f337815e24c7d833eb48" sha1="affcdc570a668013ce115f6e7cdfffd8cba7bf08"/>
+	</machine>
+	<machine name="Popo Team (Sachen) [U][!]">
+		<description>Popo Team (Sachen) [U][!]</description>
+		<rom name="Popo Team (Sachen) [U][!].nes" size="196708" crc="f2e2e3db" md5="f8f8fa064cc2b556b40dca61d89e9409" sha1="136363f69fecc3676759f5d4207bbdd92cdc5315"/>
+	</machine>
+	<machine name="Power Joy Navigator 50-in-1 (Unl)[U][!]">
+		<description>Power Joy Navigator 50-in-1 (Unl)[U][!]</description>
+		<rom name="Power Joy Navigator 50-in-1 (Unl)[U][!].nes" size="4194417" crc="ad6d9e4c" md5="81d2510478e5e87481e6d23730fc9422" sha1="3f55ccd3c826c1d205b491b473648daf6b355987"/>
+	</machine>
+	<machine name="Power Joy Supermax 30-in-1 (Unl)[U][!]">
+		<description>Power Joy Supermax 30-in-1 (Unl)[U][!]</description>
+		<rom name="Power Joy Supermax 30-in-1 (Unl)[U][!].nes" size="4194416" crc="5ed6b1b6" md5="61ea4820a3963d35964fe6a8e0805ca4" sha1="55109891708b2841c8719887763b8475efda52fe"/>
+	</machine>
+	<machine name="Power Joy Supermax 60-in-1 (Unl)[U][!]">
+		<description>Power Joy Supermax 60-in-1 (Unl)[U][!]</description>
+		<rom name="Power Joy Supermax 60-in-1 (Unl)[U][!].nes" size="4194416" crc="8a86d9c9" md5="2926d83ac1c4d4979bf5f0848f299ee4" sha1="a8353662ac7891e86cf86068c17db80d12f063dd"/>
+	</machine>
+	<machine name="Power Rangers (Unl)[!]">
+		<description>Power Rangers (Unl)[!]</description>
+		<rom name="Power Rangers (Unl)[!].nes" size="262160" crc="26751f1b" md5="a2d218509b4efb203c50558afa28399f" sha1="e98b3074de69e98f080416b276a17564116aab99"/>
+	</machine>
+	<machine name="Power Rangers III (Pirate Original)">
+		<description>Power Rangers III (Pirate Original)</description>
+		<rom name="Power Rangers III (Pirate Original).nes" size="393232" crc="d1990421" md5="f1360c49fdb4c4e614fa2b177661f9e4" sha1="accc997b1afd4ba4379e5421f16fb92a5e2979bc"/>
+	</machine>
+	<machine name="Power Rangers IV (Pirate Original)">
+		<description>Power Rangers IV (Pirate Original)</description>
+		<rom name="Power Rangers IV (Pirate Original).nes" size="393232" crc="0a2ef841" md5="7a5535f40d893683451efc75dada0f9a" sha1="04c3d1429b5eafe452a9731eff001cce212bddbe"/>
+	</machine>
+	<machine name="Prima Soft 9999999-in-1 (02 8807870-3)(Unl)[U][!]">
+		<description>Prima Soft 9999999-in-1 (02 8807870-3)(Unl)[U][!]</description>
+		<rom name="Prima Soft 9999999-in-1 (02 8807870-3)(Unl)[U][!].nes" size="196739" crc="a735c560" md5="cf9dc6f0c5f13915b1833f080589a633" sha1="f96144ea8b02f110ceb487e494eb7c632649cfb2"/>
+	</machine>
+	<machine name="Prince of Persia (R) [!]">
+		<description>Prince of Persia (R) [!]</description>
+		<rom name="Prince of Persia (R) [!].nes" size="131088" crc="094e6961" md5="3f303ca965fda7723a30cb577e60838a" sha1="3d5eb43d76386a34967e4885b1056b69bfd4e33e"/>
+	</machine>
+	<machine name="Prince of Persia (RX-02, Snake)(R)[!]">
+		<description>Prince of Persia (RX-02, Snake)(R)[!]</description>
+		<rom name="Prince of Persia (RX-02, Snake)(R)[!].nes" size="131088" crc="f62ecac9" md5="25efb45ef423f8c89ad87b6989eff1c2" sha1="6e31fa0176a92283c473ad5113d480514e5f7e33"/>
+	</machine>
+	<machine name="Prince of Persia (Translated Title)(R) [!]">
+		<description>Prince of Persia (Translated Title)(R) [!]</description>
+		<rom name="Prince of Persia (Translated Title)(R) [!].nes" size="131088" crc="837b3a2f" md5="b058fcf897d051ff1fdb2803cb0144d0" sha1="f02ddd82e10e550c5c050f3f0c228fd947a1fa83"/>
+	</machine>
+	<machine name="Prince of Persia (U) [h1]">
+		<description>Prince of Persia (U) [h1]</description>
+		<rom name="Prince of Persia (U) [h1].nes" size="131088" crc="c0e25f87" md5="d12c25ba5ccba8782dcdaa98b65a05a7" sha1="c3a86812d2356a41100b909cff460124d8cb31ef"/>
+	</machine>
+	<machine name="ProWres (FDS Conversion, LE05 simplified)(Unl)[U][!]">
+		<description>ProWres (FDS Conversion, LE05 simplified)(Unl)[U][!]</description>
+		<rom name="ProWres (FDS Conversion, LE05 simplified)(Unl)[U][!].nes" size="49282" crc="5ae87633" md5="38fb5108eaea50d60ce7cae3e2ef7283" sha1="91475152fd7592e5396ea3091dada89d941c5be9"/>
+	</machine>
+	<machine name="Puteshestvie po Europe (Russian)">
+		<description>Puteshestvie po Europe (Russian)</description>
+		<rom name="Puteshestvie po Europe (Russian).nes" size="32784" crc="7ff8edb0" md5="cf5c071bf976d826f05a436c7e1aa162" sha1="bb2082f8731fc20ac13e52eb3704d869f24f7a19"/>
+	</machine>
+	<machine name="Pyramd (fami cart) (Sachen) [!]">
+		<description>Pyramd (fami cart) (Sachen) [!]</description>
+		<rom name="Pyramd (fami cart) (Sachen) [!].nes" size="24592" crc="a2f53bdb" md5="602d8bf20c7a3151c9c8239295513008" sha1="1067bbdd6c8edc8bef451a00ea66967c0f776802"/>
+	</machine>
+	<machine name="Pyramid 2 (Sachen) (72 pin cart) [U][!]">
+		<description>Pyramid 2 (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Pyramid 2 (Sachen) (72 pin cart) [U][!].nes" size="82031" crc="c0c281d8" md5="cb8ec8a7a595c1d5ea0ddafff219bcf6" sha1="cc3c7448b4ae38964eba0c403d36176fbc314f22"/>
+	</machine>
+	<machine name="Q-Boy (Sachen) [U][!]">
+		<description>Q-Boy (Sachen) [U][!]</description>
+		<rom name="Q-Boy (Sachen) [U][!].nes" size="262241" crc="a4b9485f" md5="3bee33c745637f61685671814440af79" sha1="aadb0fc7833047bb4d1bee0c10673c48ed811141"/>
+	</machine>
+	<machine name="Queen Bee V (Unl)[!]">
+		<description>Queen Bee V (Unl)[!]</description>
+		<rom name="Queen Bee V (Unl)[!].nes" size="262160" crc="835cd029" md5="789a680266eefc162eeff42a1ee37d54" sha1="2d675982d475876859f82d6adb0580af12f3b261"/>
+	</machine>
+	<machine name="Rally (Zippy Race)(R)[!]">
+		<description>Rally (Zippy Race)(R)[!]</description>
+		<rom name="Rally (Zippy Race)(R)[!].nes" size="24592" crc="57c30fab" md5="2b73b1cde997523661beaca3824129de" sha1="9599bae13863286339e83a23d1aefe7d3b87a71c"/>
+	</machine>
+	<machine name="Red Pig (Tale Spin hack) [p1]">
+		<description>Red Pig (Tale Spin hack) [p1]</description>
+		<rom name="Red Pig (Tale Spin hack) [p1].nes" size="262160" crc="cb526738" md5="23209920c564ac718b447f0c17d7824a" sha1="3d82447664f45d7396b140c8113d3a17e359c359"/>
+	</machine>
+	<machine name="Return of the Jedi (Zen Intergalactic Ninja hack) [p1]">
+		<description>Return of the Jedi (Zen Intergalactic Ninja hack) [p1]</description>
+		<rom name="Return of the Jedi (Zen Intergalactic Ninja hack) [p1].nes" size="262160" crc="48cbca38" md5="373ca0e126378162ab166d231afb3afb" sha1="7f99db06e7c73aff7035ac28e4dc401f06151f6f"/>
+	</machine>
+	<machine name="Robocop 4 (Robocop 3 hack) [p2]">
+		<description>Robocop 4 (Robocop 3 hack) [p2]</description>
+		<rom name="Robocop 4 (Robocop 3 hack) [p2].nes" size="262160" crc="d7b9cd0d" md5="d2f0b13230db6b83703fa7366a6f603a" sha1="ea49ce357753b9d7f333d7e4840f26f5204bd206"/>
+	</machine>
+	<machine name="Rockball (Sachen) [U][!]">
+		<description>Rockball (Sachen) [U][!]</description>
+		<rom name="Rockball (Sachen) [U][!].nes" size="131171" crc="cd20e0d2" md5="7dbc0bbb7907c3dae3654be121ad3448" sha1="d20d301c96eff1e55dba9db63e532fdc605b2530"/>
+	</machine>
+	<machine name="Rockman (R)[!]">
+		<description>Rockman (R)[!]</description>
+		<rom name="Rockman (R)[!].nes" size="131088" crc="17744e33" md5="f1170ee673e9cbb705166994904b7c41" sha1="0a4b47aa51f6e15b8cb75ad89847d3c0f9c69ef5"/>
+	</machine>
+	<machine name="Rusalochka (RX-05, Snake)(R)[!]">
+		<description>Rusalochka (RX-05, Snake)(R)[!]</description>
+		<rom name="Rusalochka (RX-05, Snake)(R)[!].nes" size="131088" crc="9377cdf1" md5="624e42c43a6c3f4b9d97e975a1b17d40" sha1="8d93fe346b79e6972073dfde3b7aa5d909ebe372"/>
+	</machine>
+	<machine name="Rusalochka (Unknown)(R)[!]">
+		<description>Rusalochka (Unknown)(R)[!]</description>
+		<rom name="Rusalochka (Unknown)(R)[!].nes" size="131088" crc="0db235af" md5="a26b41fae415fe4c57a1f29acc215cc7" sha1="a23df7f8c29df840a45bf7631ab24ae7c5dce2fa"/>
+	</machine>
+	<machine name="Rush'n Attack (R) [!]">
+		<description>Rush'n Attack (R) [!]</description>
+		<rom name="Rush'n Attack (R) [!].nes" size="131088" crc="bb81beac" md5="05d0b7c5679bf3ed0a5c07eb012d1a19" sha1="5a9e27fa263e5331fcd41140fa23c950f6fde01e"/>
+	</machine>
+	<machine name="Russian_Language_5_Class_(Early_Version)">
+		<description>Russian_Language_5_Class_(Early_Version)</description>
+		<rom name="Russian_Language_5_Class_(Early_Version).nes" size="65552" crc="fe4da24e" md5="5202f9ab60cc682378c75011e46d2033" sha1="cc423bac06ca6b0a6dbd3edea0e461b17e12fc5d"/>
+	</machine>
+	<machine name="Russkie Gonki (Highway Star)(R)[!]">
+		<description>Russkie Gonki (Highway Star)(R)[!]</description>
+		<rom name="Russkie Gonki (Highway Star)(R)[!].nes" size="131088" crc="908e399d" md5="6f7ce9a88c2a8d855726388f797d6cd8" sha1="d5339d2df2881e21c1d8f32e0f94fb0b5dcd98b0"/>
+	</machine>
+	<machine name="San Guo Zhi (As) [decrypted]">
+		<description>San Guo Zhi (As) [decrypted]</description>
+		<rom name="San Guo Zhi (As) [decrypted].nes" size="393232" crc="dc8838e9" md5="9c81bd80b5b49591ec248c52c9dad58d" sha1="008e44d62380d4358c0bf69e9befe6a4d36faf1b"/>
+	</machine>
+	<machine name="San Shi Liu Ji (As) [decrypted]">
+		<description>San Shi Liu Ji (As) [decrypted]</description>
+		<rom name="San Shi Liu Ji (As) [decrypted].nes" size="524304" crc="deb37ca4" md5="153db72c588682ce1861053771df55b5" sha1="7b43a7fb5e0e3438a4469691ba9fdccc781698d2"/>
+	</machine>
+	<machine name="Seicross (J) (Redump) [!]">
+		<description>Seicross (J) (Redump) [!]</description>
+		<rom name="Seicross (J) (Redump) [!].nes" size="40976" crc="77fe921c" md5="dfd6b81f2e54cf630af93bfe8d1423bf" sha1="8e38e2873592204d5597f9b32c944f0a6fa2dceb"/>
+	</machine>
+	<machine name="Shanghi (J) (Redump) [!]">
+		<description>Shanghi (J) (Redump) [!]</description>
+		<rom name="Shanghi (J) (Redump) [!].nes" size="131088" crc="205b9df0" md5="0614898870a53f3b15bad528df47b7cd" sha1="59faa38eb0e8cfcd7cffc826adeb572484daff05"/>
+	</machine>
+	<machine name="Shanghi (J) (Sample) [!]">
+		<description>Shanghi (J) (Sample) [!]</description>
+		<rom name="Shanghi (J) (Sample) [!].nes" size="131088" crc="383a13fd" md5="c6c304cea5dedd6139386ed38c96e0c3" sha1="269335f38b9f8dfd4c2aefd45803184f6df91d5e"/>
+	</machine>
+	<machine name="Shisen Mahjian 2 (As) [!]">
+		<description>Shisen Mahjian 2 (As) [!]</description>
+		<rom name="Shisen Mahjian 2 (As) [!].nes" size="262160" crc="14af5b3a" md5="bf155da83f3c67d15e48e8fea2f127a6" sha1="3261e011bef403ac5708f64294313f45d10db2f5"/>
+	</machine>
+	<machine name="Shui Hu Zhuan (As) [decrypted]">
+		<description>Shui Hu Zhuan (As) [decrypted]</description>
+		<rom name="Shui Hu Zhuan (As) [decrypted].nes" size="524304" crc="7665aa30" md5="fd7a42d7a00233558dae4540126298cf" sha1="6ab2eeeeca24c4d2930fb2c23e6de72901b76ace"/>
+	</machine>
+	<machine name="Sidewinder (Sachen) (72 pin cart) [U][!]">
+		<description>Sidewinder (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Sidewinder (Sachen) (72 pin cart) [U][!].nes" size="32879" crc="df7129fd" md5="94b10b658555d7fc5038d7f85bb55dae" sha1="4612a67cb85f72284001ea501a1edab02c52979d"/>
+	</machine>
+	<machine name="Silent Assult (Sachen) (72 pin cart) [U][!]">
+		<description>Silent Assult (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Silent Assult (Sachen) (72 pin cart) [U][!].nes" size="131187" crc="2dc20325" md5="09e71595b5ebfad3b6016d20dbb27a5f" sha1="f0f3c3e5b040b3865f91e8e3124a42208c762d9b"/>
+	</machine>
+	<machine name="Silk 2 (Unl)[!]">
+		<description>Silk 2 (Unl)[!]</description>
+		<rom name="Silk 2 (Unl)[!].nes" size="262160" crc="aeacac4a" md5="51eed99deca81295e67b72ee691aeea3" sha1="e56cca1b69ce2f988e8f6a4a5be17cab7703fc22"/>
+	</machine>
+	<machine name="Silver Eagle (Sachen) (72 pin cart) [U][!]">
+		<description>Silver Eagle (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Silver Eagle (Sachen) (72 pin cart) [U][!].nes" size="262270" crc="4f6811e9" md5="c060dc93b1ff88c39da8bd26da41354d" sha1="26dd03725e1be0a904cf056aef673b0d2dfb4608"/>
+	</machine>
+	<machine name="Simbas v1.0 (Subor v1.0 hack) (Russian)">
+		<description>Simbas v1.0 (Subor v1.0 hack) (Russian)</description>
+		<rom name="Simbas v1.0 (Subor v1.0 hack) (Russian).nes" size="131088" crc="b4c2870b" md5="7f57266e8240ec62ef54621490658127" sha1="107e19cdb6daa79e425dede42076fe251b9a2b35"/>
+	</machine>
+	<machine name="Soap Panic (Hacker) [f1]">
+		<description>Soap Panic (Hacker) [f1]</description>
+		<rom name="Soap Panic (Hacker) [f1].nes" size="98320" crc="75202258" md5="a573bfb25db8775c7a56b099db7bb018" sha1="1775d4b5226e06bbb8aaf7130d038c650a849d92"/>
+	</machine>
+	<machine name="Somari (SOMARI-P)(Unl)[!]">
+		<description>Somari (SOMARI-P)(Unl)[!]</description>
+		<rom name="Somari (SOMARI-P)(Unl)[!].nes" size="524304" crc="240a9de4" md5="67f15cf14ed040871992056268a242bc" sha1="a9fc1265de23a013af966505da6d38e5388d36f3"/>
+	</machine>
+	<machine name="Somari (SOMARI-W)(Unl)[!]">
+		<description>Somari (SOMARI-W)(Unl)[!]</description>
+		<rom name="Somari (SOMARI-W)(Unl)[!].nes" size="524304" crc="09307821" md5="83a001ca89b52fa1e8c22f794c1528b4" sha1="4117410ee695ef6466662160ed8ffdd27659b404"/>
+	</machine>
+	<machine name="Sonic (Adventure Island hack) [p1]">
+		<description>Sonic (Adventure Island hack) [p1]</description>
+		<rom name="Sonic (Adventure Island hack) [p1].nes" size="65552" crc="b1d30d7f" md5="e4589dd830cd44e167a247c4c33eb763" sha1="1f96f16766b473dbde880c37178b75d5664e39ec"/>
+	</machine>
+	<machine name="Sonic 3D Blast 6 [decrypted]">
+		<description>Sonic 3D Blast 6 [decrypted]</description>
+		<rom name="Sonic 3D Blast 6 [decrypted].nes" size="524304" crc="66d01f3c" md5="df629f05f58d2a2b849fce66edc19eaa" sha1="b9de86e7ba2a4cde1881593208835fc14eef353c"/>
+	</machine>
+	<machine name="Sonic 3D Blast 6 [h1] [decrypted]">
+		<description>Sonic 3D Blast 6 [h1] [decrypted]</description>
+		<rom name="Sonic 3D Blast 6 [h1] [decrypted].nes" size="524304" crc="7b9a42e6" md5="33e830888b1fb9827c11f7e7794bf579" sha1="4cf1fc14c514222750430679ad680fdf4d8b9f8a"/>
+	</machine>
+	<machine name="Spiderman 2 (Unl) [bad rom]">
+		<description>Spiderman 2 (Unl) [bad rom]</description>
+		<rom name="Spiderman 2 (Unl) [bad rom].nes" size="262160" crc="209a0483" md5="98f6e3de7846c2d079f6001e6f05fcfc" sha1="618aec3f4970c3ac034734f1ab508b5df2f03de3"/>
+	</machine>
+	<machine name="Strategist (Sachen) [U][!]">
+		<description>Strategist (Sachen) [U][!]</description>
+		<rom name="Strategist (Sachen) [U][!].nes" size="65664" crc="16caf76b" md5="22bed35cd56cf26573dd8da42ffba5bc" sha1="347c1eff0165ac7b93fbd64887d348b2f0b46601"/>
+	</machine>
+	<machine name="Strategist (Sachen) [U][a1][!]">
+		<description>Strategist (Sachen) [U][a1][!]</description>
+		<rom name="Strategist (Sachen) [U][a1][!].nes" size="65671" crc="7e8fb99a" md5="ff5baa38ec19dea71289d14ab287f3a9" sha1="afb13f9986e4f8362a5a856504f2ff44afc7065a"/>
+	</machine>
+	<machine name="Street Fighter V (20 peoples) (Unl) (Pirate Original)">
+		<description>Street Fighter V (20 peoples) (Unl) (Pirate Original)</description>
+		<rom name="Street Fighter V (20 peoples) (Unl) (Pirate Original).NES" size="393232" crc="805a81fe" md5="f60f6801b4f14946eb71768a8435f68a" sha1="ac965cd3d453bd91d24d1e71d35dba8eceadd73a"/>
+	</machine>
+	<machine name="Street Fighter VI (8 Peoples)(Unl)[!]">
+		<description>Street Fighter VI (8 Peoples)(Unl)[!]</description>
+		<rom name="Street Fighter VI (8 Peoples)(Unl)[!].nes" size="393232" crc="e359e148" md5="531ae8c492de0c7beff427538cf411b4" sha1="8d0cc5cca7b2134a2b4e30efb63f76f0d190503f"/>
+	</machine>
+	<machine name="Street Fighter VI 16 Peoples (Unl)[!]">
+		<description>Street Fighter VI 16 Peoples (Unl)[!]</description>
+		<rom name="Street Fighter VI 16 Peoples (Unl)[!].nes" size="393232" crc="d98e003a" md5="a952fb56cfc6ff4f711243f08dc90ff2" sha1="f198aae46ec36c21947099df3ad55100b2acebab"/>
+	</machine>
+	<machine name="Street Heroes (Sachen) [U][!]">
+		<description>Street Heroes (Sachen) [U][!]</description>
+		<rom name="Street Heroes (Sachen) [U][!].nes" size="1048673" crc="463f65a6" md5="ef953f441eac8b15ed23e5b57c37f04f" sha1="bfa884250a3ba2a5541121ec5d1a7c91ad6bb535"/>
+	</machine>
+	<machine name="Study Box (Fukutake Shoten) (J) [!]">
+		<description>Study Box (Fukutake Shoten) (J) [!]</description>
+		<rom name="Study Box (Fukutake Shoten) (J) [!].nes" size="262160" crc="cca69fbf" md5="8c2c926dac18d64a4f086e300979a81a" sha1="b19342f97738b0b8484149b0a5e71a9856151a7b"/>
+	</machine>
+	<machine name="Subor V8.0 (Ch)[!]">
+		<description>Subor V8.0 (Ch)[!]</description>
+		<rom name="Subor V8.0 (Ch)[!].nes" size="1048592" crc="d3d3c7b8" md5="69e923fc38eb7a5199cc0af5e5c402ce" sha1="54d11fd5f7916b0db95cb08ccd5871014a43e18d"/>
+	</machine>
+	<machine name="SuborV10 (Russian)">
+		<description>SuborV10 (Russian)</description>
+		<rom name="SuborV10 (Russian).nes" size="131088" crc="9c5ad56c" md5="2743f7d6922f514b1ca8dfab986eb593" sha1="786f2da157861fd6db2aaf84fe95cc83244594fa"/>
+	</machine>
+	<machine name="SuborWin 2000 (R)[!]">
+		<description>SuborWin 2000 (R)[!]</description>
+		<rom name="SuborWin 2000 (R)[!].nes" size="524304" crc="511a4c45" md5="776a6484593bb4ef83f2f6f7a0b88cd3" sha1="f4b77519d17ba7af317b29508d0583d0ea53a48b"/>
+	</machine>
+	<machine name="Sugoro Quest - Dice no Senshitachi (As) [a1]">
+		<description>Sugoro Quest - Dice no Senshitachi (As) [a1]</description>
+		<rom name="Sugoro Quest - Dice no Senshitachi (As) [a1].nes" size="393232" crc="7fbca3f4" md5="57037131194b654d3bda17f8614078f2" sha1="3ecb69ce9352ce7de1b1155ed8f842fce4bb0c15"/>
+	</machine>
+	<machine name="Suikan Pipe (Gimmick Bootleg) (As) [!]">
+		<description>Suikan Pipe (Gimmick Bootleg) (As) [!]</description>
+		<rom name="Suikan Pipe (Gimmick Bootleg) (As) [!].nes" size="393232" crc="e981a729" md5="9e0f708f5d1fc08a75e07dda77a9cb05" sha1="fb983f66b01d6b8431452e82e82629a776913653"/>
+	</machine>
+	<machine name="Super 1998 3-in-1 (NT-008 PCB)[p1][!]">
+		<description>Super 1998 3-in-1 (NT-008 PCB)[p1][!]</description>
+		<rom name="Super 1998 3-in-1 (NT-008 PCB)[p1][!].nes" size="1048592" crc="8a17afc8" md5="e299445bd034bbcb7357ee778f8fe6a2" sha1="5e5ce5cbd73ea88ee012c88c0e7be30130f55ebd"/>
+	</machine>
+	<machine name="Super 1998 3-in-1 (VT-850, NT-008 PCB)[p1][!]">
+		<description>Super 1998 3-in-1 (VT-850, NT-008 PCB)[p1][!]</description>
+		<rom name="Super 1998 3-in-1 (VT-850, NT-008 PCB)[p1][!].nes" size="1048592" crc="2c8114b3" md5="b434012455d37bb33fa7831373a8c580" sha1="fb947bf2f88e9cb8d33c0a7de8c243969bb54fdb"/>
+	</machine>
+	<machine name="Super 200-in-1 MD-8802 [p1][!]">
+		<description>Super 200-in-1 MD-8802 [p1][!]</description>
+		<rom name="Super 200-in-1 MD-8802 [p1][!].nes" size="2097168" crc="3ef85e19" md5="acb0387a52b0f8ceacd1a4806fd46860" sha1="275e94f5379d41f8dc416212ab8311b185cc811e"/>
+	</machine>
+	<machine name="Super 3-in-1 (NT-903)[p1][!]">
+		<description>Super 3-in-1 (NT-903)[p1][!]</description>
+		<rom name="Super 3-in-1 (NT-903)[p1][!].nes" size="1048592" crc="5a13d353" md5="9ebb9fb2669d90967ad5276705e87273" sha1="a45185242c252ca86b48ef9f25d6dcb6d7ad7302"/>
+	</machine>
+	<machine name="Super 3-in-1 (NT-934)[!]">
+		<description>Super 3-in-1 (NT-934)[!]</description>
+		<rom name="Super 3-in-1 (NT-934)[!].nes" size="1048592" crc="6103e8ac" md5="3bd8b5899e087c6ffdbbe8356736377f" sha1="310b4d703abba6d3a0dd3557d88f1074a73c52d4"/>
+	</machine>
+	<machine name="Super 308 3-in-1 (Super Game) [!]">
+		<description>Super 308 3-in-1 (Super Game) [!]</description>
+		<rom name="Super 308 3-in-1 (Super Game) [!].nes" size="1048592" crc="ea25db4e" md5="9cc2a57e7c46c03c661814b76cf5171f" sha1="9a2b1edf923677d0b9edc95b31f6c6442b84cf87"/>
+	</machine>
+	<machine name="Super 4-in-1 (KG899A PCB)[p1][!]">
+		<description>Super 4-in-1 (KG899A PCB)[p1][!]</description>
+		<rom name="Super 4-in-1 (KG899A PCB)[p1][!].nes" size="1048592" crc="cf827aeb" md5="2956a2cfc491d227c1dc13f229e6f52b" sha1="ecf92da465e5d7970cbf803368be2cca53e5a552"/>
+	</machine>
+	<machine name="Super 4-in-1 (KG899A PCB)[p2][!]">
+		<description>Super 4-in-1 (KG899A PCB)[p2][!]</description>
+		<rom name="Super 4-in-1 (KG899A PCB)[p2][!].nes" size="1048592" crc="5cff9958" md5="44e266434fe39ba369a3c5d7d32c94b2" sha1="ddcd379fa267439f59916fc661d43c4a60f08540"/>
+	</machine>
+	<machine name="Super 4-in-1 Fantasy Gun [p1][!]">
+		<description>Super 4-in-1 Fantasy Gun [p1][!]</description>
+		<rom name="Super 4-in-1 Fantasy Gun [p1][!].nes" size="196624" crc="8f5d0323" md5="a34595e6deb459dde48e6f306bd0f3e2" sha1="ce552c412ea9fb40078b5ef46760d031ceabce5c"/>
+	</machine>
+	<machine name="Super 6-in-1 (KY-6011)[p1][!]">
+		<description>Super 6-in-1 (KY-6011)[p1][!]</description>
+		<rom name="Super 6-in-1 (KY-6011)[p1][!].nes" size="1048592" crc="59de5a84" md5="5f44c9e80a9ba25b60848d666f0cfb54" sha1="8217829a25bf9b053f17c83ffe31b45002d85bd7"/>
+	</machine>
+	<machine name="Super 8-in-1 (with Rockin' Kats)(Unl)[U][!]">
+		<description>Super 8-in-1 (with Rockin' Kats)(Unl)[U][!]</description>
+		<rom name="Super 8-in-1 (with Rockin' Kats)(Unl)[U][!].nes" size="1048701" crc="c94d8c66" md5="4b449208f1f8d2bc808122ee3900da22" sha1="d3c23aab95af3bdf41745693c4b607e772347ff6"/>
+	</machine>
+	<machine name="Super Angry Birds (Unl)">
+		<description>Super Angry Birds (Unl)</description>
+		<rom name="Super Angry Birds (Unl).nes" size="393232" crc="335eebfa" md5="8fe41bc1b8432836c0410f51089455bd" sha1="97a971a977b626f3ae1f5beeae8bcb2276844f27"/>
+	</machine>
+	<machine name="Super Car (Ch)(full copyrights)[!]">
+		<description>Super Car (Ch)(full copyrights)[!]</description>
+		<rom name="Super Car (Ch)(full copyrights)[!].nes" size="40976" crc="4246935d" md5="83e9b7ff73b45602ab6f816412d4fd19" sha1="468f52d631a3cc216ac886b3ae82974a6763fe50"/>
+	</machine>
+	<machine name="Super Cartridge Version 1 - 4-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 1 - 4-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 1 - 4-in-1 (Sachen) [U][!].nes" size="393350" crc="747d7689" md5="916715a6ac2b8ccac89927bb7c85297e" sha1="404ebd7dc4c4e9d0068ae6556e59bbabec1c4c0d"/>
+	</machine>
+	<machine name="Super Cartridge Version 2 - 10-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 2 - 10-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 2 - 10-in-1 (Sachen) [U][!].nes" size="196734" crc="5b778c59" md5="ff3f08f6e671b9f8ff6b038b0ad08c38" sha1="1a2543277bff29bc3f30cdadf35bd70eb6668652"/>
+	</machine>
+	<machine name="Super Cartridge Version 3 - 8-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 3 - 8-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 3 - 8-in-1 (Sachen) [U][!].nes" size="524413" crc="934f4641" md5="172f5b6fab0f01aa5e9b888955a1c573" sha1="0a6c58cd79a021bd211c553d382775685d4b26d2"/>
+	</machine>
+	<machine name="Super Cartridge Version 4 - 6-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 4 - 6-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 4 - 6-in-1 (Sachen) [U][!].nes" size="524413" crc="db8bdf5b" md5="a5a33a2f7b5ae788f1584ae526adda07" sha1="877462a01ddca6b4c326b40f6d4acc9c1ebc985f"/>
+	</machine>
+	<machine name="Super Cartridge Version 5 - 7-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 5 - 7-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 5 - 7-in-1 (Sachen) [U][!].nes" size="393350" crc="24addba2" md5="38ba20f433b963d300fe19d3f4188c63" sha1="f599ab4669e043c14b9d1d9ebf5546f91314220b"/>
+	</machine>
+	<machine name="Super Cartridge Version 6 - 6-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 6 - 6-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 6 - 6-in-1 (Sachen) [U][!].nes" size="393341" crc="5362e90b" md5="7d6338523f69b2bff07f0db4024a8f33" sha1="a948cd8b2f329455df72f3d0a5bb4b7521aeb04c"/>
+	</machine>
+	<machine name="Super Cartridge Version 7 - 4-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 7 - 4-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 7 - 4-in-1 (Sachen) [U][!].nes" size="524413" crc="70a86671" md5="0e6ce09de6fc7e02c8e86b8b6bb525d0" sha1="0ce540a0546f3db91a6d5538dcafbeffd634c0d3"/>
+	</machine>
+	<machine name="Super Cartridge Version 8 - 4-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 8 - 4-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 8 - 4-in-1 (Sachen) [U][!].nes" size="393341" crc="756759a9" md5="b02f57cd71f983d82de6952318575c2e" sha1="c6a052c0cdfd483fbc4d3c2260e4e667e2103e3a"/>
+	</machine>
+	<machine name="Super Cartridge Version 9 - 3-in-1 (Sachen) [U][!]">
+		<description>Super Cartridge Version 9 - 3-in-1 (Sachen) [U][!]</description>
+		<rom name="Super Cartridge Version 9 - 3-in-1 (Sachen) [U][!].nes" size="524413" crc="11103ffb" md5="4c4bf4ec48f7040efa79e873306b49dc" sha1="3de117af7e5f942872bd6222767ba04608a8345b"/>
+	</machine>
+	<machine name="Super Contra 2 (As) [p1][G-135]">
+		<description>Super Contra 2 (As) [p1][G-135]</description>
+		<rom name="Super Contra 2 (As) [p1][G-135].nes" size="131088" crc="94cf6eb4" md5="0d2e8645d6b22d068d004f750030d88d" sha1="b9758988e0a8b82383a176d931709039a4c1ca91"/>
+	</machine>
+	<machine name="Super Contra 6 [p1]">
+		<description>Super Contra 6 [p1]</description>
+		<rom name="Super Contra 6 [p1].nes" size="262160" crc="77cf9075" md5="a2103f3a80c83221a8e4fc72d83a8a4e" sha1="d25b12c3350aa8b68b51a2603b9cca7ecbe09d10"/>
+	</machine>
+	<machine name="Super Contra 8 (Unl) [!]">
+		<description>Super Contra 8 (Unl) [!]</description>
+		<rom name="Super Contra 8 (Unl) [!].nes" size="262160" crc="c4c51052" md5="4daf62c745231f6b145739ff437bbc24" sha1="790124fe5653fdcbcace256b4c6cea9bfcb054af"/>
+	</machine>
+	<machine name="Super Contra II (R)[!]">
+		<description>Super Contra II (R)[!]</description>
+		<rom name="Super Contra II (R)[!].nes" size="131088" crc="6b780a8c" md5="67d189c2af562301363b8e9d1502dc18" sha1="b4a028b9414a540d6b0397536fe9da5fd6c1eeaa"/>
+	</machine>
+	<machine name="Super Fighter II' (Unl)[!]">
+		<description>Super Fighter II' (Unl)[!]</description>
+		<rom name="Super Fighter II' (Unl)[!].nes" size="262160" crc="227cffe3" md5="9a4eea842e0470ae4e95424fc898ea3b" sha1="9b0fd173da744d60749a97790459421effd7b5e4"/>
+	</machine>
+	<machine name="Super Game 360-in-1 (Unl)[U][!]">
+		<description>Super Game 360-in-1 (Unl)[U][!]</description>
+		<rom name="Super Game 360-in-1 (Unl)[U][!].nes" size="33554534" crc="985f4cad" md5="0b5b3c7c684c13c033e228f452199467" sha1="0d387d2f526021236038de3ae9226530f113ceeb"/>
+	</machine>
+	<machine name="Super HIK 300-in-1 (1994)">
+		<description>Super HIK 300-in-1 (1994)</description>
+		<rom name="Super HIK 300-in-1 (1994).nes" size="196624" crc="297019bf" md5="e3649c442894be09c7ba486aa4e887ca" sha1="c8ccd65462ec9f44dccdc47414d300aa53ae1b5e"/>
+	</machine>
+	<machine name="Super HIK 8-in-1 King fighter [U](Correct CHR Bank Order)[p1]">
+		<description>Super HIK 8-in-1 King fighter [U](Correct CHR Bank Order)[p1]</description>
+		<rom name="Super HIK 8-in-1 King fighter [U](Correct CHR Bank Order)[p1].nes" size="3145857" crc="39fc355d" md5="f9d438432ee02911d36a90e80cf250e2" sha1="09b6d74780be2b09a916e3c56611f20bf3b9a8f9"/>
+	</machine>
+	<machine name="Super Lion King 2, The (Unl)[!]">
+		<description>Super Lion King 2, The (Unl)[!]</description>
+		<rom name="Super Lion King 2, The (Unl)[!].nes" size="524304" crc="528f4fbf" md5="1c7358350e65ab8c3a4899a08f4446a7" sha1="3cf908681602638ba78f8bc05e5c5f516ef146b4"/>
+	</machine>
+	<machine name="Super Mali Hero Legends (Unl)[!]">
+		<description>Super Mali Hero Legends (Unl)[!]</description>
+		<rom name="Super Mali Hero Legends (Unl)[!].nes" size="262160" crc="9e324c87" md5="9c2b35af398656ae210a6194539af185" sha1="09815a637fc1d8ee0d984b12d1143d5402f519fb"/>
+	</machine>
+	<machine name="Super Mali Splash Bomb (Unl)[U][!]">
+		<description>Super Mali Splash Bomb (Unl)[U][!]</description>
+		<rom name="Super Mali Splash Bomb (Unl)[U][!].nes" size="163950" crc="360c47b3" md5="868cfde9496103ac610e558eaab278b9" sha1="88ddfc7e1a0199086262c6ed0aca320ea024085f"/>
+	</machine>
+	<machine name="Super Mario &amp; Sonic 2 (As) [!]">
+		<description>Super Mario &amp; Sonic 2 (As) [!]</description>
+		<rom name="Super Mario &amp; Sonic 2 (As) [!].nes" size="262160" crc="2221291e" md5="45e2d59bda1c014b87e38a06459c21ce" sha1="9c2562be31541ef7df69e4133daaa3e2531cdedf"/>
+	</machine>
+	<machine name="Super Mario Bros. 2j (Alt)(Unl)[U][!]">
+		<description>Super Mario Bros. 2j (Alt)(Unl)[U][!]</description>
+		<rom name="Super Mario Bros. 2j (Alt)(Unl)[U][!].nes" size="49278" crc="a53e66f3" md5="9b1c6e26a33489f6a362f5937442cb2e" sha1="d3f6b2e0854ac2a634e670ea4431bc55f334210a"/>
+	</machine>
+	<machine name="Super Mario Bros. 4 (FDS Conversion)(Unl)[!]">
+		<description>Super Mario Bros. 4 (FDS Conversion)(Unl)[!]</description>
+		<rom name="Super Mario Bros. 4 (FDS Conversion)(Unl)[!].nes" size="73744" crc="1c2c2578" md5="caffbbdcde4f5f2f2b9699d60f732235" sha1="385d3ac1c865a98119616405a804f62b861d76f8"/>
+	</machine>
+	<machine name="Super Mario Bros. 6 (Tiny Toon hack) [p1]">
+		<description>Super Mario Bros. 6 (Tiny Toon hack) [p1]</description>
+		<rom name="Super Mario Bros. 6 (Tiny Toon hack) [p1].nes" size="262160" crc="224ad539" md5="dd540949354eb170aaa4aef9e2a72d3b" sha1="b20c741f2dba8f1d17ab14595ad992097fc5a437"/>
+	</machine>
+	<machine name="Super Mario Bros. 9 (Unl)[!]">
+		<description>Super Mario Bros. 9 (Unl)[!]</description>
+		<rom name="Super Mario Bros. 9 (Unl)[!].nes" size="262160" crc="6b7e17df" md5="c407025bee8121b2ce63c4b6e00e31b4" sha1="c7ec1c2b80e86f554c713cd46f0d0cc65ad7c977"/>
+	</machine>
+	<machine name="Super Mario Bros. Mali Boss (Unl)[!]">
+		<description>Super Mario Bros. Mali Boss (Unl)[!]</description>
+		<rom name="Super Mario Bros. Mali Boss (Unl)[!].nes" size="262160" crc="af149301" md5="3b8e311cd88cbeb2fcd1e6226becbe3b" sha1="3f31e19bae27a198872284e8287b0f66f55fd0d4"/>
+	</machine>
+	<machine name="Super Mario Kart Raider (Top Rider Hack)[p1][!]">
+		<description>Super Mario Kart Raider (Top Rider Hack)[p1][!]</description>
+		<rom name="Super Mario Kart Raider (Top Rider Hack)[p1][!].nes" size="196624" crc="828575b8" md5="c1b20a8da507368c35698529be5c92d7" sha1="7d86a66acd88757bbcfb3dddbfe6f61e4ad40298"/>
+	</machine>
+	<machine name="Super Mario World (Full Version) [p1]">
+		<description>Super Mario World (Full Version) [p1]</description>
+		<rom name="Super Mario World (Full Version) [p1].nes" size="786448" crc="6d5953a8" md5="51119c9442135066f1b74ac2aba789ef" sha1="c44c73095790bd4a5de5588f9e4575e3c9229282"/>
+	</machine>
+	<machine name="Super Mario World 9 (Adventure Island hack) [p1]">
+		<description>Super Mario World 9 (Adventure Island hack) [p1]</description>
+		<rom name="Super Mario World 9 (Adventure Island hack) [p1].nes" size="262160" crc="d8274ba0" md5="4e1206f6769f676a029b3ce2751e212c" sha1="01e5d01f129a327704f9f27a30906e298617e810"/>
+	</machine>
+	<machine name="Super New Year Cart 15-in-1 (Hummer team)(Unl)[!]">
+		<description>Super New Year Cart 15-in-1 (Hummer team)(Unl)[!]</description>
+		<rom name="Super New Year Cart 15-in-1 (Hummer team)(Unl)[!].nes" size="2097168" crc="f6494ec3" md5="5f4b0f7caaa1e3c4053dda8dc99fbeee" sha1="15250268760a45d2465aa53335f4772c658dde09"/>
+	</machine>
+	<machine name="Super Pang (Sachen) [U][!]">
+		<description>Super Pang (Sachen) [U][!]</description>
+		<rom name="Super Pang (Sachen) [U][!].nes" size="65854" crc="a88294d9" md5="11134e2ef50cb894cc8e7245e536e946" sha1="978e317084557fe523b04dfa488aba195c0339a3"/>
+	</machine>
+	<machine name="Super Pang 2 (Sachen) [U][!]">
+		<description>Super Pang 2 (Sachen) [U][!]</description>
+		<rom name="Super Pang 2 (Sachen) [U][!].nes" size="98416" crc="b5fcdf5f" md5="ab52d698a6c3dcd3bfc64eac63a12ac9" sha1="fec92e3268a10cdf91b934ebd8311574b5d97289"/>
+	</machine>
+	<machine name="Super Real Bout 97 (Unl)[!]">
+		<description>Super Real Bout 97 (Unl)[!]</description>
+		<rom name="Super Real Bout 97 (Unl)[!].nes" size="393232" crc="e37e18b4" md5="42ab2a36bdcc193e272fb2131033ea47" sha1="5662e872689d401cd1eb1e2a7f1d0a82b166a01e"/>
+	</machine>
+	<machine name="Super Robin Hood [p1]">
+		<description>Super Robin Hood [p1]</description>
+		<rom name="Super Robin Hood [p1].nes" size="65552" crc="25baa274" md5="98b14fa59a32f1628b8853d79c2a71ef" sha1="3fad4dc29d1e3177a96bededed72afea39179240"/>
+	</machine>
+	<machine name="Super Shinobi, The (Super Game) [!]">
+		<description>Super Shinobi, The (Super Game) [!]</description>
+		<rom name="Super Shinobi, The (Super Game) [!].nes" size="524304" crc="2d989e27" md5="962074d08ed8e4e17fd36d6242fdc95c" sha1="36e6f1c6d178bffc68c66c5eb77ccdae2ff3ab82"/>
+	</machine>
+	<machine name="Super Sonic 5 (1997) (Unl) [!]">
+		<description>Super Sonic 5 (1997) (Unl) [!]</description>
+		<rom name="Super Sonic 5 (1997) (Unl) [!].nes" size="524304" crc="f1b8711a" md5="9fcb9a2ee8004137fe3a0e67d924fa5f" sha1="47a51bf72a1a51fb9dd0c146fce8c9666597685b"/>
+	</machine>
+	<machine name="Super TV Game 2-in-1 (VT-414 PCB)[p1][!]">
+		<description>Super TV Game 2-in-1 (VT-414 PCB)[p1][!]</description>
+		<rom name="Super TV Game 2-in-1 (VT-414 PCB)[p1][!].nes" size="1048592" crc="ed887b63" md5="a5cb4bd37f0bdc87342e05b3955cbed1" sha1="2eb95b9916db4f37d46418734bed6e9b7ffd41ef"/>
+	</machine>
+	<machine name="Super TV Game 3-in-1 (VT-414 PCB)[p1][!]">
+		<description>Super TV Game 3-in-1 (VT-414 PCB)[p1][!]</description>
+		<rom name="Super TV Game 3-in-1 (VT-414 PCB)[p1][!].nes" size="1048592" crc="342987d1" md5="76c61173acdcb5297ed874290d502ecd" sha1="45317a9e5308a147d9b9f33f896e0a7b17c67afd"/>
+	</machine>
+	<machine name="Super TV Test Ver. 4.12 (TR-04.U02, 28.05.(96) x2)(R)[!]">
+		<description>Super TV Test Ver. 4.12 (TR-04.U02, 28.05.(96) x2)(R)[!]</description>
+		<rom name="Super TV Test Ver. 4.12 (TR-04.U02, 28.05.(96) x2)(R)[!].nes" size="32784" crc="49e2cb58" md5="3c71b697d2bccfbcf42dc82bc74b31d6" sha1="9b21a3f4b560500982d89dd90b0f711fedcc879d"/>
+	</machine>
+	<machine name="Super_Contra_5_(C)_[!]">
+		<description>Super_Contra_5_(C)_[!]</description>
+		<rom name="Super_Contra_5_(C)_[!].nes" size="393232" crc="c985491c" md5="dd861559896cd1a99f010f1f3294c47f" sha1="8b2591e204d26f32c5e97741541dad204c0a30e4"/>
+	</machine>
+	<machine name="SuperArcade 110 (8-bit part 90-in-1 080-9603012 2009.09.25 Ver)(Unl)[U][!]">
+		<description>SuperArcade 110 (8-bit part 90-in-1 080-9603012 2009.09.25 Ver)(Unl)[U][!]</description>
+		<rom name="SuperArcade 110 (8-bit part 90-in-1 080-9603012 2009.09.25 Ver)(Unl)[U][!].nes" size="4194452" crc="a0407797" md5="b8125b7b32debb6a0dd847173580fe96" sha1="aa5fe33f9e6653e6f8bf97aeb49fc17769e0445a"/>
+	</machine>
+	<machine name="Sweet Home (J) [!]">
+		<description>Sweet Home (J) [!]</description>
+		<rom name="Sweet Home (J) [!].nes" size="262160" crc="40803bc5" md5="49dd966e8a0e17bae16bc3d393c9d742" sha1="54bfe479c12247e8b9996c6c5f331977035e1276"/>
+	</machine>
+	<machine name="Tai Wan Ma Que 16 (Mahjong 16) (Sachen) [U][!]">
+		<description>Tai Wan Ma Que 16 (Mahjong 16) (Sachen) [U][!]</description>
+		<rom name="Tai Wan Ma Que 16 (Mahjong 16) (Sachen) [U][!].nes" size="49264" crc="96674676" md5="6bb9f91bb087b6b84baaa8175c963d41" sha1="309f40c857ff8c19a57ac6aa4e115b36549e181f"/>
+	</machine>
+	<machine name="Takahashi Meijin no Bouken Shima III (J) [p1]">
+		<description>Takahashi Meijin no Bouken Shima III (J) [p1]</description>
+		<rom name="Takahashi Meijin no Bouken Shima III (J) [p1].nes" size="262160" crc="ad05c413" md5="cb3a385cfc35b9bc3c947536cf707f00" sha1="8fdd2943f024f918baf7ca2f16cfaf7c82359bc5"/>
+	</machine>
+	<machine name="Tank (Caltron, CN-16)(Unl)[!]">
+		<description>Tank (Caltron, CN-16)(Unl)[!]</description>
+		<rom name="Tank (Caltron, CN-16)(Unl)[!].nes" size="40976" crc="dea0f458" md5="4f561756e379a14018004501f5dbca71" sha1="b01074300ae2fb25ac06367288f7ac3c8475d575"/>
+	</machine>
+	<machine name="Tasac (Sachen) [U][!]">
+		<description>Tasac (Sachen) [U][!]</description>
+		<rom name="Tasac (Sachen) [U][!].nes" size="65653" crc="8849c0ad" md5="80fb93f75a8dc2a7e4a2148205cbe1bc" sha1="54d8bf0e17fde1cba99c86c0c6e06452078261bb"/>
+	</machine>
+	<machine name="Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (J) [a1] [!]">
+		<description>Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (J) [a1] [!]</description>
+		<rom name="Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (J) [a1] [!].nes" size="262160" crc="ad9c24f5" md5="cebaa52f6c15c1e75aaecc9c3aede4c4" sha1="ed88acc4416c9843dc27e8882a988a3e87f03b4f"/>
+	</machine>
+	<machine name="Tecmo NBA Basketball (U) [p1]">
+		<description>Tecmo NBA Basketball (U) [p1]</description>
+		<rom name="Tecmo NBA Basketball (U) [p1].nes" size="393232" crc="2ec39698" md5="f51538d005fc203d72ef18280002ea9b" sha1="359eced9e67c5f7d0388ff86db8dd66603af60c2"/>
+	</machine>
+	<machine name="Tekken 3 [p1][h1]">
+		<description>Tekken 3 [p1][h1]</description>
+		<rom name="Tekken 3 [p1][h1].nes" size="393232" crc="c61358ab" md5="12cd186f140b93c1d955d45de3f05029" sha1="e50319616f239a9c169cff7131a81a87bad7c9ad"/>
+	</machine>
+	<machine name="Teletubbies 2000 (Unl)[!]">
+		<description>Teletubbies 2000 (Unl)[!]</description>
+		<rom name="Teletubbies 2000 (Unl)[!].nes" size="262160" crc="3c0e35c3" md5="d24b28667cfcc596207542d03e8f1032" sha1="3dba1134076d80e8a43133a3f502e85a696549ed"/>
+	</machine>
+	<machine name="Terminator 2 - Judgment Day (U) [p1]">
+		<description>Terminator 2 - Judgment Day (U) [p1]</description>
+		<rom name="Terminator 2 - Judgment Day (U) [p1].nes" size="262160" crc="2dfabd94" md5="6ae08a6bb04fc3d0a0b0c0e80cf2097b" sha1="853b90d5763b37505745758dbc4d2e7d83f60c57"/>
+	</machine>
+	<machine name="Test Ver. 1.01 Dlya Proverki TV Pristavok (RT-01, by SS aka Snake)(Unl)[U][!]">
+		<description>Test Ver. 1.01 Dlya Proverki TV Pristavok (RT-01, by SS aka Snake)(Unl)[U][!]</description>
+		<rom name="Test Ver. 1.01 Dlya Proverki TV Pristavok (RT-01, by SS aka Snake)(Unl)[U][!].nes" size="18590" crc="4b90892e" md5="45f1744967394d222beb5c8af72171a4" sha1="3f09a766b50686d981cae3e0aa723d60f4942438"/>
+	</machine>
+	<machine name="Tetris (Pyramid Game Card)(Unl)[!]">
+		<description>Tetris (Pyramid Game Card)(Unl)[!]</description>
+		<rom name="Tetris (Pyramid Game Card)(Unl)[!].nes" size="40976" crc="be1da4c7" md5="6b6c7ba6ca55bcca3fcc39ed1ca7e9cc" sha1="84e706bdcf1eb503fe0de674871b1b6eb30e7053"/>
+	</machine>
+	<machine name="Text Editor (Russian)">
+		<description>Text Editor (Russian)</description>
+		<rom name="Text Editor (Russian).nes" size="32784" crc="66cc0f66" md5="a4a43961ae1a5ce8ee1484175405850a" sha1="c2a8394bb0c4b9af2516cf6dd267d2e05f1780b6"/>
+	</machine>
+	<machine name="Thunderbolt 2 (As) [!]">
+		<description>Thunderbolt 2 (As) [!]</description>
+		<rom name="Thunderbolt 2 (As) [!].nes" size="262160" crc="ce1813c9" md5="0952c5d5755103824f274ec04bdf6051" sha1="f41c9327dfb08a28480fa3408566b2365f54bb32"/>
+	</machine>
+	<machine name="Tiny Toon 4 (Bugs Bunny Birthday Blowout, The hack) [p1]">
+		<description>Tiny Toon 4 (Bugs Bunny Birthday Blowout, The hack) [p1]</description>
+		<rom name="Tiny Toon 4 (Bugs Bunny Birthday Blowout, The hack) [p1].nes" size="262160" crc="52eb0f0f" md5="29f63778a091b4c5e8f5374384545cd1" sha1="f9c01ef29d208fddeb43493e910bb21382f3d7c3"/>
+	</machine>
+	<machine name="Tiny Toon Adentures 6 (Pirate Original) [!]">
+		<description>Tiny Toon Adentures 6 (Pirate Original) [!]</description>
+		<rom name="Tiny Toon Adentures 6 (Pirate Original) [!].nes" size="524304" crc="476cb108" md5="ef54e6c462c095c8a5c835026aa9407a" sha1="c1648e8855f6947af28ab75a96104702a0f9b123"/>
+	</machine>
+	<machine name="Toita Basketball (Taito Basketball Hack) [p1]">
+		<description>Toita Basketball (Taito Basketball Hack) [p1]</description>
+		<rom name="Toita Basketball (Taito Basketball Hack) [p1].nes" size="262160" crc="66020d9e" md5="c267298d7c7173985be2d150e64255ea" sha1="f11c1240a664c5424a8c7eba7eeb42343c792350"/>
+	</machine>
+	<machine name="Top Gun (R)[!]">
+		<description>Top Gun (R)[!]</description>
+		<rom name="Top Gun (R)[!].nes" size="131088" crc="01e6a9e8" md5="55378a3a16d832f58bfda2484a29274e" sha1="143cfc0e870b014371f7db1797bd9cac800298eb"/>
+	</machine>
+	<machine name="Top Gun III (Flight of the Intruder hack) [p1]">
+		<description>Top Gun III (Flight of the Intruder hack) [p1]</description>
+		<rom name="Top Gun III (Flight of the Intruder hack) [p1].nes" size="131088" crc="e7e6db9c" md5="207525d5d74c362ff208a2959e9469e3" sha1="334e4ff5070846b5db6f1f0d1eba80cb1a1141c8"/>
+	</machine>
+	<machine name="Toy Story (Unl)[!]">
+		<description>Toy Story (Unl)[!]</description>
+		<rom name="Toy Story (Unl)[!].nes" size="262160" crc="ccfacfcd" md5="cb52358b00989f86ff0e6f43c9e1ad48" sha1="dd59bf406a7c245c3a0f621580df8a1def830692"/>
+	</machine>
+	<machine name="Twin Eagle (Sachen) (72 pin cart) [U][!]">
+		<description>Twin Eagle (Sachen) (72 pin cart) [U][!]</description>
+		<rom name="Twin Eagle (Sachen) (72 pin cart) [U][!].nes" size="65657" crc="d7a93dfb" md5="2e581ea6a36cc1cf1cbc2d31cdca1a4e" sha1="14195f66e5a821d801154f1f796c273a99258039"/>
+	</machine>
+	<machine name="Ugadayka (Russian)">
+		<description>Ugadayka (Russian)</description>
+		<rom name="Ugadayka (Russian).nes" size="40976" crc="140920cb" md5="d905a662e29f295e53069701356b2799" sha1="08034fc366e7300e749207c0603e0032213ea54a"/>
+	</machine>
+	<machine name="Ultimate Mortal Kombat 3 (Unl) [!]">
+		<description>Ultimate Mortal Kombat 3 (Unl) [!]</description>
+		<rom name="Ultimate Mortal Kombat 3 (Unl) [!].nes" size="393232" crc="ec37d719" md5="1607bc5fad204039bee4226399905bdd" sha1="49a3a2a8fea715ff9388615237a5c8021891b501"/>
+	</machine>
+	<machine name="Ultimate Mortal Kombat 3 14 people (Unl)[!]">
+		<description>Ultimate Mortal Kombat 3 14 people (Unl)[!]</description>
+		<rom name="Ultimate Mortal Kombat 3 14 people (Unl)[!].nes" size="393232" crc="a80d37c8" md5="a8ef22d76d553c8a9561ff302a678ce4" sha1="30e11e205c599ab34a3858ed708155c1d3299347"/>
+	</machine>
+	<machine name="Ultimate Mortal Kombat 4 (Unl)[!]">
+		<description>Ultimate Mortal Kombat 4 (Unl)[!]</description>
+		<rom name="Ultimate Mortal Kombat 4 (Unl)[!].nes" size="393232" crc="df99576a" md5="c685719fef52850a646b01019a686d26" sha1="8376da447f06eb4cd6db2e4e94e6239d38dfbdb4"/>
+	</machine>
+	<machine name="Urban Strike (Cobra Mission Hack) [p1][hM01]">
+		<description>Urban Strike (Cobra Mission Hack) [p1][hM01]</description>
+		<rom name="Urban Strike (Cobra Mission Hack) [p1][hM01].nes" size="262160" crc="fd02591b" md5="398aab6b1e153ced1f71e4d4447349b6" sha1="f6321559382e0bc5ce3e48030bd20feb0670578b"/>
+	</machine>
+	<machine name="Videopoker Bonza (Rev A)(R)[!]">
+		<description>Videopoker Bonza (Rev A)(R)[!]</description>
+		<rom name="Videopoker Bonza (Rev A)(R)[!].nes" size="131088" crc="73013f38" md5="cfc3b01fcfa3020dc5760957dfb592e2" sha1="991f83520f2b0a8f257e7629b9864aec9a260310"/>
+	</machine>
+	<machine name="Videopoker Bonza (Rev B)(R)[!]">
+		<description>Videopoker Bonza (Rev B)(R)[!]</description>
+		<rom name="Videopoker Bonza (Rev B)(R)[!].nes" size="131088" crc="9d9a2847" md5="edd82ba0c5357e3f1ec7c377aae73b0d" sha1="07ef738df7f0415f92b68eb14135f7e73bc507e9"/>
+	</machine>
+	<machine name="Volshebnaya Palitra (Russian) [p1]">
+		<description>Volshebnaya Palitra (Russian) [p1]</description>
+		<rom name="Volshebnaya Palitra (Russian) [p1].nes" size="32784" crc="1f69e5ae" md5="3bfe099d81750014a1fa5748daeed2d1" sha1="028bfd4d3228343a992cecf5fdd9d4805d8a3cc2"/>
+	</machine>
+	<machine name="Warioland II (Unl)[!]">
+		<description>Warioland II (Unl)[!]</description>
+		<rom name="Warioland II (Unl)[!].nes" size="786448" crc="0ad30874" md5="9f4b3d3d882f5b940b7c8639ba6f718b" sha1="a54730d1d7ab86c2f539a015aec5577631e6cff3"/>
+	</machine>
+	<machine name="Windows 2000 (Ch)[!]">
+		<description>Windows 2000 (Ch)[!]</description>
+		<rom name="Windows 2000 (Ch)[!].nes" size="524304" crc="ff62bd18" md5="ee0387a8b0bb073bebaba8a1b76f2479" sha1="8173f01073b790f7a8a36652ec53eca237d99451"/>
+	</machine>
+	<machine name="World Hero (Unl)(TV System Select)[!]">
+		<description>World Hero (Unl)(TV System Select)[!]</description>
+		<rom name="World Hero (Unl)(TV System Select)[!].nes" size="655376" crc="038b1ec3" md5="aaaf8f791b5fade10d376353d94c5142" sha1="bd85993408ce3bdcc466c9b8f3c446e34d762811"/>
+	</machine>
+	<machine name="World of Card Game, The (Sachen) [U][!]">
+		<description>World of Card Game, The (Sachen) [U][!]</description>
+		<rom name="World of Card Game, The (Sachen) [U][!].nes" size="24686" crc="8e17e618" md5="386760401aea54a83242c9d34637888f" sha1="1cac2cf6a33a048c918f117d461cf35221f1418f"/>
+	</machine>
+	<machine name="Wrecking Crew (JUE)[p1]">
+		<description>Wrecking Crew (JUE)[p1]</description>
+		<rom name="Wrecking Crew (JUE)[p1].nes" size="40976" crc="25d9091a" md5="9a5bd4a2da6a7e47269136d776569829" sha1="2f0d22b1aab74336cd3c6d33cd0c2b6ff784341b"/>
+	</machine>
+	<machine name="Xing Ji Wu Shi - Super Fighter (As) [decrypted]">
+		<description>Xing Ji Wu Shi - Super Fighter (As) [decrypted]</description>
+		<rom name="Xing Ji Wu Shi - Super Fighter (As) [decrypted].nes" size="524304" crc="4ae5dc6a" md5="476dfa08dd353fd2627e538c172b7b79" sha1="83643a89935b3f2565132795668018c8e950856d"/>
+	</machine>
+	<machine name="Yang Jia Jiang - Yang's Troops [decrypted]">
+		<description>Yang Jia Jiang - Yang's Troops [decrypted]</description>
+		<rom name="Yang Jia Jiang - Yang's Troops [decrypted].nes" size="524304" crc="8ef2cab9" md5="892ba5dd378dd6ef91c12bb4bb8e4209" sha1="3b1a67122114ee7ddcb82c22cd968f37e5449381"/>
+	</machine>
+	<machine name="Yin He Shi Dai (As) [decrypted]">
+		<description>Yin He Shi Dai (As) [decrypted]</description>
+		<rom name="Yin He Shi Dai (As) [decrypted].nes" size="524304" crc="e81fb227" md5="ebbbcd9400051a2a641732972373da86" sha1="4b9c644eb7fd454db04d50b804b4eddbcc574ae5"/>
+	</machine>
+	<machine name="Yong Zhe Dou E Long - Dragon Quest 5 [decrypted]">
+		<description>Yong Zhe Dou E Long - Dragon Quest 5 [decrypted]</description>
+		<rom name="Yong Zhe Dou E Long - Dragon Quest 5 [decrypted].nes" size="262160" crc="13a90e80" md5="e9176e3479683be674365b9f2aea9413" sha1="f0174c987f14bb986af736d0ea3c941574135f04"/>
+	</machine>
+	<machine name="Yong Zhe Dou E Long - Dragon Quest 7 [decrypted]">
+		<description>Yong Zhe Dou E Long - Dragon Quest 7 [decrypted]</description>
+		<rom name="Yong Zhe Dou E Long - Dragon Quest 7 [decrypted].nes" size="1048592" crc="6a102f20" md5="a712f218620d947b94918e2854fd28b2" sha1="cc678291cf6eb32d498493f93d88d6c04fe12cfc"/>
+	</machine>
+	<machine name="Yu Zhou Zhan Jiang - Space General (As) [decrypted]">
+		<description>Yu Zhou Zhan Jiang - Space General (As) [decrypted]</description>
+		<rom name="Yu Zhou Zhan Jiang - Space General (As) [decrypted].nes" size="524304" crc="5cb2c74a" md5="7d06030547fe2891e8a4bdfe9b9b35ce" sha1="a4d5b44f28a97ef30d104682e40e81ad2fa32068"/>
+	</machine>
+	<machine name="Yuu Yuu Hakusho 97 V (Unl) [!]">
+		<description>Yuu Yuu Hakusho 97 V (Unl) [!]</description>
+		<rom name="Yuu Yuu Hakusho 97 V (Unl) [!].nes" size="393232" crc="7407b7b9" md5="f8b3a12b29e627d8465faf86164b4d92" sha1="977669de560e1729bb0aaa4b0355708ec1ec1162"/>
+	</machine>
+	<machine name="Zanac_(FDS_Conversion,_Whirlwind_Manu)(Unl)[U][!]">
+		<description>Zanac_(FDS_Conversion,_Whirlwind_Manu)(Unl)[U][!]</description>
+		<rom name="Zanac_(FDS_Conversion,_Whirlwind_Manu)(Unl)[U][!].nes" size="49282" crc="deb39c8a" md5="052e00cff980f40009b86ca28972692d" sha1="efeb306c25060bbda257a62b0303671abbf307f3"/>
+	</machine>
+	<machine name="Zelda (ES-1096)(Ch)[U][!]">
+		<description>Zelda (ES-1096)(Ch)[U][!]</description>
+		<rom name="Zelda (ES-1096)(Ch)[U][!].nes" size="2097259" crc="7e5d38bc" md5="27c2f42fc219e0360e4d3ae448cb0f29" sha1="9f5844bc73e7215f48678da179d0a8b3d53b2303"/>
+	</machine>
+	<machine name="Zhan Guo Qun Xiong Zhuan (As) [decrypted]">
+		<description>Zhan Guo Qun Xiong Zhuan (As) [decrypted]</description>
+		<rom name="Zhan Guo Qun Xiong Zhuan (As) [decrypted].nes" size="524304" crc="aeedb0b6" md5="aec60333cb6ddf735a973257366710b6" sha1="9680484cd6a1aba6164bb07a7b556c1a90b1d9d7"/>
+	</machine>
+</datafile>
