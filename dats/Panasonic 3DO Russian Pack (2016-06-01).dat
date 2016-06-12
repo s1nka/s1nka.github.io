@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Panasonic 3DO Russian Pack</name>
+		<description>Panasonic 3DO Russian Pack</description>
+		<category>Standard DatFile</category>
+		<version>2016-06-01</version>
+		<date>2016-06-01</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>Dat by s1n</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="2in1 Blade Force + Game Guru [T+Rus 3doplanet.ru 1.0]">
+		<description>2in1 Blade Force + Game Guru [T+Rus 3doplanet.ru 1.0]</description>
+		<rom name="2in1 Blade Force + Game Guru [T+Rus 3doplanet.ru 1.0].iso" size="513507328" crc="973bd8db" md5="3bb0f80efca3f1aa8ab4f6f379b6c398" sha1="ec561833b29d984ed88355ebef9cf5fc6a23b317"/>
+	</machine>
+	<machine name="Alone in the Dark 2 [T+Rus FantasyNik, aspyd]">
+		<description>Alone in the Dark 2 [T+Rus FantasyNik, aspyd]</description>
+		<rom name="Alone in the Dark 2 [T+Rus FantasyNik, aspyd].iso" size="587673600" crc="f61fd0dc" md5="fe686ef8386ce0a5f96e1d9ac4d9e506" sha1="3ba6ff177782fd7611822f48fefd02dd54d28b3b"/>
+	</machine>
+	<machine name="Bishoujo Senshi Sailor Moon S [T+Rus ПАУК]">
+		<description>Bishoujo Senshi Sailor Moon S [T+Rus ПАУК]</description>
+		<rom name="Bishoujo Senshi Sailor Moon S [T+Rus ПАУК].cue" size="135" crc="902b5fbf" md5="b9a383b2913539ad839e07f5fa574fc3" sha1="8f3d4e87a6adcc27d5513bdfd22c71e4f86d2448"/>
+		<rom name="Bishoujo Senshi Sailor Moon S [T+Rus ПАУК].iso" size="597999616" crc="57ca180e" md5="4d205739bf1fe5aead47f7d0185c3cc5" sha1="5dee29b8cc03159fd57e7a6602e1f3a28ad6620a"/>
+	</machine>
+	<machine name="Doctor Hauzer [T+Rus 3doplanet.ru]">
+		<description>Doctor Hauzer [T+Rus 3doplanet.ru]</description>
+		<rom name="Doctor Hauzer [T+Rus 3doplanet.ru].cue" size="100" crc="1b0e4b08" md5="5228f8e0ed6a279f7794f13a09047fe9" sha1="02a9ccb243adce89a7fb39b41e54a2f067922257"/>
+		<rom name="Doctor Hauzer [T+Rus 3doplanet.ru].iso" size="262758400" crc="37e94a5b" md5="7bb8c4b54e53e431e374b18ce397e80a" sha1="4de6bd41c66986736e1684354510165da25abe79"/>
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins [T+Rus FantasyNik,aspyd,Swilly 0.8]">
+		<description>Dragon Lore - The Legend Begins [T+Rus FantasyNik,aspyd,Swilly 0.8]</description>
+		<rom name="Dragon Lore - The Legend Begins [T+Rus FantasyNik,aspyd,Swilly 0.8] CD1.iso" size="676458496" crc="5aff4fe2" md5="5ef5865aacd4ca0979ed57aec9e73ffa" sha1="7c2a6e13b8146a04b637c0b69a31718096620fa2"/>
+		<rom name="Dragon Lore - The Legend Begins [T+Rus FantasyNik,aspyd,Swilly 0.8] CD2.iso" size="676458496" crc="99bb79da" md5="da5d09dbe9c9c6df0cedec20e8a33f31" sha1="5ad01d00d993f0aaeab3770ba7a6793e9b2fee07"/>
+		<rom name="Dragon Lore - The Legend Begins [T+Rus FantasyNik,aspyd,Swilly 0.8] CD3.iso" size="676458496" crc="f8a4a4f4" md5="0a44520bef1671a21651c938eeef7fef" sha1="e210eba225c0f5824a58c337effa2b0186364fff"/>
+	</machine>
+	<machine name="Flashback - The Quest for Identity [T+Rus ПАУК]">
+		<description>Flashback - The Quest for Identity [T+Rus ПАУК]</description>
+		<rom name="Flashback - The Quest for Identity [T+Rus ПАУК].cue" size="140" crc="f74c2998" md5="24bd9b6a7fa36910c102cb04d4563497" sha1="80c28d87cceedefce7baf065a13e2395eb2ad79a"/>
+		<rom name="Flashback - The Quest for Identity [T+Rus ПАУК].iso" size="262758400" crc="fbff24d5" md5="9cf85e77c3edfb56ae27242e6131dec0" sha1="c50647a1bd382711a9d77613c57bb837f581d20f"/>
+	</machine>
+	<machine name="Lost Eden [T+Rus aspyd,Everyday,samael,Silentman,Swilly,Versus]">
+		<description>Lost Eden [T+Rus aspyd,Everyday,samael,Silentman,Swilly,Versus]</description>
+		<rom name="Lost Eden [T+Rus aspyd,Everyday,samael,Silentman,Swilly,Versus].iso" size="669302784" crc="af54f2b8" md5="e4f8bf2b004f3170cfff2252ce9bfb1f" sha1="9984366e0c9a0a664a575d57dccc081f4a083c0c"/>
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The [T+Rus 3doplanet.ru]">
+		<description>Lost Files of Sherlock Holmes, The [T+Rus 3doplanet.ru]</description>
+		<rom name="Lost Files of Sherlock Holmes, The [T+Rus 3doplanet.ru].iso" size="662601728" crc="7dbe4c28" md5="99e6a3c81888977e293134e4395655fe" sha1="5fafc8884fe3d654ef6afe0bb81921515aacc156"/>
+	</machine>
+	<machine name="Lucienne's Quest [T+Rus ПАУК]">
+		<description>Lucienne's Quest [T+Rus ПАУК]</description>
+		<rom name="Lucienne's Quest [T+Rus ПАУК].iso" size="199843840" crc="4cce56bb" md5="0d6bf40bc11cf6d468d57421bbd99a38" sha1="c2a2d8503095c47592f98e9415cb02b7594b5e80"/>
+	</machine>
+	<machine name="PO'ed [T+Rus ПАУК]">
+		<description>PO'ed [T+Rus ПАУК]</description>
+		<rom name="PO'ed [T+Rus ПАУК].cue" size="111" crc="e9ed971c" md5="7caa0504f1e58f642023a1c7922f7013" sha1="5c1272ac0e82030f6fd270b711ac81e4b13556fc"/>
+		<rom name="PO'ed [T+Rus ПАУК].iso" size="420352000" crc="d130f50c" md5="e47036ab51ccbdcdb126bad88cdf44f8" sha1="181fbc0eb80dd786aaa01e8ae70776505e6bdc27"/>
+	</machine>
+	<machine name="Putt-Putt Joins the Parade [T+Rus Фаргус]">
+		<description>Putt-Putt Joins the Parade [T+Rus Фаргус]</description>
+		<rom name="Putt-Putt Joins the Parade [T+Rus Фаргус].iso" size="126443520" crc="c3ffec12" md5="508285c931222898a17a59b1c6a407c6" sha1="0b02042e738bc3d1797e989e259df0dadd24c3df"/>
+	</machine>
+</datafile>
