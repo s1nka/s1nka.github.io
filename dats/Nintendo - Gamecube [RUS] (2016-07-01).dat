@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Gamecube Russian Pack</name>
+		<description>Nintendo - Gamecube Russian Pack</description>
+		<category>Standard DatFile</category>
+		<version>2016-07-01</version>
+		<date>2016-07-01</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>Dat by s1n</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Legend of Zelda, The - Four Swords Adventures (Europe) [T+Rus zelda64rus 1.0]">
+		<description>Legend of Zelda, The - Four Swords Adventures (Europe) [T+Rus zelda64rus 1.0]</description>
+		<rom name="Legend of Zelda, The - Four Swords Adventures (Europe) [T+Rus zelda64rus 1.0].iso" size="485288576" crc="f2408540" md5="d75855b29aeb4ceb1ef6abe9346cf9e6" sha1="c03f3a3684af3512ceed86e09680b0e1d079b7f7"/>
+	</machine>
+	<machine name="Legend of Zelda, The - The Wind Waker (USA) [T+Rus zelda64rus 1.21]">
+		<description>Legend of Zelda, The - The Wind Waker (USA) [T+Rus zelda64rus 1.21]</description>
+		<rom name="Legend of Zelda, The - The Wind Waker (USA) [T+Rus zelda64rus 1.21].iso" size="1459978240" crc="1c0fb4de" md5="5949b64876c28bcacc2908d7729768b4" sha1="70f810ccad2e1291e95b193475bea212395085e1"/>
+	</machine>
+	<machine name="Legend of Zelda, The - Twilight Princess (Europe) [T+Rus zelda64rus 2.0]">
+		<description>Legend of Zelda, The - Twilight Princess (Europe) [T+Rus zelda64rus 2.0]</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (Europe) [T+Rus zelda64rus 2.0].iso" size="1051279271" crc="d13e7931" md5="c5c3dd85f402be97d980c47e1267324f" sha1="d5e5a051750736be118bb6bcab23b316f4b6e19b"/>
+	</machine>
+	<machine name="Resident Evil (USA) [T+Rus Russian Studio Video 7 v0.9]">
+		<description>Resident Evil (USA) [T+Rus Russian Studio Video 7 v0.9]</description>
+		<rom name="Resident Evil (USA) (Disc 1) [T+Rus Russian Studio Video 7 v0.9].iso" size="1232454112" crc="8c5a4ce1" md5="fdb7e8853ef1ecb112b2d08b2d15abf5" sha1="f13e1cae5bd7a50ddc495336418b3ea026556cac"/>
+		<rom name="Resident Evil (USA) (Disc 2) [T+Rus Russian Studio Video 7 v0.9].iso" size="1384767232" crc="0971ade2" md5="236e28cb93f26038619d84c8302e71bd" sha1="3c12ff3c58cb77214267817c45f417f74efcc9c3"/>
+	</machine>
+	<machine name="Resident Evil 2 (Europe) [T+Rus cetygamer]">
+		<description>Resident Evil 2 (Europe) [T+Rus cetygamer]</description>
+		<rom name="Resident Evil 2 (Europe) [T+Rus cetygamer].iso" size="1459978240" crc="ecfbb7cc" md5="5234c89f504f3ebe61faf529e66391bf" sha1="6ea2df9a99ce9ee5047f56d7d6b0b6b56e41d3ad"/>
+	</machine>
+	<machine name="Resident Evil 3 - Nemesis (USA) [T+Rus Ivan89el]">
+		<description>Resident Evil 3 - Nemesis (USA) [T+Rus Ivan89el]</description>
+		<rom name="Resident Evil 3 - Nemesis (USA) [T+Rus Ivan89el].iso" size="1459978240" crc="a92e7f37" md5="78e195f3e0eab6652a70cb98d9b9fafd" sha1="0c03673540898f9d573d9c2558b180f8af3d1e23"/>
+	</machine>
+	<machine name="Resident Evil Zero (USA) [T+Rus Russian Studio Video 7 v1.0]">
+		<description>Resident Evil Zero (USA) [T+Rus Russian Studio Video 7 v1.0]</description>
+		<rom name="Resident Evil Zero (USA) (Disc 1) [T+Rus Russian Studio Video 7 v1.0].iso" size="1384153664" crc="8bf1b691" md5="2fa170e740da4caf7dad3da01acecebb" sha1="e64c180dc6f016ce03229671beee43b2b6bf889d"/>
+		<rom name="Resident Evil Zero (USA) (Disc 2) [T+Rus Russian Studio Video 7 v1.0].iso" size="1351830464" crc="5304edec" md5="1c22cce85e92af4135a1a8539d02d6af" sha1="89bdb39673ad7de188799ddc95e51c5f901d7581"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (Europe) [T+Rus zerolabs 1.0.7]">
+		<description>Skies of Arcadia Legends (Europe) [T+Rus zerolabs 1.0.7]</description>
+		<rom name="Skies of Arcadia Legends (Europe) [T+Rus zerolabs 1.0.7].iso" size="1459978240" crc="a8c6e518" md5="57b3f57f1729c0ecf5e3212242c83350" sha1="102d09e3e4b0b22573605e5cd0e6767a3a77a9fc"/>
+	</machine>
+	<machine name="Sonic Adventure 2 - Battle (Europe) [T+Rus Sonic SCANF]">
+		<description>Sonic Adventure 2 - Battle (Europe) [T+Rus Sonic SCANF]</description>
+		<rom name="Sonic Adventure 2 - Battle (Europe) [T+Rus Sonic SCANF].iso" size="1459978240" crc="805c531a" md5="6033b46523ade6c8d262afc379a632f2" sha1="169da2e84ba4320a08a429f822d417cf38d6d51d"/>
+	</machine>
+</datafile>
